@@ -1,0 +1,2 @@
+Sep 27, 2016 4:36:07 AM com.kodiak.qa.testsuites.CrossCarrierPTTBasicSearchTestCase crossCarrier_SearchSubscriberNameInSubscriberWorkArea
+INFO: Test Purpose : Search a subcriber name in Subscriber Work area for Cross Carrier Client

@@ -1,0 +1,4 @@
+Sep 27, 2016 4:23:25 AM com.kodiak.qa.testsuites.CrossCarrierPTTFunctionalityValidation crossCarrier_ValidatingDisabledAllFilterIfNoConatctsAfterSelectingViewAllContactTab
+INFO: Test Purpose:  Validating the All Filter is in Disabled State when their is no Contacts Present for the Cross Carrier after selecting 'View All Contacts' tab
+Sep 27, 2016 4:23:33 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDisabledAllFilterForSubscriberIfNoContactsForViewAllContacts
+INFO: Successfully validated, 'All Filter' located and it is in 'Disabled State'

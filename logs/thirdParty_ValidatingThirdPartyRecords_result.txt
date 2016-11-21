@@ -1,0 +1,2 @@
+Sep 27, 2016 12:08:03 AM com.kodiak.qa.testsuites.ThirdPartyProfileValidation thirdParty_ValidatingThirdPartyRecords
+INFO: Test Purpose:  Validating the ThirdParty Total Records

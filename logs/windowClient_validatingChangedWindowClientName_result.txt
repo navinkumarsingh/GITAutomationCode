@@ -1,0 +1,2 @@
+Apr 25, 2016 10:00:19 PM com.kodiak.qa.testsuites.WindowClientProfileValidation windowClient_validatingChangedWindowClientName
+INFO: Test purpose: Validating the WindowClient Name Cleared and assigned a New Name

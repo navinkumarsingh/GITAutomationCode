@@ -1,0 +1,4 @@
+Sep 23, 2016 5:43:35 PM com.kodiak.qa.testsuites.StandardGroupTestCases validatingTotalGroupMemberCount
+INFO: Test Purpose: Validation of Total group member Count
+Sep 23, 2016 5:43:49 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalGroupMemberCount
+INFO: Failed to Validate that Group Contact Count is 2

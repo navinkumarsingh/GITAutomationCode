@@ -1,0 +1,10 @@
+Nov 08, 2016 7:10:31 PM com.kodiak.qa.testsuites.LMRSubscriberAndLMRGroupValidation lMRGroup_validatingLMRGroupWorkAreaDetails
+INFO: Test Purpose: Validate LMR Group Work Area Details
+Nov 08, 2016 7:10:39 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLMRGroupWorkAreaDetails
+INFO: Validating 'LMR Group' Work Area Details
+Nov 08, 2016 7:10:43 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLMRGroupWorkAreaDetails
+INFO: Successfully validated that 'Manage Contacts' is not Present for the 'LMR Group'
+Nov 08, 2016 7:10:47 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLMRGroupWorkAreaDetails
+INFO: Successfully validated that 'Manage Contacts via Sub-Lists' is not Present for the 'LMR Group'
+Nov 08, 2016 7:10:51 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLMRGroupWorkAreaDetails
+INFO: Successfully validated that 'View Groups' is Present for the 'LMR Group'

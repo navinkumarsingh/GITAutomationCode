@@ -1,0 +1,2 @@
+May 08, 2016 7:04:55 AM com.kodiak.qa.testsuites.ThirdPartyBasicSearchTestCase thirdParty_VerifySublistCount
+INFO: Test Purpose : Search a Sublist Name in Manage Contacts Via Sublist

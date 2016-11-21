@@ -1,0 +1,4 @@
+Sep 27, 2016 1:44:22 AM com.kodiak.qa.testsuites.DispatcherFunctionalityValidation Kodiak_ValidatingDisabledSaveButtonAfterSelectingManageContactsViaSubListTabIfNoConatcts
+INFO: Test Purpose:  Validating the Save button is Disabled when their is no Contacts Present for the Dispatcher after selecting 'Manage Contacts Via Sub-List'
+Sep 27, 2016 1:44:30 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDisabledSaveButtonIfNoContacts
+INFO: Successfully validated, 'Save Button' is located and it is in 'Disabled State'

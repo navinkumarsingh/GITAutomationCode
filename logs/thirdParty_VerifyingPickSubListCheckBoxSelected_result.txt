@@ -1,0 +1,4 @@
+Sep 26, 2016 11:09:25 PM com.kodiak.qa.testsuites.ThirdPartyManageContactsViaSubListFunctionality thirdParty_VerifyingPickSubListCheckBoxSelected
+INFO: Test Purpose: Verifying 'Pick Sub List Popup checkbox is selected
+Sep 26, 2016 11:09:25 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCheckBoxSelected
+INFO: Validating the Pick Sub List Check Box Selected

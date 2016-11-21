@@ -1,0 +1,22 @@
+Sep 27, 2016 1:37:36 AM com.kodiak.qa.testsuites.DispatcherFunctionalityValidationManageIndividualList verifyingRemovedMdnInAssignContactsPopup
+INFO: Test Purpose: Verifying State of removed MDN in the 'Assign Contacts' popup
+Sep 27, 2016 1:37:44 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemovedMdnInAssignContactsPopup
+INFO: Succefully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 27, 2016 1:37:51 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702141 
+Sep 27, 2016 1:38:01 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 1:38:01 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully clicked on 'Assign Contacts' button
+Sep 27, 2016 1:38:06 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully sent the MDN in the 'Pick Contacts Searched Field' :91988702592
+Sep 27, 2016 1:38:12 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully clicked on 'Select All' checkbox which will select the Searched MDN :91988702592
+Sep 27, 2016 1:38:16 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully validated and Clicked on Done button to add the for continuation for Automation :91988702592
+Sep 27, 2016 1:38:20 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully clicked on 'Remove All' label
+Sep 27, 2016 1:38:24 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully Clicked on Subscriber 'Save' button
+Sep 27, 2016 1:38:32 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully Clicked on Subscriber Save Success OK button

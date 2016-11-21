@@ -1,0 +1,6 @@
+Sep 23, 2016 6:01:21 PM com.kodiak.qa.testsuites.SubListRelatedTestCases sublist_verifyGroupDeletionforContinuation
+INFO: To validate Sub-List Distribution removal to a Group
+Sep 23, 2016 6:01:36 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupDeletion
+INFO: Successfully clicked on 'Manage Groups' tab
+Sep 23, 2016 6:01:41 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupDeletion
+INFO: Successfully located Manage Group Search Box and entered the Group Name :AUTOMATION GROUP

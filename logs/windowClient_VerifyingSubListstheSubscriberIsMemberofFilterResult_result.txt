@@ -1,0 +1,8 @@
+Apr 25, 2016 12:23:59 AM com.kodiak.qa.testsuites.WindowClientManageContactsViaSubListFunctionality windowClient_VerifyingSubListstheSubscriberIsMemberofFilterResult
+INFO: Test Purpose: verifying Sub Lists the Subscriber Is Member of Filter Result
+Apr 25, 2016 12:23:59 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListstheSubscriberIsMemberofFilterResult
+INFO: Validating the Sub-Lists the subscriber is member of filter result
+Apr 25, 2016 12:24:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListstheSubscriberIsMemberofFilterResult
+INFO: Successfully located Sub-List all Filter and Selected 'Sub-Lists the subscriber is member of'
+Apr 25, 2016 12:24:23 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListstheSubscriberIsMemberofFilterResult
+INFO: 'Successfully Validating Sub Lists the Subscriber Is Member of Filter Result :

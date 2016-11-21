@@ -1,0 +1,2 @@
+Sep 27, 2016 4:39:57 AM com.kodiak.qa.testsuites.CrossCarrierPTTBasicSearchTestCase crossCarrier_ValidatingDeletingMemberForContinuation
+INFO: Test Purpose : Deleting All the Members from the selected Cross Carrier for Continuation

@@ -1,0 +1,6 @@
+Sep 23, 2016 5:35:22 PM com.kodiak.qa.testsuites.BroadcastGroup validateTotalMembersCountIncreasesAfterAddingSublistToBroadcastGroup
+INFO: To validate 'Total Members' count increases accordingly after Sub-List to Group
+Sep 23, 2016 5:35:35 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods clickOnManageSubLists
+INFO: Succefully selected 'Manage Sub Lists' in the Navigation Bar
+Sep 23, 2016 5:35:38 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subList_SubListAdditionWithWifiOnlyClient
+INFO: Succefully selected 'Add New Sub Lists' in the Navigation Bar

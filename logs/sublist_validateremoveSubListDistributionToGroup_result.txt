@@ -1,0 +1,10 @@
+May 06, 2016 7:50:08 PM com.kodiak.qa.testsuites.SubListRelatedTestCases sublist_validateremoveSubListDistributionToGroup
+INFO: To validate Sub-List Distribution removal to a Group
+May 06, 2016 7:50:14 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods removeSubListDistributionToGroup
+INFO: Successfully clicked on 'Manage Sub-List'
+May 06, 2016 7:50:21 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods removeSubListDistributionToGroup
+INFO: Successfully searched the sublist : Automation Attn & cc
+May 06, 2016 7:50:30 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods removeSubListDistributionToGroup
+INFO: Successfully selected the searched sublist : Automation Attn & cc
+May 06, 2016 7:50:33 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods removeSubListDistributionToGroup
+INFO: Successfully selected 'View Distribution' tab

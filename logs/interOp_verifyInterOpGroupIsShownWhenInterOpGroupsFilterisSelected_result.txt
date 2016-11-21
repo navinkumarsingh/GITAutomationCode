@@ -1,0 +1,8 @@
+May 29, 2016 1:22:41 AM com.kodiak.qa.testsuites.InterOpNeedAttnCATExit interOp_verifyInterOpGroupIsShownWhenInterOpGroupsFilterisSelected
+INFO: Test Purpose: To verify Inter-Op Group is shown when 'Inter-Op Groups' filter is selected
+May 29, 2016 1:22:46 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpGroupIsShownWhenInterOpGroupsFilterisSelected
+INFO: Successfully selected 'Inter-Op Groups' filter
+May 29, 2016 1:22:58 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpGroupIsShownWhenInterOpGroupsFilterisSelected
+INFO: Successfully searched for the Group-> AUTOMATION INTER OP GROUP
+May 29, 2016 1:22:58 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpGroupIsShownWhenInterOpGroupsFilterisSelected
+INFO: Successfully verified Inter-Op Group is Shown When 'Inter-Op Groups' Filter is Selected-> 1 item found.

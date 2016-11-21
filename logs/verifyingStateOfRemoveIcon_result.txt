@@ -1,0 +1,32 @@
+Sep 27, 2016 1:33:12 AM com.kodiak.qa.testsuites.DispatcherFunctionalityValidationManageIndividualList verifyingStateOfRemoveIcon
+INFO: Test Purpose: Verifying State of Remove Icon after clicking on 'Remove Icon'
+Sep 27, 2016 1:33:12 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfRemoveIcon
+INFO: Validating the State of remove Icon
+Sep 27, 2016 1:33:20 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfRemoveIcon
+INFO: Successfully clicked on 'Assign Contacts' button
+Sep 27, 2016 1:33:25 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfRemoveIcon
+INFO: Successfully sent the MDN in the 'Pick Contacts Searched Field' :91988702592
+Sep 27, 2016 1:33:25 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfRemoveIcon
+INFO: Successfully clicked on 'Select All' checkbox which will select the Searched MDN :91988702592
+Sep 27, 2016 1:33:28 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfRemoveIcon
+INFO: Successfully sent the MDN in the 'Pick Contacts Searched Field' :918972789853
+Sep 27, 2016 1:33:32 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfRemoveIcon
+INFO: Successfully clicked on 'Select All' checkbox which will select the Searched MDN :918972789853
+Sep 27, 2016 1:33:38 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfRemoveIcon
+INFO: Successfully validated and Clicked on Done button
+Sep 27, 2016 1:33:38 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfRemoveIcon
+INFO: Successfully clicked on 'Save' button
+Sep 27, 2016 1:33:43 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfRemoveIcon
+INFO: Successfully clicked on success message 'OK' button
+Sep 27, 2016 1:34:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfRemoveIcon
+INFO: Succefully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 27, 2016 1:34:30 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfRemoveIcon
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702141 
+Sep 27, 2016 1:34:30 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfRemoveIcon
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 1:34:39 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfRemoveIcon
+INFO: Successfully located 'Search by name and phone number' input field and sent the mdn :91988702592
+Sep 27, 2016 1:34:45 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfRemoveIcon
+INFO: Successfully clicked on 'Remove Icon'  for searched mdn
+Sep 27, 2016 1:34:49 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfRemoveIcon
+INFO: Successfully get the Undo Icon title before clicking on 'Save' and 'Cancel' button :Undo Delete

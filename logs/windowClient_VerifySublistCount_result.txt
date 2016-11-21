@@ -1,0 +1,16 @@
+Apr 25, 2016 1:38:53 AM com.kodiak.qa.testsuites.WindowClientBasicSearchTestCase windowClient_VerifySublistCount
+INFO: Test Purpose : Search a Sublist Name in Manage Contacts Via Sublist
+Apr 25, 2016 1:38:59 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTheSublistName
+INFO: Succefully clicked on  'Manage Contacts Via Sub List' tab in the Work Area
+Apr 25, 2016 1:39:13 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTheSublistName
+INFO: Succefully selected 'Sub List Add Members' in the Work Area
+Apr 25, 2016 1:39:19 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTheSublistName
+INFO: Succefully sent 'Automation Sub List1 Member' in Pick Sub List Pop Up search field
+Apr 25, 2016 1:39:23 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTheSublistName
+INFO: Successfully clicked on 'Select All' checkbox
+Apr 25, 2016 1:39:27 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTheSublistName
+INFO: Successfully clicked on 'Pick Sub List Popup' done button
+Apr 25, 2016 1:39:33 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTheSublistName
+INFO: enter the a sublist name in the search field : AutomationSubList1
+Apr 25, 2016 1:39:37 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTheSublistName
+INFO: AutomationSubList1 got in the search result

@@ -1,0 +1,8 @@
+Apr 25, 2016 1:36:02 AM com.kodiak.qa.testsuites.WindowClientBasicSearchTestCase windowClient_SearchInvalidStringInSubscriberWorkArea
+INFO: Test Purpose : Search a invalid string in Subscriber work area
+Apr 25, 2016 1:36:02 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchWorkAreaInvalidString
+INFO: Got the navigation serach box
+Apr 25, 2016 1:36:07 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchWorkAreaInvalidString
+INFO: enter the a subscriber name in the search field : bbj,,;sdc
+Apr 25, 2016 1:36:07 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchWorkAreaInvalidString
+INFO: 0 items found did not get in the search result

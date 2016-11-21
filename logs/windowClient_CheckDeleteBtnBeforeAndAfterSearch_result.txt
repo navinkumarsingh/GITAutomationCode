@@ -1,0 +1,18 @@
+Apr 25, 2016 1:36:11 AM com.kodiak.qa.testsuites.WindowClientBasicSearchTestCase windowClient_CheckDeleteBtnBeforeAndAfterSearch
+INFO: Test Purpose : Delete a subscriber befor search and after search
+Apr 25, 2016 1:36:16 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDeleteBtnBefAndAfter
+INFO: Got the navigation search box
+Apr 25, 2016 1:36:21 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDeleteBtnBefAndAfter
+INFO: enter the a subscriber mdn in the search field : 919901721806
+Apr 25, 2016 1:36:29 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDeleteBtnBefAndAfter
+INFO: tooltip of delete icon Before clearing the search : Undo Delete
+Apr 25, 2016 1:36:37 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDeleteBtnBefAndAfter
+INFO: tooltip of delete icon After clearing the search : Undo Delete
+Apr 25, 2016 1:36:37 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDeleteBtnBefAndAfter
+INFO: verifying the tooltip  delete icon of a subscriber before clearing and after clearing the search
+Apr 25, 2016 1:36:41 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDeleteBtnBefAndAfter
+INFO: Clicked on delete icon
+Apr 25, 2016 1:36:46 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDeleteBtnBefAndAfter
+INFO: Clicked on Save button
+Apr 25, 2016 1:36:53 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDeleteBtnBefAndAfter
+INFO: Clicked on ok button

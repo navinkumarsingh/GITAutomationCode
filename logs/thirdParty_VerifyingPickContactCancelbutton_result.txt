@@ -1,0 +1,24 @@
+May 08, 2016 12:58:00 AM com.kodiak.qa.testsuites.ThirdPartyFunctionalityValidationManageIndividualList thirdParty_VerifyingPickContactCancelbutton
+INFO: Test Purpose: Verifying Pick Contact Cancel  Button
+May 08, 2016 12:58:23 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyPickContactCancelButton
+INFO: Successfully selected the 'Third party' from the Master-List DropDown.
+May 08, 2016 12:58:29 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyPickContactCancelButton
+INFO: Successfully located MasterList Search Box and Searched the mdn :919900010746
+May 08, 2016 12:58:39 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyPickContactCancelButton
+INFO: Successfully selected the Subscriber in the MasterList Menu
+May 08, 2016 12:58:43 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyPickContactCancelButton
+INFO: 'Total Subscriber Record' validation successful. Displayed Text :0
+May 08, 2016 12:58:51 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyPickContactCancelButton
+INFO: Successfully clicked on 'Assign Contacts' button
+May 08, 2016 12:58:54 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyPickContactCancelButton
+INFO: Successfully clicked on 'Select All' checkbox
+May 08, 2016 12:58:57 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyPickContactCancelButton
+INFO: Validated Successfully the 'Max Limit Warning Message :You can add max 50 contacts/members/Sub-Lists at a time. Selected first 50 contacts/members/Sub-Lists for addition
+May 08, 2016 12:59:00 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyPickContactCancelButton
+INFO: Successfully clicked on 'Max Limit Warning Message OK' button
+May 08, 2016 12:59:03 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyPickContactCancelButton
+INFO: Successfully clicked on 'Pick Conatcts Popup Cancel' button
+May 08, 2016 12:59:03 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyPickContactCancelButton
+INFO: 'Total Subscriber Record' validation successful. Displayed Text :0
+May 08, 2016 12:59:03 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyPickContactCancelButton
+INFO: Successfully Validated the Cancel button. Hence, Before and after Total Count is same :0

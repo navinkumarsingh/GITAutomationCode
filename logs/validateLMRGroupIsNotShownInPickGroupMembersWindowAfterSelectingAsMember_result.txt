@@ -1,0 +1,6 @@
+Sep 23, 2016 5:33:20 PM com.kodiak.qa.testsuites.BroadcastGroup validateLMRGroupIsNotShownInPickGroupMembersWindowAfterSelectingAsMember
+INFO: To validate LMR Group is not shown in 'Pick Individual Group Members' window after selecting as Member
+Sep 23, 2016 5:33:27 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateLMRGroupIsNotShownInPickGroupMembersWindowAfterSelectingAsMember
+INFO: Clicking on 'Add Individual Members' button
+Sep 23, 2016 5:33:27 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateLMRGroupIsNotShownInPickGroupMembersWindowAfterSelectingAsMember
+INFO: Validation Successful; 'LMR Group' is not shown in 'Pick Individual Group Members' window after selecting as Broadcaster

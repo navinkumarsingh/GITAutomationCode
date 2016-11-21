@@ -1,0 +1,6 @@
+Sep 27, 2016 3:31:03 AM com.kodiak.qa.testsuites.CrossCarrierPTTAssignContactsFilterData crossCarrier_VerifySuMdnContactsPopup
+INFO: Test Purpose : Verify the Sumdn Clients in Assign Contacts Pop up for Cross Carrier Client
+Sep 27, 2016 3:31:19 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySuMdnsClientOnAssignContacsPopup
+INFO: select the drop down to SuMdn Contacts in Assign contacts popup
+Sep 27, 2016 3:31:24 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySuMdnsClientOnAssignContacsPopup
+INFO: Got the search result count : 200 items found.

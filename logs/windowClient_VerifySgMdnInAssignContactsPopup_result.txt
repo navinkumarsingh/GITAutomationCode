@@ -1,0 +1,26 @@
+Nov 11, 2015 2:22:05 AM com.kodiak.qa.testsuites.WindowClientAssignContactsFilterData windowClient_VerifySgMdnInAssignContactsPopup
+INFO: Test Purpose : Verify the SG-MDN filter available or not in Assign Contacts Pop up
+Nov 11, 2015 2:22:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySgMdninDropDown
+INFO: all drop down values :  All
+Nov 11, 2015 2:22:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySgMdninDropDown
+INFO: all drop down values :  Corporate
+Nov 11, 2015 2:22:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySgMdninDropDown
+INFO: all drop down values :  Corporate-Public
+Nov 11, 2015 2:22:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySgMdninDropDown
+INFO: all drop down values :  Dispatchers
+Nov 11, 2015 2:22:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySgMdninDropDown
+INFO: all drop down values :  External
+Nov 11, 2015 2:22:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySgMdninDropDown
+INFO: all drop down values :  Needs Attention
+Nov 11, 2015 2:22:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySgMdninDropDown
+INFO: all drop down values :  Wi-Fi Only Client
+Nov 11, 2015 2:22:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySgMdninDropDown
+INFO: all drop down values :  Windows Desktop Client
+Nov 11, 2015 2:22:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySgMdninDropDown
+INFO: all drop down values :  3rd Party Application
+Nov 11, 2015 2:22:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySgMdninDropDown
+INFO: all drop down values :  Cross Carrier PTT Client
+Nov 11, 2015 2:22:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySgMdninDropDown
+INFO: all drop down values :  SU Phone Number
+Nov 11, 2015 2:22:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySgMdninDropDown
+INFO: SG-MDN option is not available in Assign Contacts Drop down

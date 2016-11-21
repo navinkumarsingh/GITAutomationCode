@@ -1,0 +1,8 @@
+Apr 25, 2016 1:35:54 AM com.kodiak.qa.testsuites.WindowClientBasicSearchTestCase windowClient_SearchSubscriberPhoneNumberInSubscriberWorkArea
+INFO: Test Purpose : Search a subcriber phone number in Subscriber Work area for Window Client
+Apr 25, 2016 1:35:54 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchWorkAreaPhoneNumber
+INFO: Got the WORK AREA search box
+Apr 25, 2016 1:35:54 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchWorkAreaPhoneNumber
+INFO: Enter a subscriber phone number in subscriber work area search field : 919901721806
+Apr 25, 2016 1:35:58 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchWorkAreaPhoneNumber
+INFO: 1 item found. got in the search result

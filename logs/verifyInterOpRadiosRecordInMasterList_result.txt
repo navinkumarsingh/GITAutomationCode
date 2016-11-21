@@ -1,0 +1,6 @@
+May 29, 2016 1:11:51 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosRecordInMasterList
+INFO: Validating Inter Op Radios Record In Master List
+May 29, 2016 1:12:13 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosRecordInMasterList
+INFO: Successfully located MasterList Search Box and Search the Inter-Op Radios :915050152070
+May 29, 2016 1:12:17 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosRecordInMasterList
+INFO: Successfully validated Inter-Op Radios result:1 item found.

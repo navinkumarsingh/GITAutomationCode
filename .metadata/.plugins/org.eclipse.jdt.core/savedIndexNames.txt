@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+D:\iSteerWorkspace\IsteerUIAutomation\.metadata\.plugins\org.eclipse.jdt.core
+2014279694.index

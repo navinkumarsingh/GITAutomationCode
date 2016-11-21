@@ -1,0 +1,6 @@
+May 08, 2016 12:56:40 AM com.kodiak.qa.testsuites.ThirdPartyFunctionalityValidationManageIndividualList thirdParty_VerifyingPickContactClosebutton
+INFO: Test Purpose: Verifying Pick Contacts Window Close image
+May 08, 2016 12:56:40 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactClosebutton
+INFO: Validating the Pick Contacts Close Button
+May 08, 2016 12:56:44 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactClosebutton
+INFO: Successfully closed the Pick Contact Pop-Up window

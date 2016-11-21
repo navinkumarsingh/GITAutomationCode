@@ -1,0 +1,4 @@
+Sep 27, 2016 2:08:50 AM com.kodiak.qa.testsuites.DispatcherBasicSearchTestCase dispatcher_verifyMouseOverOnGroupIconForTitle
+INFO: Test Purpose: Verifying the mouse Over On Group Icon
+Sep 27, 2016 2:08:55 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyMouseOverOnGroupIconForTitle
+INFO: Validating the Mouse Over Text on the Group Icon

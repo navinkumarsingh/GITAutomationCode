@@ -1,0 +1,6 @@
+Sep 23, 2016 5:17:24 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validationOfExternalClientInPickDispatcherPopup
+INFO: Test Purpose: Validation of External Client In Pick Dispatcher Popup
+Sep 23, 2016 5:17:32 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalClientInPickDispatcherPopup
+INFO: Successfully clicked on 'Manage Dispatcher' tab
+Sep 23, 2016 5:17:37 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalClientInPickDispatcherPopup
+INFO: Successfully sent the External Client in the 'Pick Contacts Searched Field':918666709915

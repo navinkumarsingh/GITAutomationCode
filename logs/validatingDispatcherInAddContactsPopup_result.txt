@@ -1,0 +1,6 @@
+Sep 23, 2016 5:45:49 PM com.kodiak.qa.testsuites.StandardGroupTestCases validatingDispatcherInAddContactsPopup
+INFO: Test Purpose: Validation of Dispatcher In Add Contacts Popup
+Sep 23, 2016 5:45:49 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatcherInAddContactsPopup
+INFO: The available options in Dropdown are:[, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , All, Corporate, Corporate-Public, Cross Carrier PTT Client, External, Integrated Mobile Application, Integrated Web Application, Inter-Op Radio, Needs Attention, Wi-Fi Only Client, Windows Desktop Client, All, Corporate, Corporate-Public, Cross Carrier PTT Client, External, Integrated Mobile Application, Integrated Web Application, Inter-Op Radio, Needs Attention, Wi-Fi Only Client, Windows Desktop Client]
+Sep 23, 2016 5:45:49 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatcherInAddContactsPopup
+INFO: Successfully validated that 'Dispatcher' is not Present in the List

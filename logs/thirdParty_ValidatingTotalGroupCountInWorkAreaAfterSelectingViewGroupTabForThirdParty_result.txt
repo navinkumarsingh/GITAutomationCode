@@ -1,0 +1,2 @@
+Sep 27, 2016 12:10:08 AM com.kodiak.qa.testsuites.ThirdPartyProfileValidation thirdParty_ValidatingTotalGroupCountInWorkAreaAfterSelectingViewGroupTabForThirdParty
+INFO: Test Purpose:  Validating the Total Group Count in work area after selecting view Group tab for ThirdParty

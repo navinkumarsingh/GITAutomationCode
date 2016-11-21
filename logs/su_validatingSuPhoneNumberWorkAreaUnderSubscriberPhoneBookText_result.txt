@@ -1,0 +1,4 @@
+Nov 11, 2015 7:11:35 AM com.kodiak.qa.testsuites.SuAndSgPhoneNumberValidation su_validatingSuPhoneNumberWorkAreaUnderSubscriberPhoneBookText
+INFO: Test Purpose: Validate SU Phone Number Work Area Under Subscriber Phone Book Text
+Nov 11, 2015 7:11:43 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySuPhoneNumberWorkAreaUnderSubscriberPhoneBookText
+INFO: Verify Su Phone Number Work Area Text

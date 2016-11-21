@@ -1,0 +1,6 @@
+Apr 25, 2016 12:37:36 AM com.kodiak.qa.testsuites.WindowClientAssignContactsFilterData windowClient_VerifyNeedsAttentionClientOnAssignContacsPopup
+INFO: Test Purpose : Verify the Needs Attention Clients in Assign Contacts Pop up for Window Client
+Apr 25, 2016 12:37:57 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyNeedsAttentionClientsCountOnAssignContactsPopup
+INFO: select the drop down to Needs Attention Clients Contacts in Assign contacts popup
+Apr 25, 2016 12:38:02 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyNeedsAttentionClientsCountOnAssignContactsPopup
+INFO: Got the search result count : 321 items found.

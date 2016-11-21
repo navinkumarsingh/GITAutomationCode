@@ -1,0 +1,22 @@
+Sep 27, 2016 3:09:22 AM com.kodiak.qa.testsuites.WiFiClientFunctionalityValidation wiFi_ValidatingUndoAfterRemoveAllLabel
+INFO: Test Purpose: Validating UNDO after Remove All label
+Sep 27, 2016 3:09:46 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyUndoAfterRemoveAllLabel
+INFO: Successfully selected the 'Wi Fi' from the Master-List DropDown.
+Sep 27, 2016 3:09:56 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyUndoAfterRemoveAllLabel
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702591
+Sep 27, 2016 3:10:06 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyUndoAfterRemoveAllLabel
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 3:10:10 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyUndoAfterRemoveAllLabel
+INFO: 'Total Contacts Before Clicking on Remove All Label' validation successful. Displayed Text :50
+Sep 27, 2016 3:10:14 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyUndoAfterRemoveAllLabel
+INFO: Successfully clicked on 'Remove All' label
+Sep 27, 2016 3:10:18 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyUndoAfterRemoveAllLabel
+INFO: 'Total Contacts' after cliking on Remove All label validation successful. Displayed Text :0
+Sep 27, 2016 3:10:24 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyUndoAfterRemoveAllLabel
+INFO: Successfully entered the MDN in the 'SEARCH BY NAME AND PHONE NUMBER' input field
+Sep 27, 2016 3:10:28 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyUndoAfterRemoveAllLabel
+INFO: Successfully Clicked on Undo button for the mdn in the list
+Sep 27, 2016 3:10:32 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyUndoAfterRemoveAllLabel
+INFO: 'Total Dispatcher Record' validation successful. Displayed Text :1
+Sep 27, 2016 3:10:32 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyUndoAfterRemoveAllLabel
+INFO: Validation Successful: Successfully validated the 'UNDO' function

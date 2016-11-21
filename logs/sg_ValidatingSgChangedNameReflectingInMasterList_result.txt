@@ -1,0 +1,4 @@
+Nov 11, 2015 7:14:24 AM com.kodiak.qa.testsuites.SuAndSgPhoneNumberValidation sg_ValidatingSgChangedNameReflectingInMasterList
+INFO: Test Purpose: Verifying SG Changed name reflecting in Master-List
+Nov 11, 2015 7:14:32 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods sgChangedNameReflectingInMasterList
+INFO: Validating 'Generate Activation Code' for Selected Subscriber

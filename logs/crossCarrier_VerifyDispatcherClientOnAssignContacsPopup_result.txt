@@ -1,0 +1,12 @@
+Sep 27, 2016 3:28:27 AM com.kodiak.qa.testsuites.CrossCarrierPTTAssignContactsFilterData crossCarrier_VerifyDispatcherClientOnAssignContacsPopup
+INFO: Test Purpose : Verify the Dispatcher Clients in Assign Contacts Pop up for Cross Carrier Client
+Sep 27, 2016 3:28:50 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_searchPhoneNumber
+INFO: Successfully selected the 'Cross Carrier' from the Master-List DropDown.
+Sep 27, 2016 3:28:50 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_searchPhoneNumber
+INFO: enter the a subscriber phone number in the search field : 91988702491
+Sep 27, 2016 3:29:00 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_searchPhoneNumber
+INFO: 1 item found. got in the search result
+Sep 27, 2016 3:29:31 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatcherContactsCountOnAssignContactsPopup
+INFO: select the drop down to Dispatcher in Assign contacts popup
+Sep 27, 2016 3:29:36 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatcherContactsCountOnAssignContactsPopup
+INFO: Got the search result count : 150 items found.

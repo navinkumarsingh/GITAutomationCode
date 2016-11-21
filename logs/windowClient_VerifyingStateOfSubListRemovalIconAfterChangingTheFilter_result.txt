@@ -1,0 +1,14 @@
+Apr 25, 2016 12:24:58 AM com.kodiak.qa.testsuites.WindowClientManageContactsViaSubListFunctionality windowClient_VerifyingStateOfSubListRemovalIconAfterChangingTheFilter
+INFO: Test Purpose: verifying State Of Sub List Removal Icon
+Apr 25, 2016 12:25:07 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterChangingTheFilter
+INFO: Successfully validated, 'Search by name and phone number' input field for 'Manage Contacts Via SubList', is located and send the SubList name to search :AutomationSubList1
+Apr 25, 2016 12:25:12 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterChangingTheFilter
+INFO: 'SubList Remove Icon Tool Tip' validation successful. Displayed Text :Delete
+Apr 25, 2016 12:25:18 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterChangingTheFilter
+INFO: Successfully clicked on SubList Remove Icon
+Apr 25, 2016 12:25:23 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterChangingTheFilter
+INFO: Successfully located Sub-List all Filter and Selected 'Sub-Lists the subscriber is member of'
+Apr 25, 2016 12:25:28 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterChangingTheFilter
+INFO: Successfully located Sub-List all Filter and revert back to 'Sub-Lists the subscriber is not member of'
+Apr 25, 2016 12:25:34 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterChangingTheFilter
+INFO: 'SubList Remove Icon Tool Tip' validation successful. Displayed Text :Undo Delete

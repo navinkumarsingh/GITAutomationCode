@@ -1,0 +1,22 @@
+Sep 27, 2016 1:49:33 AM com.kodiak.qa.testsuites.DispatcherFunctionalityValidation Kodiak_ValidatingUndoAfterRemoveAllLabel
+INFO: Test Purpose: Validating UNDO after Remove All label
+Sep 27, 2016 1:49:56 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoAfterRemoveAllLabel
+INFO: Succefully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 27, 2016 1:50:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoAfterRemoveAllLabel
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702141 
+Sep 27, 2016 1:50:15 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoAfterRemoveAllLabel
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 1:50:19 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoAfterRemoveAllLabel
+INFO: 'Total Contacts Before Clicking on Remove All Label' validation successful. Displayed Text :50
+Sep 27, 2016 1:50:24 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoAfterRemoveAllLabel
+INFO: Successfully clicked on 'Remove All' label
+Sep 27, 2016 1:50:28 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoAfterRemoveAllLabel
+INFO: 'Total Contacts' after cliking on Remove All label validation successful. Displayed Text :0
+Sep 27, 2016 1:50:33 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoAfterRemoveAllLabel
+INFO: Successfully entered the MDN in the 'SEARCH BY NAME AND PHONE NUMBER' input field
+Sep 27, 2016 1:50:37 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoAfterRemoveAllLabel
+INFO: Successfully Clicked on Undo button for the mdn in the list
+Sep 27, 2016 1:50:41 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoAfterRemoveAllLabel
+INFO: 'Total Dispatcher Record' validation successful. Displayed Text :1
+Sep 27, 2016 1:50:41 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoAfterRemoveAllLabel
+INFO: Validation Successful: Successfully validated the 'UNDO' function

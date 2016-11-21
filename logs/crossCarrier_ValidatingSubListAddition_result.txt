@@ -1,0 +1,84 @@
+Sep 27, 2016 3:53:40 AM com.kodiak.qa.testsuites.CrossCarrierPTTManageContactsViaSubListFunctionality crossCarrier_ValidatingSubListAddition
+INFO: Test Purpose: Verifying Sub Lists Addition
+Sep 27, 2016 3:53:40 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Validating the Sub List Addition in Manage Sub List
+Sep 27, 2016 3:53:58 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Succefully selected 'Manage Sub Lists' in the Navigation Bar
+Sep 27, 2016 3:54:01 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Succefully selected 'Add New Sub Lists' in the Navigation Bar
+Sep 27, 2016 3:54:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Succefully selected 'Sub List Add Members' in the Work Area
+Sep 27, 2016 3:54:10 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Succefully sent 'Automation Sub List1 Member' in Pick Sub List Pop Up search field
+Sep 27, 2016 3:54:15 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Successfully clicked on 'Select All' checkbox
+Sep 27, 2016 3:54:19 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Successfully clicked on 'Pick Sub List Popup' done button
+Sep 27, 2016 3:54:23 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Succefully Specify the Sub List Name:AutomationSubList1
+Sep 27, 2016 3:54:27 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Successfully clicked on 'Sub List Add' button
+Sep 27, 2016 3:54:31 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Successfully clicked on Sub List Confirm 'OK' button
+Sep 27, 2016 3:54:39 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Successfully clicked on Sub List Success 'OK' button
+Sep 27, 2016 3:54:43 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Succefully selected 'Add New Sub Lists' in the Navigation Bar
+Sep 27, 2016 3:54:48 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Succefully selected 'Sub List Add Members' in the Work Area
+Sep 27, 2016 3:54:53 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Succefully sent 'Automation Sub List1 Member' in Pick Sub List Pop Up search field
+Sep 27, 2016 3:54:57 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Successfully clicked on 'Select All' checkbox
+Sep 27, 2016 3:55:01 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Successfully clicked on 'Pick Sub List Popup' done button
+Sep 27, 2016 3:55:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Succefully Specify the Sub List Name:AutomationSubList2
+Sep 27, 2016 3:55:09 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Successfully clicked on 'Sub List Add' button
+Sep 27, 2016 3:55:13 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Successfully clicked on Sub List Confirm 'OK' button
+Sep 27, 2016 3:55:19 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Successfully clicked on Sub List Success 'OK' button
+Sep 27, 2016 4:33:20 AM com.kodiak.qa.testsuites.CrossCarrierPTTBasicSearchTestCase crossCarrier_ValidatingSubListAddition
+INFO: Test Purpose: Verifying Sub Lists Addition
+Sep 27, 2016 4:33:20 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Validating the Sub List Addition in Manage Sub List
+Sep 27, 2016 4:33:38 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Succefully selected 'Manage Sub Lists' in the Navigation Bar
+Sep 27, 2016 4:33:41 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Succefully selected 'Add New Sub Lists' in the Navigation Bar
+Sep 27, 2016 4:33:45 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Succefully selected 'Sub List Add Members' in the Work Area
+Sep 27, 2016 4:33:51 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Succefully sent 'Automation Sub List1 Member' in Pick Sub List Pop Up search field
+Sep 27, 2016 4:33:55 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Successfully clicked on 'Select All' checkbox
+Sep 27, 2016 4:33:59 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Successfully clicked on 'Pick Sub List Popup' done button
+Sep 27, 2016 4:34:03 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Succefully Specify the Sub List Name:AutomationSubList1
+Sep 27, 2016 4:34:07 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Successfully clicked on 'Sub List Add' button
+Sep 27, 2016 4:34:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Successfully clicked on Sub List Confirm 'OK' button
+Sep 27, 2016 4:34:19 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Successfully clicked on Sub List Success 'OK' button
+Sep 27, 2016 4:34:24 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Succefully selected 'Add New Sub Lists' in the Navigation Bar
+Sep 27, 2016 4:34:28 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Succefully selected 'Sub List Add Members' in the Work Area
+Sep 27, 2016 4:34:33 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Succefully sent 'Automation Sub List1 Member' in Pick Sub List Pop Up search field
+Sep 27, 2016 4:34:37 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Successfully clicked on 'Select All' checkbox
+Sep 27, 2016 4:34:42 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Successfully clicked on 'Pick Sub List Popup' done button
+Sep 27, 2016 4:34:46 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Succefully Specify the Sub List Name:AutomationSubList2
+Sep 27, 2016 4:34:50 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Successfully clicked on 'Sub List Add' button
+Sep 27, 2016 4:34:54 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Successfully clicked on Sub List Confirm 'OK' button
+Sep 27, 2016 4:34:59 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Successfully clicked on Sub List Success 'OK' button

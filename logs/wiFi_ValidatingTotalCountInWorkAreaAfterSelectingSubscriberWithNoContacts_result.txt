@@ -1,0 +1,10 @@
+Sep 27, 2016 3:01:56 AM com.kodiak.qa.testsuites.WiFiClientFunctionalityValidation wiFi_ValidatingTotalCountInWorkAreaAfterSelectingSubscriberWithNoContacts
+INFO: Test Purpose:  Validating the Dispatcher Total Records
+Sep 27, 2016 3:02:19 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyTotalCountIfNoContacts
+INFO: Successfully selected the 'Wi Fi' from the Master-List DropDown.
+Sep 27, 2016 3:02:30 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyTotalCountIfNoContacts
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702591
+Sep 27, 2016 3:02:43 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyTotalCountIfNoContacts
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 3:02:47 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyTotalCountIfNoContacts
+INFO: 'Total Subscriber Record' in work area validation successful. Displayed Text :0

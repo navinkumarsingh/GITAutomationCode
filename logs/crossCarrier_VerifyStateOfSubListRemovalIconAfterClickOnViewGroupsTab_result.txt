@@ -1,0 +1,10 @@
+Sep 27, 2016 3:58:52 AM com.kodiak.qa.testsuites.CrossCarrierPTTManageContactsViaSubListFunctionality crossCarrier_VerifyStateOfSubListRemovalIconAfterClickOnViewGroupsTab
+INFO: Test Purpose: verifying State Of Sub List Removal Icon after revert back from 'View Groups' tab
+Sep 27, 2016 3:58:57 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnViewGroupsTab
+INFO: 'Successfully clicked on Undo Icon
+Sep 27, 2016 3:59:01 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnViewGroupsTab
+INFO: 'Before clicking on SubList Remove Icon Tool Tip' validation successful. Displayed Text :Delete
+Sep 27, 2016 3:59:06 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnViewGroupsTab
+INFO: Successfully clicked on SubList Remove Icon
+Sep 27, 2016 3:59:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnViewGroupsTab
+INFO: 'Before switching back from 'View Groups' tab 'SubList Remove Icon Tool Tip' validation successful. Displayed Text :Undo Delete

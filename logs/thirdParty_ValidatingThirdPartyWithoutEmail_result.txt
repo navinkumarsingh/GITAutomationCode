@@ -1,0 +1,14 @@
+Sep 27, 2016 12:05:55 AM com.kodiak.qa.testsuites.ThirdPartyProfileValidation thirdParty_ValidatingThirdPartyWithoutEmail
+INFO: Test Purpose: Verify ThirdParty Without Email
+Sep 27, 2016 12:05:55 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutEmail
+INFO: Validating Subscriber without passing Email
+Sep 27, 2016 12:06:00 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutEmail
+INFO: Successfully Cleared the existing Subscriber Email
+Sep 27, 2016 12:06:10 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutEmail
+INFO: Successfully selected the another Subscriber Type from the 'Subscriber Type Drop Down'
+Sep 27, 2016 12:06:17 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutEmail
+INFO: Successfully selected the another Subscriber Type from the 'Subscriber Type Drop Down' :
+Sep 27, 2016 12:06:26 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutEmail
+INFO: Successfully located and clicked on 'Subscriber Save Button'
+Sep 27, 2016 12:06:32 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutEmail
+INFO: Successfully validated Subscriber without Email

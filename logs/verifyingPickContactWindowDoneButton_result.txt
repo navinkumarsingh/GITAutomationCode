@@ -1,0 +1,20 @@
+Sep 27, 2016 1:30:07 AM com.kodiak.qa.testsuites.DispatcherFunctionalityValidationManageIndividualList verifyingPickContactWindowDoneButton
+INFO: Test Purpose: Verifying Pick Contacts Window Done Button Disabled
+Sep 27, 2016 1:30:17 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactWIndowDoneButton
+INFO: Succefully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 27, 2016 1:30:22 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactWIndowDoneButton
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702141 
+Sep 27, 2016 1:30:31 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactWIndowDoneButton
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 1:30:36 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactWIndowDoneButton
+INFO: Successfully clicked on 'Assign Contacts' button
+Sep 27, 2016 1:30:40 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactWIndowDoneButton
+INFO: Successfully clicked on 'Select All' checkbox
+Sep 27, 2016 1:30:45 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactWIndowDoneButton
+INFO: Validated Successfully the 'Max Limit Warning Message :You can add max 50 contacts/members/Sub-Lists at a time. Selected first 50 contacts/members/Sub-Lists for addition
+Sep 27, 2016 1:30:50 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactWIndowDoneButton
+INFO: Successfully clicked on 'Max Limit Warning Message OK' button
+Sep 27, 2016 1:30:54 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactWIndowDoneButton
+INFO: Successfully clicked on 'DeSelect All' checkbox
+Sep 27, 2016 1:30:58 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactWIndowDoneButton
+INFO: Failed: Successfully located and clicked on 'Pick Contact Done Button'

@@ -1,0 +1,2 @@
+May 08, 2016 7:05:16 AM com.kodiak.qa.testsuites.ThirdPartyBasicSearchTestCase thirdParty_VerifySubscriberNameInViewAllContactsTab
+INFO: Test Purpose : Search a subscriber Name in View All Contacts Tab

@@ -1,0 +1,16 @@
+Sep 26, 2016 8:58:12 PM com.kodiak.qa.testsuites.GenerateActivationCode validatingErrorMessageAfterRemovingTheEmailIdFromTheSelectedSubscriber
+INFO: Test Purpose: validating Error Message After Removing The Email Id From The Selected Subscriber
+Sep 26, 2016 8:58:35 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyErrorMessageAfterRemovingTheEmailIdFromTheSelectedSubscriber
+INFO: Succefully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 26, 2016 8:58:49 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyErrorMessageAfterRemovingTheEmailIdFromTheSelectedSubscriber
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702141 
+Sep 26, 2016 8:58:59 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyErrorMessageAfterRemovingTheEmailIdFromTheSelectedSubscriber
+INFO: Successfully selected the Dispatcher in the MasterList Menu
+Sep 26, 2016 8:59:13 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyErrorMessageAfterRemovingTheEmailIdFromTheSelectedSubscriber
+INFO: Successfully cleared existing Subscriber Email
+Sep 26, 2016 8:59:20 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyErrorMessageAfterRemovingTheEmailIdFromTheSelectedSubscriber
+INFO: Successfully clicked on 'Generate Activation Code' button for Selected Subscriber in Work Area
+Sep 26, 2016 8:59:28 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyErrorMessageAfterRemovingTheEmailIdFromTheSelectedSubscriber
+INFO: Subscriber is not assigned any email id. Please assign an email id to the subscriber before proceeding. got in the Error Message Popup
+Sep 26, 2016 8:59:36 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyErrorMessageAfterRemovingTheEmailIdFromTheSelectedSubscriber
+INFO: Successfully clicked on 'OK' button for Error Message

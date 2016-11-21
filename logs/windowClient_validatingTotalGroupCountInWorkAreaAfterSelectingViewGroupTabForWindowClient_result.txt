@@ -1,0 +1,2 @@
+Apr 25, 2016 10:06:48 PM com.kodiak.qa.testsuites.WindowClientProfileValidation windowClient_validatingTotalGroupCountInWorkAreaAfterSelectingViewGroupTabForWindowClient
+INFO: Test Purpose:  Validating the Total Group Count in work area after selecting view Group tab for WindowClient

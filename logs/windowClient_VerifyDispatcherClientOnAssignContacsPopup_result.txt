@@ -1,0 +1,14 @@
+Apr 25, 2016 12:35:55 AM com.kodiak.qa.testsuites.WindowClientAssignContactsFilterData windowClient_VerifyDispatcherClientOnAssignContacsPopup
+INFO: Test Purpose : Verify the Dispatcher Clients in Assign Contacts Pop up for Window Client
+Apr 25, 2016 12:36:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wc_searchPhoneNumber
+INFO: Succefully clicked on Clear label in the Masterlist DropDown.
+Apr 25, 2016 12:36:35 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wc_searchPhoneNumber
+INFO: Successfully selected the 'Window Desktop' from the Master-List DropDown.
+Apr 25, 2016 12:36:35 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wc_searchPhoneNumber
+INFO: enter the a subscriber phone number in the search field : 919931721816
+Apr 25, 2016 12:36:45 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wc_searchPhoneNumber
+INFO: 1 item found. got in the search result
+Apr 25, 2016 12:37:15 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatcherContactsCountOnAssignContactsPopup
+INFO: select the drop down to Dispatcher in Assign contacts popup
+Apr 25, 2016 12:37:20 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatcherContactsCountOnAssignContactsPopup
+INFO: Got the search result count : 8 items found.

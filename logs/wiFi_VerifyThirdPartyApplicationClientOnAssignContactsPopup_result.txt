@@ -1,0 +1,6 @@
+Sep 27, 2016 2:55:58 AM com.kodiak.qa.testsuites.WiFiClientAssignContactsFilterData wiFi_VerifyThirdPartyApplicationClientOnAssignContactsPopup
+INFO: Test Purpose : Verify the WiFiClient Application Clients in Assign Contacts Pop up for WiFiClient Subscriber
+Sep 27, 2016 2:56:18 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyThirdPartyApplicationClientOnAssignContacsPopup
+INFO: select the drop down to Third Party Application Contacts in Assign contacts popup
+Sep 27, 2016 2:56:23 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyThirdPartyApplicationClientOnAssignContacsPopup
+INFO: Got the search result count : 100 items found.

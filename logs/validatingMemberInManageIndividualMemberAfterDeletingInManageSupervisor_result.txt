@@ -1,0 +1,2 @@
+Sep 23, 2016 5:24:48 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingMemberInManageIndividualMemberAfterDeletingInManageSupervisor
+INFO: Test Purpose: Validation of Member In Manage Individual Member After Deleting In Manage Supervisor

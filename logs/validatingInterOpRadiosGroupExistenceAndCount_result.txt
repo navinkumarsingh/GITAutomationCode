@@ -1,0 +1,48 @@
+May 29, 2016 1:13:47 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Manage Groups' tab
+May 29, 2016 1:13:56 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Add New Group' tab
+May 29, 2016 1:14:00 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully got the Dialog Text:Select Group Type
+May 29, 2016 1:14:04 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Succefully selected Dispatch Group in the Filter
+May 29, 2016 1:14:09 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Select Group Type OK' button
+May 29, 2016 1:14:15 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully sent the mdn1 to the 'Assign Contacts Search' field':918899790030
+May 29, 2016 1:14:19 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Pick Dispatcher Individual Member Check Box'
+May 29, 2016 1:14:23 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Pick Dispatcher Done' button
+May 29, 2016 1:14:27 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Manage Members' tab
+May 29, 2016 1:14:34 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Add Individual Members' button
+May 29, 2016 1:14:38 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully sent the mdn2 to the 'Assign Contacts Search' field':915050152070
+May 29, 2016 1:14:42 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Select All' checkbox
+May 29, 2016 1:14:47 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Pick Group Member Done' button
+May 29, 2016 1:14:55 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully passed the Group Name to the Field
+May 29, 2016 1:15:03 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Group ADD' button
+May 29, 2016 1:15:12 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Group Confirm OK' button
+May 29, 2016 1:15:22 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Group Success OK' button
+May 29, 2016 1:15:31 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on  'Manage MasterList Menu'
+May 29, 2016 1:15:31 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosGroupExistenceAndCount
+INFO: Validating Inter Op Radios Group Existence
+May 29, 2016 1:15:53 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosGroupExistenceAndCount
+INFO: Successfully located MasterList Search Box and Searched the mdn :915050152070
+May 29, 2016 1:16:01 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosGroupExistenceAndCount
+INFO: Successfully selected the Inter-Op in the MasterList Menu
+May 29, 2016 1:16:06 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosGroupExistenceAndCount
+INFO: Successfully clicked on 'View Group' tab in Work Area
+May 29, 2016 1:16:13 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosGroupExistenceAndCount
+INFO: Successfully sent the Group name in 'Search by Group Name' search box :AUTOMATION GROUP
+May 29, 2016 1:16:17 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosGroupExistenceAndCount
+INFO: 'Total Group count:1

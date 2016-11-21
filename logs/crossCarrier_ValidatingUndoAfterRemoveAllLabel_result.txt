@@ -1,0 +1,22 @@
+Sep 27, 2016 4:26:42 AM com.kodiak.qa.testsuites.CrossCarrierPTTFunctionalityValidation crossCarrier_ValidatingUndoAfterRemoveAllLabel
+INFO: Test Purpose: Validating UNDO after Remove All label
+Sep 27, 2016 4:27:10 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyUndoAfterRemoveAllLabel
+INFO: Successfully selected the 'Cross Carrier' from the Master-List DropDown.
+Sep 27, 2016 4:27:24 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyUndoAfterRemoveAllLabel
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702491
+Sep 27, 2016 4:27:38 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyUndoAfterRemoveAllLabel
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 4:27:42 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyUndoAfterRemoveAllLabel
+INFO: 'Total Contacts Before Clicking on Remove All Label' validation successful. Displayed Text :50
+Sep 27, 2016 4:27:46 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyUndoAfterRemoveAllLabel
+INFO: Successfully clicked on 'Remove All' label
+Sep 27, 2016 4:27:50 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyUndoAfterRemoveAllLabel
+INFO: 'Total Contacts' after cliking on Remove All label validation successful. Displayed Text :0
+Sep 27, 2016 4:27:55 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyUndoAfterRemoveAllLabel
+INFO: Successfully entered the MDN in the 'SEARCH BY NAME AND PHONE NUMBER' input field
+Sep 27, 2016 4:27:59 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyUndoAfterRemoveAllLabel
+INFO: Successfully Clicked on Undo button for the mdn in the list
+Sep 27, 2016 4:28:04 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyUndoAfterRemoveAllLabel
+INFO: 'Total Dispatcher Record' validation successful. Displayed Text :1
+Sep 27, 2016 4:28:04 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyUndoAfterRemoveAllLabel
+INFO: Validation Successful: Successfully validated the 'UNDO' function

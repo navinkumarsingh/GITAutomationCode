@@ -1,0 +1,2 @@
+Sep 27, 2016 12:05:00 AM com.kodiak.qa.testsuites.ThirdPartyProfileValidation thirdParty_ValidatingSubscriberType
+INFO: Test Purpose: Validating the ThirdParty Subscriber Type

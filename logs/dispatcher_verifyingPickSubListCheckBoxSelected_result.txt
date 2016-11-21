@@ -1,0 +1,16 @@
+Sep 27, 2016 4:10:18 PM com.kodiak.qa.testsuites.DispatcherManageContactsViaSubListFunctionality dispatcher_verifyingPickSubListCheckBoxSelected
+INFO: Test Purpose: Verifying 'Pick Sub List Popup checkbox is selected
+Sep 27, 2016 4:10:18 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCheckBoxSelected
+INFO: Validating the Pick Sub List Check Box Selected
+Sep 27, 2016 4:10:26 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCheckBoxSelected
+INFO: Succefully selected the 'Pick Sub List Popup Select All' checkbox
+Sep 27, 2016 4:10:30 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCheckBoxSelected
+INFO: User active check box is already checked
+Sep 27, 2016 4:10:36 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCheckBoxSelected
+INFO: Succefully unselected the 'Pick Sub List Popup Select All' checkbox
+Sep 27, 2016 4:10:41 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCheckBoxSelected
+INFO: Succefully sent 'Automation Sub List1 Member' in Pick Sub List Pop Up search field
+Sep 27, 2016 4:10:47 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCheckBoxSelected
+INFO: Succefully selected the 'Pick Sub List Popup Select All' checkbox
+Sep 27, 2016 4:10:57 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCheckBoxSelected
+INFO: Succefully selected 'Pick Sub List Done' Button

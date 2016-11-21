@@ -1,0 +1,4 @@
+Nov 08, 2016 7:08:29 PM com.kodiak.qa.testsuites.LMRSubscriberAndLMRGroupValidation lMRSubscriber_validatingSuPhoneNumberWorkAreaUnderSubscriberPhoneBookText
+INFO: Test Purpose: Validate LMR Subscriber Work Area Under Subscriber Phone Book Text
+Nov 08, 2016 7:08:36 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLMRSubscriberWorkAreaUnderSubscriberPhoneBookText
+INFO: Verify Su Phone Number Work Area Text

@@ -1,0 +1,8 @@
+Sep 27, 2016 4:12:32 PM com.kodiak.qa.testsuites.DispatcherManageContactsViaSubListFunctionality dispatcher_verifyingPickSubListCancelButtonAfterAllSubListAdded
+INFO: Test Purpose: verifying Sub List Cancel Button after All Sub List added
+Sep 27, 2016 4:12:32 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCancelButtonAfterAllSubListAdded
+INFO: Validating the Pick Sub List Done button after all the sublist added
+Sep 27, 2016 4:12:38 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCancelButtonAfterAllSubListAdded
+INFO: Successfully clicked on 'Pick Sub List Popup Cancel' button
+Sep 27, 2016 4:12:53 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCancelButtonAfterAllSubListAdded
+INFO: Successfully Validated the Cancel button. Hence we are able to find the Total Count on manage Conatacts Via Sub-Lists :

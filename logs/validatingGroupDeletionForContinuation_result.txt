@@ -1,0 +1,6 @@
+Sep 27, 2016 2:10:53 AM com.kodiak.qa.testsuites.DispatcherBasicSearchTestCase validatingGroupDeletionForContinuation
+INFO: Test Purpose: Verifying Group deletion
+Sep 27, 2016 2:11:07 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupDeletion
+INFO: Successfully clicked on 'Manage Groups' tab
+Sep 27, 2016 2:11:12 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupDeletion
+INFO: Successfully located Manage Group Search Box and entered the Group Name :AUTOMATION GROUP

@@ -1,0 +1,4 @@
+Sep 23, 2016 5:35:04 PM com.kodiak.qa.testsuites.BroadcastGroup validateAddingBroadCastGroupWith2Broadcasters
+INFO: To validate Broadcaster is a member of Broadcast Group
+Sep 23, 2016 5:35:11 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateAddingBroadCastGroupWith2Broadcasters
+INFO: Succesfully selected 'Add New Group' in navigation area

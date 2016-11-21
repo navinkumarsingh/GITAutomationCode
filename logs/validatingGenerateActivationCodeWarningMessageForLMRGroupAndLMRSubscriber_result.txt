@@ -1,0 +1,26 @@
+Sep 26, 2016 9:09:29 PM com.kodiak.qa.testsuites.GenerateActivationCode validatingGenerateActivationCodeWarningMessageForLMRGroupAndLMRSubscriber
+INFO: Test Purpose: validating Generate Activation Code Warning Message For LMR Group And LMR Subscriber
+Sep 26, 2016 9:09:52 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRGroupAndLMRSubscriber
+INFO: Succefully clicked on Clear label in the Masterlist DropDown.
+Sep 26, 2016 9:10:09 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRGroupAndLMRSubscriber
+INFO: Succefully selected the 'LMR Group' from the Masterlist DropDown.
+Sep 26, 2016 9:10:16 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRGroupAndLMRSubscriber
+INFO: Successfully located MasterList Search Box and Searched the  LMR Group:91988702895
+Sep 26, 2016 9:10:23 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRGroupAndLMRSubscriber
+INFO: Successfully selected the LMR Subscriber in the MasterList Menu
+Sep 26, 2016 9:10:40 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRGroupAndLMRSubscriber
+INFO: Succefully clicked on Clear label in the Masterlist DropDown.
+Sep 26, 2016 9:10:56 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRGroupAndLMRSubscriber
+INFO: Succefully selected the 'LMR Subscriber' from the Masterlist DropDown.
+Sep 26, 2016 9:10:56 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRGroupAndLMRSubscriber
+INFO: Successfully located MasterList Search Box and Searched the External Contact :91988702691
+Sep 26, 2016 9:11:13 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRGroupAndLMRSubscriber
+INFO: Successfully selected the External Contact in the MasterList Menu
+Sep 26, 2016 9:11:20 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRGroupAndLMRSubscriber
+INFO: Successfully selected 'Generate Activation Code' for Multiple Subscriber
+Sep 26, 2016 9:11:25 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRGroupAndLMRSubscriber
+INFO: Successfully got Multiple Generate Activation Code Warning Message:Activation code is not applicable to selected types of subscribers. No activation code is generated.
+Sep 26, 2016 9:11:32 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRGroupAndLMRSubscriber
+INFO: Successfully clicked on Multiple Generate Activation Code Warning Message OK button
+Sep 26, 2016 9:11:39 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRGroupAndLMRSubscriber
+INFO: Successfully clicked on Multiple Subscriber Select CANCEL button in work Area

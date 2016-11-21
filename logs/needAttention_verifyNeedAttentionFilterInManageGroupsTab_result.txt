@@ -1,0 +1,6 @@
+May 29, 2016 1:25:11 AM com.kodiak.qa.testsuites.InterOpNeedAttnCATExit needAttention_verifyNeedAttentionFilterInManageGroupsTab
+INFO: Test Purpose: To verify 'Need Attention' is displayed in 'Manage Groups' filter
+May 29, 2016 1:25:20 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods NeedAttentionFilterInManageGroups
+INFO: Successfully selected 'Manage Groups' in navigation area
+May 29, 2016 1:25:20 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods NeedAttentionFilterInManageGroups
+INFO: Validation Failed; Manage Group filter doesn't display 'Need Attention'

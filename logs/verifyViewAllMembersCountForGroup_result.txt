@@ -1,0 +1,6 @@
+Sep 23, 2016 5:43:49 PM com.kodiak.qa.testsuites.StandardGroupTestCases verifyViewAllMembersCountForGroup
+INFO: Test Purpose: Validation of View All Members Count for the Group
+Sep 23, 2016 5:43:54 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyViewAllMembersCountForGroup
+INFO: Successfully clicked on 'View All Members' tab for Selected Group in Work Area
+Sep 23, 2016 5:44:07 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyViewAllMembersCountForGroup
+INFO: Failed to Validate that Group Contact Count is 2

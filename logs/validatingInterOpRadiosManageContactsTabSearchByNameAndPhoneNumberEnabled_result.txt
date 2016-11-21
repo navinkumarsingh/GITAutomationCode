@@ -1,0 +1,4 @@
+May 29, 2016 1:16:47 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosManageContactsTabSearchByNameAndPhoneNumberEnabled
+INFO: Validating Inter Op Radios Manage Contacts Tab Advanced Search Enabled
+May 29, 2016 1:16:51 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosManageContactsTabSearchByNameAndPhoneNumberEnabled
+INFO: Successfully validated, Search By Name And Phone Number and the 'Sate is Enabled'

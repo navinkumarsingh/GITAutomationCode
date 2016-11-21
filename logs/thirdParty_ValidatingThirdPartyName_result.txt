@@ -1,0 +1,12 @@
+Sep 27, 2016 12:02:27 AM com.kodiak.qa.testsuites.ThirdPartyProfileValidation thirdParty_ValidatingThirdPartyName
+INFO: Test Purpose: Verify Selected ThirdParty Name in Work Area
+Sep 27, 2016 12:02:55 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifySubscriberName
+INFO: Successfully selected the 'Third Party' from the Masterlist DropDown.
+Sep 27, 2016 12:03:02 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifySubscriberName
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702391
+Sep 27, 2016 12:03:12 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifySubscriberName
+INFO: Successfully selected the Dispatcher in the MasterList Menu
+Sep 27, 2016 12:03:12 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifySubscriberName
+INFO: Validating the 'Existing Name' present for the selected subscriber
+Sep 27, 2016 12:03:16 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifySubscriberName
+INFO: Dispatcher Name is Validated Successfully :AUTOMATION WEB APPLICATION

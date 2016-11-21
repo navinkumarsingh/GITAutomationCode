@@ -1,0 +1,6 @@
+Sep 23, 2016 5:34:28 PM com.kodiak.qa.testsuites.BroadcastGroup validateAddingBroadcatGroupWith1BroadcasterAnd1Member
+INFO: To validate creating a Broadcast Group with 1 Broadcaster and 1 Member
+Sep 23, 2016 5:34:31 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateAddingBroadcatGroupWith1BroadcasterAnd1Member
+INFO: Succefully selected 'Manage Groups' in Navigation area
+Sep 23, 2016 5:34:35 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateAddingBroadcatGroupWith1BroadcasterAnd1Member
+INFO: Succefully selected 'Add New Group' in navigation area

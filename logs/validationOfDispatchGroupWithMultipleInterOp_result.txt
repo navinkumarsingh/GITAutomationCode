@@ -1,0 +1,6 @@
+Sep 23, 2016 5:18:52 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validationOfDispatchGroupWithMultipleInterOp
+INFO: Test Purpose: Validation of Dispatch Group With Multiple InterOp
+Sep 23, 2016 5:19:01 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatchGroupWithMultipleInterOp
+INFO: Successfully entered the Group Name in Groups input field in Group Navigation Area:
+Sep 23, 2016 5:19:11 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatchGroupWithMultipleInterOp
+INFO: Successfully selected the Individual Group in Manage Group Menu

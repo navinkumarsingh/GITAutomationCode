@@ -1,0 +1,16 @@
+Sep 27, 2016 4:28:14 AM com.kodiak.qa.testsuites.CrossCarrierPTTFunctionalityValidation crossCarrier_ValidatingRemoveIconChangeToUndoIconAfterClick
+INFO: Test Purpose: Validating Remove Icon after Click
+Sep 27, 2016 4:28:14 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveIconChangeToUndoIconForSubscriber
+INFO: Validating the Remove Icon Change to Undo Icon
+Sep 27, 2016 4:28:23 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveIconChangeToUndoIconForSubscriber
+INFO: Successfully entered the MDN in the 'SEARCH BY NAME AND PHONE NUMBER' input field
+Sep 27, 2016 4:28:31 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveIconChangeToUndoIconForSubscriber
+INFO: 'Delete Button Tool Tip' validation successful. Displayed Text :Delete
+Sep 27, 2016 4:28:35 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveIconChangeToUndoIconForSubscriber
+INFO: Successfully clicked on the Delete button for the Selected MDN
+Sep 27, 2016 4:28:39 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveIconChangeToUndoIconForSubscriber
+INFO: 'Undo Delete Button Tool Tip' validation successful. Displayed Text :Undo Delete
+Sep 27, 2016 4:28:43 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveIconChangeToUndoIconForSubscriber
+INFO: Successfully Clicked on Undo button for the mdn in the list
+Sep 27, 2016 4:28:43 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveIconChangeToUndoIconForSubscriber
+INFO: Validation Successful: Successfully validated the Remove Icon after clicking on Remove Icon. It should be :Undo Delete

@@ -1,0 +1,6 @@
+Apr 25, 2016 12:37:20 AM com.kodiak.qa.testsuites.WindowClientAssignContactsFilterData windowClient_VerifyExternalClientOnAssignContactsPopup
+INFO: Test Purpose : Verify the External Clients in Assign Contacts Pop up for Window Client
+Apr 25, 2016 12:37:36 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactsCountOnAssignContactsPopup
+INFO: select the drop down to External Contacts in Assign contacts popup
+Apr 25, 2016 12:37:36 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactsCountOnAssignContactsPopup
+INFO: Got the search result count : 1 item found.

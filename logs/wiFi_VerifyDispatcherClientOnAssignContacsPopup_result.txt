@@ -1,0 +1,12 @@
+Sep 27, 2016 2:54:08 AM com.kodiak.qa.testsuites.WiFiClientAssignContactsFilterData wiFi_VerifyDispatcherClientOnAssignContacsPopup
+INFO: Test Purpose : Verify the Dispatcher Clients in Assign Contacts Pop up for WiFiClient Subscriber
+Sep 27, 2016 2:54:31 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_searchPhoneNumber
+INFO: Successfully selected the 'Wi Fi' from the Master-List DropDown.
+Sep 27, 2016 2:54:32 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_searchPhoneNumber
+INFO: enter the a subscriber phone number in the search field : 91988702591
+Sep 27, 2016 2:54:42 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_searchPhoneNumber
+INFO: 1 item found. got in the search result
+Sep 27, 2016 2:55:12 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatcherContactsCountOnAssignContactsPopup
+INFO: select the drop down to Dispatcher in Assign contacts popup
+Sep 27, 2016 2:55:17 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatcherContactsCountOnAssignContactsPopup
+INFO: Got the search result count : 150 items found.

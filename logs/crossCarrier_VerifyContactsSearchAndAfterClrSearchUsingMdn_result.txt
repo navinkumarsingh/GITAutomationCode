@@ -1,0 +1,8 @@
+Sep 27, 2016 4:36:43 AM com.kodiak.qa.testsuites.CrossCarrierPTTBasicSearchTestCase crossCarrier_VerifyContactsSearchAndAfterClrSearchUsingMdn
+INFO: Test Purpose : verify the total count after searching and after clearing the search using Subscriber phone Number
+Sep 27, 2016 4:37:06 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_searchPhoneNumber
+INFO: Successfully selected the 'Cross Carrier' from the Master-List DropDown.
+Sep 27, 2016 4:37:06 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_searchPhoneNumber
+INFO: enter the a subscriber phone number in the search field : 91988702491
+Sep 27, 2016 4:37:16 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_searchPhoneNumber
+INFO: Unable to find the : 91988702491in MasterList navigation serach

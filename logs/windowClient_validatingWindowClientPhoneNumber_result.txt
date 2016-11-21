@@ -1,0 +1,8 @@
+Apr 25, 2016 10:03:24 PM com.kodiak.qa.testsuites.WindowClientProfileValidation windowClient_validatingWindowClientPhoneNumber
+INFO: Test Purpose:  Validating the WindowClient Phone Number
+Apr 25, 2016 10:03:48 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifySubscriberPhoneNumber
+INFO: Successfully selected the 'Window Desktop' from the Master-List DropDown.
+Apr 25, 2016 10:03:57 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifySubscriberPhoneNumber
+INFO: Successfully located MasterList Search Box and Searched the mdn :919931721816
+Apr 25, 2016 10:04:06 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifySubscriberPhoneNumber
+INFO: Successfully selected the Subscriber in the MasterList Menu

@@ -1,0 +1,44 @@
+May 29, 2016 1:20:43 AM com.kodiak.qa.testsuites.InterOpNeedAttnCATExit interOp_verifyGroupIconForInterOpAndDispatcherGroup
+INFO: Test Purpose: verify Group Icons For InterOp And Dispatcher Group
+May 29, 2016 1:20:53 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupIconForInterOpAndDispatcherGroup
+INFO: Successfully selected 'Manage Groups' in the navigation area
+May 29, 2016 1:21:02 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupIconForInterOpAndDispatcherGroup
+INFO: Successfully clicked on 'Add New Group' tab
+May 29, 2016 1:21:06 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupIconForInterOpAndDispatcherGroup
+INFO: Succefully selected 'Dispatch Group' in the Filter
+May 29, 2016 1:21:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupIconForInterOpAndDispatcherGroup
+INFO: Successfully clicked on 'Select Group Type OK' button
+May 29, 2016 1:21:17 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupIconForInterOpAndDispatcherGroup
+INFO: Successfully sent the mdn1 to the 'Assign Contacts Search' field':918899790030
+May 29, 2016 1:21:21 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupIconForInterOpAndDispatcherGroup
+INFO: Successfully clicked on 'Pick Dispatcher Individual Member Check Box'
+May 29, 2016 1:21:25 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupIconForInterOpAndDispatcherGroup
+INFO: Successfully clicked on 'Pick Dispatcher Done' button
+May 29, 2016 1:21:29 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupIconForInterOpAndDispatcherGroup
+INFO: Successfully clicked on 'Manage Members' tab
+May 29, 2016 1:21:36 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupIconForInterOpAndDispatcherGroup
+INFO: Successfully clicked on 'Add Individual Members' button
+May 29, 2016 1:21:40 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupIconForInterOpAndDispatcherGroup
+INFO: Successfully sent interOpRadios to 'Assign Contacts Search' field':915050152070
+May 29, 2016 1:21:44 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupIconForInterOpAndDispatcherGroup
+INFO: Successfully selected the searched member
+May 29, 2016 1:21:48 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupIconForInterOpAndDispatcherGroup
+INFO: Successfully sent interOpRadios to 'Assign Contacts Search' field':916100253252
+May 29, 2016 1:21:53 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupIconForInterOpAndDispatcherGroup
+INFO: Successfully selected the searched member
+May 29, 2016 1:21:57 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupIconForInterOpAndDispatcherGroup
+INFO: Successfully clicked on 'Pick Group Member Done' button
+May 29, 2016 1:22:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupIconForInterOpAndDispatcherGroup
+INFO: Successfully passed the Group Name to the Field
+May 29, 2016 1:22:10 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupIconForInterOpAndDispatcherGroup
+INFO: Successfully clicked on 'Group ADD' button
+May 29, 2016 1:22:16 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupIconForInterOpAndDispatcherGroup
+INFO: Successfully clicked on 'Group Confirm OK' button
+May 29, 2016 1:22:26 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupIconForInterOpAndDispatcherGroup
+INFO: Successfully clicked on 'Group Success OK' button
+May 29, 2016 1:22:38 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupIconForInterOpAndDispatcherGroup
+INFO: Successfully searched for the Group-> AUTOMATION INTER OP GROUP
+May 29, 2016 1:22:38 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupIconForInterOpAndDispatcherGroup
+INFO: Successfully verified Inter-Op Icon is shown when created a Dispatcher Group with Inter-Op Client-> Inter-Op Group or Inter-Op Radio - 1Desktop Client 915050152070
+May 29, 2016 1:22:38 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupIconForInterOpAndDispatcherGroup
+INFO: Successfully verified Dispatcher Icon is shown when created a Dispatcher Group -> Dispatch Group

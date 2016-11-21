@@ -1,0 +1,20 @@
+Sep 27, 2016 2:29:00 AM com.kodiak.qa.testsuites.WiFiClientProfileValidation wiFi_ValidatingSubscriberType
+INFO: Test Purpose: Validating the WiFi Subscriber Type
+Sep 27, 2016 2:29:22 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberType
+INFO: Successfully selected the 'Wi Fi' from the Master-List DropDown.
+Sep 27, 2016 2:29:39 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberType
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702591
+Sep 27, 2016 2:29:48 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberType
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 2:29:52 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberType
+INFO: Successfully got the subscriber type :1
+Sep 27, 2016 2:29:59 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberType
+INFO: Successfully selected the another Subscriber Type from the 'Subscriber Type Drop Down'
+Sep 27, 2016 2:30:03 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberType
+INFO: Successfully updated the subscriber type :2
+Sep 27, 2016 2:30:09 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberType
+INFO: Successfully selected the another Subscriber Type from the 'Subscriber Type Drop Down'
+Sep 27, 2016 2:30:09 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberType
+INFO: Successfully located the 'Subscriber Save Button'
+Sep 27, 2016 2:30:27 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberType
+INFO: Successfully Clicked on Subscriber 'Save success OK' button

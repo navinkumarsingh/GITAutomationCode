@@ -1,0 +1,4 @@
+Apr 25, 2016 1:19:33 AM com.kodiak.qa.testsuites.WindowClientFunctionalityValidation windowClient_ValidatingDisabledSaveButtonIfNoConatcts
+INFO: Test Purpose:  Validating the Save button is Disabled when their is no Contacts Present for the Window Client
+Apr 25, 2016 1:19:41 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDisabledSaveButtonIfNoContacts
+INFO: Successfully validated, 'Save Button' is located and it is in 'Disabled State'

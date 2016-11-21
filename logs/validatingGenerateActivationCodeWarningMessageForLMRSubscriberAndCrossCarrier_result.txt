@@ -1,0 +1,32 @@
+Sep 26, 2016 9:02:26 PM com.kodiak.qa.testsuites.GenerateActivationCode validatingGenerateActivationCodeWarningMessageForLMRSubscriberAndCrossCarrier
+INFO: Test Purpose: validating Generate Activation Code Warning Message For LMR Subscriber and Cross Carrier
+Sep 26, 2016 9:02:42 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRSubscriberAndCrossCarrier
+INFO: Succefully clicked on Clear label in the Masterlist DropDown.
+Sep 26, 2016 9:03:06 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRSubscriberAndCrossCarrier
+INFO: Succefully selected the 'LMR Subscriber' from the Masterlist DropDown.
+Sep 26, 2016 9:03:13 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRSubscriberAndCrossCarrier
+INFO: Successfully located MasterList Search Box and Searched the  LMR Subscriber:91988702691
+Sep 26, 2016 9:03:20 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRSubscriberAndCrossCarrier
+INFO: Successfully selected the LMR Subscriber in the MasterList Menu
+Sep 26, 2016 9:03:36 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRSubscriberAndCrossCarrier
+INFO: Succefully clicked on Clear label in the Masterlist DropDown.
+Sep 26, 2016 9:03:44 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRSubscriberAndCrossCarrier
+INFO: Succefully selected the 'Cross Carrier' from the Masterlist DropDown.
+Sep 26, 2016 9:03:44 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRSubscriberAndCrossCarrier
+INFO: Successfully located MasterList Search Box and Searched the Cross Carrier :91988702491
+Sep 26, 2016 9:04:00 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRSubscriberAndCrossCarrier
+INFO: Successfully selected the Window Client in the MasterList Menu
+Sep 26, 2016 9:04:08 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRSubscriberAndCrossCarrier
+INFO: Successfully selected 'Generate Activation Code' for Multiple Subscriber
+Sep 26, 2016 9:04:13 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRSubscriberAndCrossCarrier
+INFO: Successfully got Multiple Generate Activation Code Warning Message:You have selected few subscribers for which activation code is not applicable. Proceeding with activation code generation excluding such subscribers.
+Sep 26, 2016 9:04:20 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRSubscriberAndCrossCarrier
+INFO: Successfully clicked on Multiple Generate Activation Code Warning Message OK button
+Sep 26, 2016 9:04:25 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRSubscriberAndCrossCarrier
+INFO: Successfully got Multiple Generate Activation Code Warning Message:You have selected to generate new activation codes. Existing activation codes if any will be invalidated. Client will have to re-activate with new activation code. You don’t have to save the changes since the new activation codes are automatically saved after generation.
+Sep 26, 2016 9:04:32 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRSubscriberAndCrossCarrier
+INFO: Successfully clicked on Multiple Generate Activation Code Warning Message OK button
+Sep 26, 2016 9:04:40 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRSubscriberAndCrossCarrier
+INFO: Successfully clicked on Multiple Generate Activation Code Success Message OK button
+Sep 26, 2016 9:04:47 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRSubscriberAndCrossCarrier
+INFO: Successfully clicked on Multiple Subscriber Select CANCEL button in work Area

@@ -1,0 +1,10 @@
+Apr 25, 2016 1:38:16 AM com.kodiak.qa.testsuites.WindowClientBasicSearchTestCase windowClient_VerifyContactsSearchAndAfterClrSearchUsingName
+INFO: Test Purpose : verify the total count after searching and after clearing the search using Subscriber Name
+Apr 25, 2016 1:38:27 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyContactsBefAndAfter
+INFO: enter the a subscriber mdn in the search field : AUTOMATION DISPATCHER 2
+Apr 25, 2016 1:38:40 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyContactsBefAndAfter
+INFO: total contact count after searching : 1
+Apr 25, 2016 1:38:49 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyContactsBefAndAfter
+INFO: total contact count after clearing the search : 1
+Apr 25, 2016 1:38:49 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyContactsBefAndAfter
+INFO: verified the total contact count after serach and clearing the search

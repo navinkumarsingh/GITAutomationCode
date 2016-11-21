@@ -1,0 +1,6 @@
+Apr 25, 2016 1:20:23 AM com.kodiak.qa.testsuites.WindowClientFunctionalityValidation windowClient_ValidatingCancelButtonManageIndividualContacts
+INFO: Test Purpose: Validating the 'Cancel' button for 'Manage Individual Contacts' tab
+Apr 25, 2016 1:20:31 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCancelButtonManageIndividualContacts
+INFO: Successfully validated, clicked on 'Cancel' button, in work area
+Apr 25, 2016 1:20:35 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCancelButtonManageIndividualContacts
+INFO: Successfully validated, Master List Help Icon

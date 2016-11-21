@@ -1,0 +1,6 @@
+May 11, 2016 2:41:20 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySearchResultAfterPerformingFilterChange
+INFO: Validating Search Result And Clear Label After Performing Basic Search With Valid Format Mdn
+May 11, 2016 2:41:34 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySearchResultAfterPerformingFilterChange
+INFO: Successfully selected the 'Wi-Fi' from the Masterlist DropDown.
+May 11, 2016 2:41:44 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySearchResultAfterPerformingFilterChange
+INFO: Successfully validated the 'Basic Search' result for Valid Format Mdn after changing the filter:1 item found.

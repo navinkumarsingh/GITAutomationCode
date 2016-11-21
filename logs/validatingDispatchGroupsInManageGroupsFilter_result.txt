@@ -1,0 +1,2 @@
+Sep 26, 2016 5:39:50 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingDispatchGroupsInManageGroupsFilter
+INFO: Test Purpose: Validation of 'Dispatch Groups' in 'Manage Groups Filter'

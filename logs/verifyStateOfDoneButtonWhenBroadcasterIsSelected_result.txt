@@ -1,0 +1,8 @@
+Sep 23, 2016 5:31:41 PM com.kodiak.qa.testsuites.BroadcastGroup verifyStateOfDoneButtonWhenBroadcasterIsSelected
+INFO: To verify the State Of Done Button When a Broacaster Is Selected
+Sep 23, 2016 5:31:45 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfDoneButtonWhenBroadcasterIsSelected
+INFO: Successfully sent the mdn1 to the 'Pick Broadcaster' search field':918899790032
+Sep 23, 2016 5:31:49 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfDoneButtonWhenBroadcasterIsSelected
+INFO: Successfully selected the searched MDN
+Sep 23, 2016 5:31:53 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfDoneButtonWhenBroadcasterIsSelected
+INFO: Successfully verified the state of Pick Broadcasters 'Done' button as 'Enabled' when a broadcaster is selected

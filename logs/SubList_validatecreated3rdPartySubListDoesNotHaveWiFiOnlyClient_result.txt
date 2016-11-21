@@ -1,0 +1,4 @@
+Sep 23, 2016 5:57:52 PM com.kodiak.qa.testsuites.SubListRelatedTestCases SubList_validatecreated3rdPartySubListDoesNotHaveWiFiOnlyClient
+INFO: To validate created 3rd Party SubList Does Not Have WiFi-Only Client
+Sep 23, 2016 5:57:55 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods sublist_created3rdPartySubListDoesNotHaveWiFiOnlyClient
+INFO: Searching the searchList

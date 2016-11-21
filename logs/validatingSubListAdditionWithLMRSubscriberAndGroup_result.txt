@@ -1,0 +1,22 @@
+Sep 26, 2016 8:21:09 PM com.kodiak.qa.testsuites.LMRSubscriberAndLMRGroupValidation validatingSubListAdditionWithLMRSubscriberAndGroup
+INFO: Test Purpose : Validate LMR Subscriber and Group in Pick Individual Member Popup
+Sep 26, 2016 8:21:09 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAdditionWithLMRSubscriberAndGroup
+INFO: Validating the Sub List Addition in Manage Sub List
+Sep 26, 2016 8:21:27 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAdditionWithLMRSubscriberAndGroup
+INFO: Succefully selected 'Manage Sub Lists' in the Navigation Bar
+Sep 26, 2016 8:21:36 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAdditionWithLMRSubscriberAndGroup
+INFO: Succefully selected 'Add New Sub Lists' in the Navigation Bar
+Sep 26, 2016 8:21:42 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAdditionWithLMRSubscriberAndGroup
+INFO: Succefully selected 'Sub List Add Members' in the Work Area
+Sep 26, 2016 8:21:48 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAdditionWithLMRSubscriberAndGroup
+INFO: Successfully sent 'LMR Subscriber' in Pick Sub List Pop Up search input field:91988702691
+Sep 26, 2016 8:22:08 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAdditionWithLMRSubscriberAndGroup
+INFO: Validated Successfully that  'LMR Subscriber' is not present in 'Pick Sub-List Members' pop up.Displayed Text:
+Sep 26, 2016 8:22:18 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAdditionWithLMRSubscriberAndGroup
+INFO: Successfully sent 'LMR Group' in Pick Sub List Pop Up search input field
+Sep 26, 2016 8:22:38 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAdditionWithLMRSubscriberAndGroup
+INFO: Successfully sent 'LMR Group' in Pick Sub List Pop Up search input field:
+Sep 26, 2016 8:22:44 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAdditionWithLMRSubscriberAndGroup
+INFO: Successfully to click on 'Pick Sub-List Members' pop up CANCEL button
+Sep 26, 2016 8:22:49 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAdditionWithLMRSubscriberAndGroup
+INFO: Successfully clicked on SUB LIST CANCEL button in work area

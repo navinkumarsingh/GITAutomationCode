@@ -1,0 +1,4 @@
+Mar 04, 2016 4:04:44 PM com.kodiak.qa.testsuites.LMT_HEADER verifyPrintDialoq
+INFO: Test Purpose: Verify Print Dialoq
+Mar 04, 2016 4:04:49 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPrintDialoq
+INFO: Successfully sent the Subscriber to the Basic Search Text Field :48893101124

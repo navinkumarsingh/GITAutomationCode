@@ -1,0 +1,6 @@
+Sep 26, 2016 10:32:12 PM com.kodiak.qa.testsuites.ThirdPartyAssignContactsFilterData thirdParty_VerifySuMdnContactsPopup
+INFO: Test Purpose : Verify the Sumdn Clients in Assign Contacts Pop up for ThirdParty Subscriber
+Sep 26, 2016 10:32:28 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySuMdnsClientOnAssignContacsPopup
+INFO: select the drop down to SuMdn Contacts in Assign contacts popup
+Sep 26, 2016 10:32:33 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySuMdnsClientOnAssignContacsPopup
+INFO: Got the search result count : 200 items found.

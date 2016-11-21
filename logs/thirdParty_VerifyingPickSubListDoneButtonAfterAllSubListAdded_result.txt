@@ -1,0 +1,6 @@
+Sep 26, 2016 11:10:10 PM com.kodiak.qa.testsuites.ThirdPartyManageContactsViaSubListFunctionality thirdParty_VerifyingPickSubListDoneButtonAfterAllSubListAdded
+INFO: Test Purpose: verifying Sub List Done Button after All Sub List added
+Sep 26, 2016 11:10:10 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListDoneButtonAfterAllSubListAdded
+INFO: Validating the Pick Sub List Done button after all the sublist added
+Sep 26, 2016 11:10:16 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListDoneButtonAfterAllSubListAdded
+INFO: Successfully validated, 'Pick Sub List Done' button is located and it is in 'Disabled State'

@@ -1,0 +1,6 @@
+Sep 27, 2016 12:09:15 AM com.kodiak.qa.testsuites.ThirdPartyProfileValidation thirdParty_ValidatingTotalCountInWorkAreaAfterSelectingDisaptcherInMasterList
+INFO: Test Purpose:  Validating the ThirdParty Total Records
+Sep 27, 2016 12:09:25 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountInWorkAreaAfterSelectingSubscriberInMasterList
+INFO: Successfully clicked on Subscriber in MasterList
+Sep 27, 2016 12:09:29 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountInWorkAreaAfterSelectingSubscriberInMasterList
+INFO: 'Total Subscriber Record' validation successful. Displayed Text :0

@@ -1,0 +1,20 @@
+May 08, 2016 1:01:34 AM com.kodiak.qa.testsuites.ThirdPartyFunctionalityValidationManageIndividualList thirdParty_VerifyingStateOfRemoveIconAfterCancelAndOk
+INFO: Test Purpose: Verifying State of Undo Icon Before and After click on Cancel and OK button
+May 08, 2016 1:01:34 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemoveIconAfterCancelAndOk
+INFO: Validating the State of Remove Icon After Cancel and Ok
+May 08, 2016 1:01:34 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemoveIconAfterCancelAndOk
+INFO: Successfully get the Undo Icon title after clicking on 'Save' and 'Cancel' button :Undo Delete
+May 08, 2016 1:01:42 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemoveIconAfterCancelAndOk
+INFO: Successfully clicked on Subscriber Profile 'Cancel' button
+May 08, 2016 1:01:47 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemoveIconAfterCancelAndOk
+INFO: Successfully clicked on Subscriber Profile 'OK' button
+May 08, 2016 1:02:07 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemoveIconAfterCancelAndOk
+INFO: Successfully selected the 'Third party' from the Master-List DropDown.
+May 08, 2016 1:02:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemoveIconAfterCancelAndOk
+INFO: Successfully located MasterList Search Box and Searched the mdn :919900010746
+May 08, 2016 1:02:16 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemoveIconAfterCancelAndOk
+INFO: Successfully selected the Subscriber in the MasterList Menu
+May 08, 2016 1:02:16 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemoveIconAfterCancelAndOk
+INFO: Successfully located 'Search by name and phone number' input field and sent the mdn :919900010561
+May 08, 2016 1:02:22 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemoveIconAfterCancelAndOk
+INFO: Successfully validated the Undo Icon after clicking on 'Save' and 'Cancel' button :Delete

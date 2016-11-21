@@ -1,0 +1,8 @@
+Sep 23, 2016 5:23:58 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingDispatchGroupCreatedWithSupervisor
+INFO: Test Purpose: Validation of Dispatch Group Created With Supervisor
+Sep 23, 2016 5:24:08 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatchGroupCreatedWithSupervisor
+INFO: Successfully selected the Individual Group in Manage Group Menu
+Sep 23, 2016 5:24:12 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatchGroupCreatedWithSupervisor
+INFO: Successfully clicked on 'MANAGE SUPERVISOR' tab
+Sep 23, 2016 5:24:16 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatchGroupCreatedWithSupervisor
+INFO: Successfully clicked on 'ASSIGN SUPERVISOR' tab

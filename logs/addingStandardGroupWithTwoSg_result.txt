@@ -1,0 +1,2 @@
+Nov 11, 2015 7:15:29 AM com.kodiak.qa.testsuites.SuAndSgPhoneNumberValidation addingStandardGroupWithTwoSg
+INFO: Test Purpose : Validate The Group Creation With Two SG Phone Number

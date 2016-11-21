@@ -1,0 +1,32 @@
+May 08, 2016 12:59:13 AM com.kodiak.qa.testsuites.ThirdPartyFunctionalityValidationManageIndividualList thirdParty_VerifyingStateOfRemoveIcon
+INFO: Test Purpose: Verifying State of Remove Icon after clicking on 'Remove Icon'
+May 08, 2016 12:59:13 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemoveIcon
+INFO: Validating the State of remove Icon
+May 08, 2016 12:59:22 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemoveIcon
+INFO: Successfully clicked on 'Assign Contacts' button
+May 08, 2016 12:59:27 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemoveIcon
+INFO: Successfully sent the MDN in the 'Pick Contacts Searched Field' :919900010561
+May 08, 2016 12:59:31 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemoveIcon
+INFO: Successfully clicked on 'Select All' checkbox which will select the Searched MDN :919900010561
+May 08, 2016 12:59:37 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemoveIcon
+INFO: Successfully sent the MDN in the 'Pick Contacts Searched Field' :919900010547 
+May 08, 2016 12:59:46 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemoveIcon
+INFO: Successfully clicked on 'Select All' checkbox which will select the Searched MDN :919900010547 
+May 08, 2016 12:59:52 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemoveIcon
+INFO: Successfully validated and Clicked on Done button
+May 08, 2016 12:59:52 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemoveIcon
+INFO: Successfully clicked on 'Save' button
+May 08, 2016 12:59:57 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemoveIcon
+INFO: Successfully clicked on success message 'OK' button
+May 08, 2016 1:00:22 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemoveIcon
+INFO: Successfully selected the 'Third party' from the Master-List DropDown.
+May 08, 2016 1:00:41 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemoveIcon
+INFO: Successfully located MasterList Search Box and Searched the mdn :919900010746
+May 08, 2016 1:00:41 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemoveIcon
+INFO: Successfully selected the Subscriber in the MasterList Menu
+May 08, 2016 1:00:50 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemoveIcon
+INFO: Successfully located 'Search by name and phone number' input field and sent the mdn :919900010561
+May 08, 2016 1:00:57 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemoveIcon
+INFO: Successfully clicked on 'Remove Icon'  for searched mdn
+May 08, 2016 1:01:01 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemoveIcon
+INFO: Successfully get the Undo Icon title before clicking on 'Save' and 'Cancel' button :Undo Delete

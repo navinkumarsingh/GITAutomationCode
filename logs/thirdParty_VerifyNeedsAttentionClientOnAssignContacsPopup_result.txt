@@ -1,0 +1,6 @@
+Sep 26, 2016 10:30:59 PM com.kodiak.qa.testsuites.ThirdPartyAssignContactsFilterData thirdParty_VerifyNeedsAttentionClientOnAssignContacsPopup
+INFO: Test Purpose : Verify the Needs Attention Clients in Assign Contacts Pop up for ThirdParty Subscriber
+Sep 26, 2016 10:31:20 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyNeedsAttentionClientsCountOnAssignContactsPopup
+INFO: select the drop down to Needs Attention Clients Contacts in Assign contacts popup
+Sep 26, 2016 10:31:25 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyNeedsAttentionClientsCountOnAssignContactsPopup
+INFO: Got the search result count : 544 items found.

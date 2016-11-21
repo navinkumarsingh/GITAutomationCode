@@ -1,0 +1,8 @@
+Apr 25, 2016 10:02:21 PM com.kodiak.qa.testsuites.WindowClientProfileValidation windowClient_validatingChangedWindowClientEmail
+INFO: Test purpose: Validating the WindowClient Name Cleared and assigned a New Name
+Apr 25, 2016 10:02:48 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifySubscriberEmail
+INFO: Successfully selected the 'Window Desktop' from the Masterlist DropDown.
+Apr 25, 2016 10:03:04 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifySubscriberEmail
+INFO: Successfully located MasterList Search Box and Searched the mdn :919931721816
+Apr 25, 2016 10:03:13 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifySubscriberEmail
+INFO: Successfully selected the Subscriber in the MasterList Menu

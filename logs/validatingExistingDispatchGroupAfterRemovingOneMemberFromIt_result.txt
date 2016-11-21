@@ -1,0 +1,10 @@
+Sep 23, 2016 5:26:09 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingExistingDispatchGroupAfterRemovingOneMemberFromIt
+INFO: Test Purpose: Validation of Existing Dispatch Group After Removing One Member From It
+Sep 23, 2016 5:26:10 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExistingDispatchGroupAfterRemovingOneMemberFromIt
+INFO: Successfully entered the Group Name in Groups input field in Group Navigation Area
+Sep 23, 2016 5:26:15 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExistingDispatchGroupAfterRemovingOneMemberFromIt
+INFO: 1 item found. got in the search result for validating Group in the Group Navigation
+Sep 23, 2016 5:26:25 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExistingDispatchGroupAfterRemovingOneMemberFromIt
+INFO: Successfully selected the Individual Group in Manage Group Menu
+Sep 23, 2016 5:26:38 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExistingDispatchGroupAfterRemovingOneMemberFromIt
+INFO: Failed to Validated Group Contact Count Before Removing Member is

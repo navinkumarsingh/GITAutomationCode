@@ -1,0 +1,2 @@
+Sep 27, 2016 2:49:10 AM com.kodiak.qa.testsuites.WiFiClientBasicSearchTestCase validatingDeletingMemberForContinuation
+INFO: Test Purpose : Deleting All the Members from the selected Wi Fi for Continuation

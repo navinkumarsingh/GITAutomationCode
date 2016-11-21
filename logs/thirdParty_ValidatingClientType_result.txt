@@ -1,0 +1,4 @@
+Sep 27, 2016 12:07:54 AM com.kodiak.qa.testsuites.ThirdPartyProfileValidation thirdParty_ValidatingClientType
+INFO: Test Purpose:  Validating the ThirdParty Subscriber Client Type
+Sep 27, 2016 12:07:59 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyClientType
+INFO: 'Client Type' validation successful. Displayed Text :Integrated Web Application

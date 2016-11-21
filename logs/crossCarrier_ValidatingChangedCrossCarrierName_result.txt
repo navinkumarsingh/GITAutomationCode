@@ -1,0 +1,22 @@
+Sep 27, 2016 3:38:24 AM com.kodiak.qa.testsuites.CrossCarrierPTTProfileValidation crossCarrier_ValidatingChangedCrossCarrierName
+INFO: Test purpose: Validating the CrossCarrier Name Cleared and assigned a New Name
+Sep 27, 2016 3:38:50 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberName
+INFO: Successfully selected the 'Cross Carrier' from the Masterlist DropDown.
+Sep 27, 2016 3:38:57 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberName
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702491
+Sep 27, 2016 3:39:06 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberName
+INFO: Successfully selected the Dispatcher in the MasterList Menu
+Sep 27, 2016 3:39:06 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberName
+INFO: Validating the 'Existing Name' present for the selected subscriber
+Sep 27, 2016 3:39:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberName
+INFO: Dispatcher Name is Validated Successfully :12Disp@$
+Sep 27, 2016 3:39:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberNameAfterModification
+INFO: Validating the Subscriber Name Cleared and assigned a New Name
+Sep 27, 2016 3:39:25 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberNameAfterModification
+INFO: Successfully Validated the Subscriber after Clearing the existing Dispatcher Name and assigning the new 'Dispatcher Name' : AUTOMATION CROSS CARRIER 
+Sep 27, 2016 3:39:32 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberNameAfterModification
+INFO: Successfully located the 'Subscriber Save Button'
+Sep 27, 2016 3:39:39 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberNameAfterModification
+INFO: Successfully Clicked on Subscriber 'Save' button
+Sep 27, 2016 3:39:44 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberNameAfterModification
+INFO: Successfully validated Assigning new name for Subscriber

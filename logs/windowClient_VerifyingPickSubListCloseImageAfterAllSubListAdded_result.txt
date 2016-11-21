@@ -1,0 +1,10 @@
+Apr 25, 2016 12:23:22 AM com.kodiak.qa.testsuites.WindowClientManageContactsViaSubListFunctionality windowClient_VerifyingPickSubListCloseImageAfterAllSubListAdded
+INFO: Test Purpose: verifying Sub List Cancel Button after All Sub List added
+Apr 25, 2016 12:23:22 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCloseImageAfterAllSubListAdded
+INFO: Validating the Pick Sub List Close image after all the sublist added
+Apr 25, 2016 12:23:28 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCloseImageAfterAllSubListAdded
+INFO: Successfully clicked on 'Add Sub List' tab in Work Area
+Apr 25, 2016 12:23:34 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCloseImageAfterAllSubListAdded
+INFO: Successfully clicked on 'Pick Sub List Popup Cancel' button
+Apr 25, 2016 12:23:49 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCloseImageAfterAllSubListAdded
+INFO: Successfully Validated the Cancel button. Hence we are able to find the Total Count on manage Conatacts Via Sub-Lists :

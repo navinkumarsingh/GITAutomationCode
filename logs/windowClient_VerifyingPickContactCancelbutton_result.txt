@@ -1,0 +1,24 @@
+Apr 25, 2016 12:06:49 AM com.kodiak.qa.testsuites.WindowClientFunctionalityValidationManageIndividualList windowClient_VerifyingPickContactCancelbutton
+INFO: Test Purpose: Verifying Pick Contact Cancel  Button
+Apr 25, 2016 12:07:16 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyPickContactCancelButton
+INFO: Successfully selected the 'Window Desktop' from the Master-List DropDown.
+Apr 25, 2016 12:07:22 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyPickContactCancelButton
+INFO: Successfully located MasterList Search Box and Searched the mdn :919931721816
+Apr 25, 2016 12:07:31 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyPickContactCancelButton
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Apr 25, 2016 12:07:35 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyPickContactCancelButton
+INFO: 'Total Subscriber Record' validation successful. Displayed Text :0
+Apr 25, 2016 12:07:41 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyPickContactCancelButton
+INFO: Successfully clicked on 'Assign Contacts' button
+Apr 25, 2016 12:07:44 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyPickContactCancelButton
+INFO: Successfully clicked on 'Select All' checkbox
+Apr 25, 2016 12:07:47 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyPickContactCancelButton
+INFO: Validated Successfully the 'Max Limit Warning Message :You can add max 50 contacts/members/Sub-Lists at a time. Selected first 50 contacts/members/Sub-Lists for addition
+Apr 25, 2016 12:07:50 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyPickContactCancelButton
+INFO: Successfully clicked on 'Max Limit Warning Message OK' button
+Apr 25, 2016 12:07:54 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyPickContactCancelButton
+INFO: Successfully clicked on 'Pick Conatcts Popup Cancel' button
+Apr 25, 2016 12:07:54 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyPickContactCancelButton
+INFO: 'Total Subscriber Record' validation successful. Displayed Text :0
+Apr 25, 2016 12:07:54 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyPickContactCancelButton
+INFO: Successfully Validated the Cancel button. Hence, Before and after Total Count is same :0

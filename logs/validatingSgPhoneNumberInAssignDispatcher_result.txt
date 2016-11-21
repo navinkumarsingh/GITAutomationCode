@@ -1,0 +1,16 @@
+Sep 26, 2016 8:19:50 PM com.kodiak.qa.testsuites.LMRSubscriberAndLMRGroupValidation validatingSgPhoneNumberInAssignDispatcher
+INFO: Test Purpose : Validate The LMR Group in Assign DIspatcher Popup
+Sep 26, 2016 8:20:08 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLMRGroupInAssignDispatcher
+INFO: Successfully clicked on 'Add New Group' tab
+Sep 26, 2016 8:20:12 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLMRGroupInAssignDispatcher
+INFO: Successfully got the Dialog Text:Select Group Type
+Sep 26, 2016 8:20:16 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLMRGroupInAssignDispatcher
+INFO: Succefully selected Dispatch Group in the Filter
+Sep 26, 2016 8:20:21 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLMRGroupInAssignDispatcher
+INFO: Successfully clicked on 'Select Group Type OK' button
+Sep 26, 2016 8:20:27 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLMRGroupInAssignDispatcher
+INFO: Successfully sent the LMR Group to the 'Assign Contacts Search' field':91988702895
+Sep 26, 2016 8:20:33 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLMRGroupInAssignDispatcher
+INFO: Successfully validate LMR Group in 'Pick Dispacther' popup : Displayed text0 items found
+Sep 26, 2016 8:20:37 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLMRGroupInAssignDispatcher
+INFO: Successfully clicked on 'Pick Dispatcher Cancel' button

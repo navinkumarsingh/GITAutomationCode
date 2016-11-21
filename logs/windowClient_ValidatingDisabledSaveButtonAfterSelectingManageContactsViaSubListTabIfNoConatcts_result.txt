@@ -1,0 +1,4 @@
+Apr 25, 2016 1:21:08 AM com.kodiak.qa.testsuites.WindowClientFunctionalityValidation windowClient_ValidatingDisabledSaveButtonAfterSelectingManageContactsViaSubListTabIfNoConatcts
+INFO: Test Purpose:  Validating the Save button is Disabled when their is no Contacts Present for the Window Client after selecting 'Manage Contacts Via Sub-List'
+Apr 25, 2016 1:21:16 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDisabledSaveButtonIfNoContacts
+INFO: Successfully validated, 'Save Button' is located and it is in 'Disabled State'

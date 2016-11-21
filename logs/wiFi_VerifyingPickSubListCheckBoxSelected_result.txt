@@ -1,0 +1,4 @@
+Sep 27, 2016 2:17:17 AM com.kodiak.qa.testsuites.WiFiClientManageContactsViaSubListFunctionality wiFi_VerifyingPickSubListCheckBoxSelected
+INFO: Test Purpose: Verifying 'Pick Sub List Popup checkbox is selected
+Sep 27, 2016 2:17:17 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCheckBoxSelected
+INFO: Validating the Pick Sub List Check Box Selected

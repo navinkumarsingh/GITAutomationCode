@@ -1,0 +1,22 @@
+Sep 27, 2016 4:14:26 AM com.kodiak.qa.testsuites.CrossCarrierPTTFunctionalityValidationManageIndividualList crossCarrier_VerifyingRemovedMdnInAssignContactsPopup
+INFO: Test Purpose: Verifying State of removed MDN in the 'Assign Contacts' popup
+Sep 27, 2016 4:14:48 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully selected the 'Cross Carrier' from the Master-List DropDown.
+Sep 27, 2016 4:14:55 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702491
+Sep 27, 2016 4:15:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 4:15:09 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully clicked on 'Assign Contacts' button
+Sep 27, 2016 4:15:16 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully sent the MDN in the 'Pick Contacts Searched Field' :91988702592
+Sep 27, 2016 4:15:21 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully clicked on 'Select All' checkbox which will select the Searched MDN :91988702592
+Sep 27, 2016 4:15:29 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully validated and Clicked on Done button to add the for continuation for Automation :91988702592
+Sep 27, 2016 4:15:37 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully clicked on 'Remove All' label
+Sep 27, 2016 4:15:46 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully Clicked on Subscriber 'Save' button
+Sep 27, 2016 4:15:57 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully Clicked on Subscriber Save Success OK button

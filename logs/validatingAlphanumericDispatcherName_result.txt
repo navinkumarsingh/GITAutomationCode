@@ -1,0 +1,10 @@
+Sep 27, 2016 12:57:35 AM com.kodiak.qa.testsuites.DispatcherProfileValidation validatingAlphanumericDispatcherName
+INFO: Test Purpose: Verify Alphanumeric Dispatcher Name
+Sep 27, 2016 12:57:42 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyAlphanumericSubscriberName
+INFO: Validating the Subscriber Name Cleared and assigned a New Name
+Sep 27, 2016 12:57:48 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyAlphanumericSubscriberName
+INFO: Successfully Validated the Subscriber after Clearing the existing Dispatcher Name and assigning the new 'Alphanumeric Dispatcher Name' : 12Disp@$
+Sep 27, 2016 12:57:54 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyAlphanumericSubscriberName
+INFO: Successfully Clicked on Subscriber 'Save' button
+Sep 27, 2016 12:58:00 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyAlphanumericSubscriberName
+INFO: Successfully clicked on OK button and validated  the Subscriber after Clearing the existing Subscriber Name and assigning the new 'Alphanumeric Dispatcher Name' : 12Disp@$

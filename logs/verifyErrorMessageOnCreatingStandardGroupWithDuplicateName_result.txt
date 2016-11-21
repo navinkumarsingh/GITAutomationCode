@@ -1,0 +1,24 @@
+Sep 23, 2016 5:42:01 PM com.kodiak.qa.testsuites.StandardGroupTestCases verifyErrorMessageOnCreatingStandardGroupWithDuplicateName
+INFO: Test Purpose: Validation Error Message on Creating Standard Group with Duplicate Name
+Sep 23, 2016 5:42:10 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyErrorMessageOnCreatingStandardGroupWithDuplicateName
+INFO: Successfully clicked on 'Add New Group' tab
+Sep 23, 2016 5:42:18 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyErrorMessageOnCreatingStandardGroupWithDuplicateName
+INFO: Successfully clicked on 'Select Group Type OK' button
+Sep 23, 2016 5:42:26 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyErrorMessageOnCreatingStandardGroupWithDuplicateName
+INFO: Successfully clicked on 'Add Individual Members' button
+Sep 23, 2016 5:42:31 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyErrorMessageOnCreatingStandardGroupWithDuplicateName
+INFO: Successfully sent the mdn1 to the 'Assign Contacts Search' field':916100253151
+Sep 23, 2016 5:42:35 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyErrorMessageOnCreatingStandardGroupWithDuplicateName
+INFO: Successfully clicked on 'Select All' checkbox
+Sep 23, 2016 5:42:41 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyErrorMessageOnCreatingStandardGroupWithDuplicateName
+INFO: Successfully sent the mdn1 to the 'Assign Contacts Search' field':916100253052
+Sep 23, 2016 5:42:45 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyErrorMessageOnCreatingStandardGroupWithDuplicateName
+INFO: Successfully clicked on 'Select All' checkbox
+Sep 23, 2016 5:42:49 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyErrorMessageOnCreatingStandardGroupWithDuplicateName
+INFO: Successfully clicked on 'Pick Group Member Done' button
+Sep 23, 2016 5:42:55 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyErrorMessageOnCreatingStandardGroupWithDuplicateName
+INFO: Successfully passed the Group Name to the Field:AUTOMATION STANDARD GROUP
+Sep 23, 2016 5:43:03 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyErrorMessageOnCreatingStandardGroupWithDuplicateName
+INFO: Successfully clicked on 'Group ADD' button
+Sep 23, 2016 5:43:11 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyErrorMessageOnCreatingStandardGroupWithDuplicateName
+INFO: Successfully clicked on 'Error Message OK' button

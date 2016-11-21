@@ -1,0 +1,6 @@
+Sep 23, 2016 5:20:31 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingSaveButtonInWorkAreaForExistingDispatchGroup
+INFO: Test Purpose: Validation of Save Button is Disabled In Work Area For Existing Dispatch Group
+Sep 23, 2016 5:20:41 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySaveButtonInWorkAreaForExistingDispatchGroup
+INFO: Successfully selected the Individual Group in Manage Group Menu
+Sep 23, 2016 5:20:45 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySaveButtonInWorkAreaForExistingDispatchGroup
+INFO: Successfully validated, The 'Existing Group Save Button' is located and it is in 'Disabled State'

@@ -1,0 +1,6 @@
+Sep 27, 2016 3:30:42 AM com.kodiak.qa.testsuites.CrossCarrierPTTAssignContactsFilterData crossCarrier_VerifyCrossCarrierClientOnAssignContactsPopup
+INFO: Test Purpose : Verify the CrossCarrier Clients in Assign Contacts Pop up for Cross Carrier Client
+Sep 27, 2016 3:30:58 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCrossCarrierClientOnAssignContacsPopup
+INFO: select the drop down to CrossCarrier  Contacts in Assign contacts popup
+Sep 27, 2016 3:31:03 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCrossCarrierClientOnAssignContacsPopup
+INFO: Got the search result count : 99 items found.

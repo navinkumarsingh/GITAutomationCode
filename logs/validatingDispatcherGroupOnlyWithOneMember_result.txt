@@ -1,0 +1,14 @@
+Sep 23, 2016 5:15:33 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingDispatcherGroupOnlyWithOneMember
+INFO: Test Purpose: Validation of Creation of Dispatch Group
+Sep 23, 2016 5:15:38 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatcherGroupOnlyWithOneMember
+INFO: Successfully sent the mdn1 to the 'Assign Contacts Search' field':916100253252
+Sep 23, 2016 5:15:42 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatcherGroupOnlyWithOneMember
+INFO: Successfully clicked on 'Select All' checkbox
+Sep 23, 2016 5:15:47 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatcherGroupOnlyWithOneMember
+INFO: Successfully clicked on 'Pick Group Member Done' button
+Sep 23, 2016 5:15:53 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatcherGroupOnlyWithOneMember
+INFO: Successfully passed the Group Name to the Field:AUTOMATION DISPATCH GROUP 
+Sep 23, 2016 5:16:01 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatcherGroupOnlyWithOneMember
+INFO: Successfully clicked on 'Group ADD' button
+Sep 23, 2016 5:16:09 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatcherGroupOnlyWithOneMember
+INFO: Unable to find: 'Name' should have at least one non- space character.in the Error Message Popup

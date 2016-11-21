@@ -1,0 +1,10 @@
+Sep 27, 2016 2:05:21 AM com.kodiak.qa.testsuites.DispatcherBasicSearchTestCase dispatcher_SearchSubscriberName
+INFO: Test Purpose : Search a subcriber name in MasterList Search
+Sep 27, 2016 2:05:21 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchName
+INFO: Verifying  the Name in the MasterList Navigation Area
+Sep 27, 2016 2:05:26 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchName
+INFO: Succefully selected Manage Master List in Navigation Area
+Sep 27, 2016 2:05:33 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchName
+INFO: enter the a subscriber name in the search field : AUTOMATION DISPATCHER 1
+Sep 27, 2016 2:05:38 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchName
+INFO: Unable to find the : AUTOMATION DISPATCHER 1in MasterList navigation serach

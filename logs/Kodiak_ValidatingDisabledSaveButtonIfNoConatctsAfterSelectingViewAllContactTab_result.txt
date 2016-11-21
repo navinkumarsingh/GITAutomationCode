@@ -1,0 +1,4 @@
+Sep 27, 2016 1:45:51 AM com.kodiak.qa.testsuites.DispatcherFunctionalityValidation Kodiak_ValidatingDisabledSaveButtonIfNoConatctsAfterSelectingViewAllContactTab
+INFO: Test Purpose:  Validating the Save button is Disabled when their is no Contacts Present for the Dispatcher after selecting 'View All Contacts' tab
+Sep 27, 2016 1:45:59 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDisabledSaveButtonIfNoContacts
+INFO: Successfully validated, 'Save Button' is located and it is in 'Disabled State'

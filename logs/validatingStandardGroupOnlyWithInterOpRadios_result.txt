@@ -1,0 +1,10 @@
+Sep 23, 2016 5:45:59 PM com.kodiak.qa.testsuites.StandardGroupTestCases validatingStandardGroupOnlyWithInterOpRadios
+INFO: Test Purpose: Validation of Standard Group Only With Inter Op Radios
+Sep 23, 2016 5:46:09 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStandardGroupOnlyWithInterOpRadios
+INFO: Successfully clicked on 'Add New Group' tab
+Sep 23, 2016 5:46:17 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStandardGroupOnlyWithInterOpRadios
+INFO: Successfully clicked on 'Select Group Type OK' button
+Sep 23, 2016 5:46:25 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStandardGroupOnlyWithInterOpRadios
+INFO: Successfully clicked on 'Add Individual Members' button
+Sep 23, 2016 5:46:35 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStandardGroupOnlyWithInterOpRadios
+INFO: Failed to Locate Workarea Search

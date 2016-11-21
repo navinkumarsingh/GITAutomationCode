@@ -1,0 +1,4 @@
+Nov 08, 2016 7:08:11 PM com.kodiak.qa.testsuites.LMRSubscriberAndLMRGroupValidation validatingLMRSubscriberAndGroupHelpText
+INFO: Test Purpose: Validate LMR Subscriber and Group Help Text
+Nov 08, 2016 7:08:19 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLMRSubscriberAndGroupHelpText
+INFO: Verify LMR Subscriber and Group Help Text

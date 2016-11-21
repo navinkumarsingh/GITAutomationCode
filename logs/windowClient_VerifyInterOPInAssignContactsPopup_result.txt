@@ -1,0 +1,32 @@
+Nov 11, 2015 2:21:09 AM com.kodiak.qa.testsuites.WindowClientAssignContactsFilterData windowClient_VerifyInterOPInAssignContactsPopup
+INFO: Test Purpose : Verify the Inter-op Radios filter available or not in Assign Contacts Pop up for Window Client
+Nov 11, 2015 2:21:32 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wc_searchPhoneNumber
+INFO: Successfully selected the 'Window Desktop' from the Master-List DropDown.
+Nov 11, 2015 2:21:32 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wc_searchPhoneNumber
+INFO: enter the a subscriber phone number in the search field : 91988701530
+Nov 11, 2015 2:21:42 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wc_searchPhoneNumber
+INFO: 1 item found. got in the search result
+Nov 11, 2015 2:22:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOPinDropDown
+INFO: all drop down values :  All
+Nov 11, 2015 2:22:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOPinDropDown
+INFO: all drop down values :  Corporate
+Nov 11, 2015 2:22:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOPinDropDown
+INFO: all drop down values :  Corporate-Public
+Nov 11, 2015 2:22:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOPinDropDown
+INFO: all drop down values :  Dispatchers
+Nov 11, 2015 2:22:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOPinDropDown
+INFO: all drop down values :  External
+Nov 11, 2015 2:22:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOPinDropDown
+INFO: all drop down values :  Needs Attention
+Nov 11, 2015 2:22:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOPinDropDown
+INFO: all drop down values :  Wi-Fi Only Client
+Nov 11, 2015 2:22:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOPinDropDown
+INFO: all drop down values :  Windows Desktop Client
+Nov 11, 2015 2:22:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOPinDropDown
+INFO: all drop down values :  3rd Party Application
+Nov 11, 2015 2:22:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOPinDropDown
+INFO: all drop down values :  Cross Carrier PTT Client
+Nov 11, 2015 2:22:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOPinDropDown
+INFO: all drop down values :  SU Phone Number
+Nov 11, 2015 2:22:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOPinDropDown
+INFO: Inter-op Radios option is not available in Assign Contacts Drop down

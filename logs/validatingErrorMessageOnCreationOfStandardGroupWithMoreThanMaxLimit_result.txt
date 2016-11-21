@@ -1,0 +1,10 @@
+Sep 23, 2016 5:44:29 PM com.kodiak.qa.testsuites.StandardGroupTestCases validatingErrorMessageOnCreationOfStandardGroupWithMoreThanMaxLimit
+INFO: Test Purpose: Validation of Error Message On Creation Of Standard Group With More Than Max Limit
+Sep 23, 2016 5:44:40 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyErrorMessageOnCreationOfStandardGroupWithMoreThanMaxLimit
+INFO: Successfully clicked on 'Select All' checkbox
+Sep 23, 2016 5:44:49 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyErrorMessageOnCreationOfStandardGroupWithMoreThanMaxLimit
+INFO: Successfully clicked on 'OK' button for Warning Message
+Sep 23, 2016 5:44:53 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyErrorMessageOnCreationOfStandardGroupWithMoreThanMaxLimit
+INFO: Successfully clicked on 'Pick Group Member Done' button
+Sep 23, 2016 5:45:01 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyErrorMessageOnCreationOfStandardGroupWithMoreThanMaxLimit
+INFO: Successfully clicked on 'Add Individual Members' button

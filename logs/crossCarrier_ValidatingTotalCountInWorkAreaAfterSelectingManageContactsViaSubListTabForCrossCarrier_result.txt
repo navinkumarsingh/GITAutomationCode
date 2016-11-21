@@ -1,0 +1,6 @@
+Sep 27, 2016 3:48:59 AM com.kodiak.qa.testsuites.CrossCarrierPTTProfileValidation crossCarrier_ValidatingTotalCountInWorkAreaAfterSelectingManageContactsViaSubListTabForCrossCarrier
+INFO: Test Purpose:  Validating the Total Count in work area after selecting Manage Contacts Via Sub List tab for CrossCarrier
+Sep 27, 2016 3:49:08 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountForManageContactsViaSubList
+INFO: Successfully clicked on Subscriber 'Manage Contacts Via SubList' tab in Work Area
+Sep 27, 2016 3:49:12 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountForManageContactsViaSubList
+INFO: 'Total Contact after selecting 'Manage Contacts Via SubList' tab for Subscriber' validation successful. Displayed Text :0

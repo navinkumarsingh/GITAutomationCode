@@ -1,0 +1,2 @@
+Sep 27, 2016 2:19:05 AM com.kodiak.qa.testsuites.WiFiClientManageContactsViaSubListFunctionality wiFi_VerifyingStateOfSubListRemovalIconAfterChangingTheFilter
+INFO: Test Purpose: verifying State Of Sub List Removal Icon

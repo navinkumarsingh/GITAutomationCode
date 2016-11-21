@@ -1,0 +1,8 @@
+Sep 27, 2016 2:06:34 AM com.kodiak.qa.testsuites.DispatcherBasicSearchTestCase dispatcher_VerifyContactsSearchAndAfterClrSearchUsingMdn
+INFO: Test Purpose : verify the total count after searching and after clearing the search using Subscriber phone Number
+Sep 27, 2016 2:06:47 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods d_searchPhoneNumber
+INFO: Succefully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 27, 2016 2:06:47 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods d_searchPhoneNumber
+INFO: enter the a subscriber phone number in the search field : 91988702141 
+Sep 27, 2016 2:06:54 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods d_searchPhoneNumber
+INFO: Unable to find the : 91988702141 in MasterList navigation serach

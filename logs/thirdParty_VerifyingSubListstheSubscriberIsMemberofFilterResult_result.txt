@@ -1,0 +1,4 @@
+Sep 26, 2016 11:10:54 PM com.kodiak.qa.testsuites.ThirdPartyManageContactsViaSubListFunctionality thirdParty_VerifyingSubListstheSubscriberIsMemberofFilterResult
+INFO: Test Purpose: verifying Sub Lists the Subscriber Is Member of Filter Result
+Sep 26, 2016 11:10:54 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListstheSubscriberIsMemberofFilterResult
+INFO: Validating the Sub-Lists the subscriber is member of filter result

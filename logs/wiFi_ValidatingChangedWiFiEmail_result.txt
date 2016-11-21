@@ -1,0 +1,22 @@
+Sep 27, 2016 2:32:23 AM com.kodiak.qa.testsuites.WiFiClientProfileValidation wiFi_ValidatingChangedWiFiEmail
+INFO: Test purpose: Validating the WiFi Name Cleared and assigned a New Name
+Sep 27, 2016 2:32:49 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberEmail
+INFO: Successfully selected the 'Wi Fi' from the Masterlist DropDown.
+Sep 27, 2016 2:32:59 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberEmail
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702591
+Sep 27, 2016 2:33:17 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberEmail
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 2:33:21 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberEmail
+INFO: Dispatcher email is Validated Successfully :
+Sep 27, 2016 2:33:46 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberEmailAfterModification
+INFO: Successfully selected the 'Wi Fi' from the Master-List DropDown.
+Sep 27, 2016 2:34:04 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberEmailAfterModification
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702591
+Sep 27, 2016 2:34:15 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberEmailAfterModification
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 2:34:19 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberEmailAfterModification
+INFO: Successfully Validated the Subscriber after Clearing the existing Dispatcher Email and assigning the new 'Dispatcher Email' : itg@kodiaknetworks.com
+Sep 27, 2016 2:34:27 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberEmailAfterModification
+INFO: Successfully located and clicked on 'Subscriber Save Button'
+Sep 27, 2016 2:34:27 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberEmailAfterModification
+INFO: Successfully clicked on 'Subscriber Save Button' and validated Assigning new Email for DIspatcher  :itg@kodiaknetworks.com

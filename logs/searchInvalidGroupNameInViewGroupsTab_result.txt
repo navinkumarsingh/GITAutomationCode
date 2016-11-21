@@ -1,0 +1,2 @@
+Sep 27, 2016 2:47:55 AM com.kodiak.qa.testsuites.WiFiClientBasicSearchTestCase searchInvalidGroupNameInViewGroupsTab
+INFO: Test Purpose : Search a invalid Group Name in View Groups Tab

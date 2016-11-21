@@ -1,0 +1,22 @@
+Apr 25, 2016 1:25:59 AM com.kodiak.qa.testsuites.WindowClientFunctionalityValidation windowClient_ValidatingUndoAfterRemoveAllLabel
+INFO: Test Purpose: Validating UNDO after Remove All label
+Apr 25, 2016 1:26:25 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyUndoAfterRemoveAllLabel
+INFO: Successfully selected the 'Window Desktop' from the Master-List DropDown.
+Apr 25, 2016 1:26:35 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyUndoAfterRemoveAllLabel
+INFO: Successfully located MasterList Search Box and Searched the mdn :919931721816
+Apr 25, 2016 1:26:45 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyUndoAfterRemoveAllLabel
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Apr 25, 2016 1:26:50 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyUndoAfterRemoveAllLabel
+INFO: 'Total Contacts Before Clicking on Remove All Label' validation successful. Displayed Text :50
+Apr 25, 2016 1:26:54 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyUndoAfterRemoveAllLabel
+INFO: Successfully clicked on 'Remove All' label
+Apr 25, 2016 1:26:58 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyUndoAfterRemoveAllLabel
+INFO: 'Total Contacts' after cliking on Remove All label validation successful. Displayed Text :0
+Apr 25, 2016 1:27:03 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyUndoAfterRemoveAllLabel
+INFO: Successfully entered the MDN in the 'SEARCH BY NAME AND PHONE NUMBER' input field
+Apr 25, 2016 1:27:07 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyUndoAfterRemoveAllLabel
+INFO: Successfully Clicked on Undo button for the mdn in the list
+Apr 25, 2016 1:27:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyUndoAfterRemoveAllLabel
+INFO: 'Total Dispatcher Record' validation successful. Displayed Text :1
+Apr 25, 2016 1:27:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyUndoAfterRemoveAllLabel
+INFO: Validation Successful: Successfully validated the 'UNDO' function

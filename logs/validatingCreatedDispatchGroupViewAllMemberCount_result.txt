@@ -1,0 +1,4 @@
+Sep 23, 2016 5:24:27 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingCreatedDispatchGroupViewAllMemberCount
+INFO: Test Purpose: Validation of Created Dispatch Group View All Member Count
+Sep 23, 2016 5:24:37 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreatedDispatchGroupViewAllMemberCount
+INFO: Successfully selected the Individual Group in Manage Group Menu

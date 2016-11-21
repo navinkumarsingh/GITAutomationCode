@@ -1,0 +1,10 @@
+Sep 27, 2016 3:31:53 AM com.kodiak.qa.testsuites.CrossCarrierPTTAssignContactsFilterData crossCarrier_VerifySelectedcontactAvailableInManageIndividualContacts
+INFO: Test Purpose : Verify the Added contacts is avaiable or not in Manage Individual Contact for Cross Carrier Client
+Sep 27, 2016 3:32:09 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods ccClear_searchPhoneNumber
+INFO: Succefully clicked on Clear label in the Masterlist DropDown.
+Sep 27, 2016 3:32:32 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods ccClear_searchPhoneNumber
+INFO: Successfully selected the 'Cross Carrier' from the Master-List DropDown.
+Sep 27, 2016 3:32:32 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods ccClear_searchPhoneNumber
+INFO: enter the a subscriber phone number in the search field : 91988702491
+Sep 27, 2016 3:32:42 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods ccClear_searchPhoneNumber
+INFO: 1 item found. got in the search result

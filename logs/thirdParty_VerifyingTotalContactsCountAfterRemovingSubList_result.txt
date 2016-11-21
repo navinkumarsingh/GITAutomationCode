@@ -1,0 +1,4 @@
+Sep 26, 2016 11:12:02 PM com.kodiak.qa.testsuites.ThirdPartyManageContactsViaSubListFunctionality thirdParty_VerifyingTotalContactsCountAfterRemovingSubList
+INFO: Test Purpose: verifying Total Contacts Count After Removing SubList
+Sep 26, 2016 11:12:02 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalContactsCountAfterRemovingSubList
+INFO: verify Total Contacts Count after 'Removing a Sub_List' under 'Manage Contacts Via Sub-Lists' tab

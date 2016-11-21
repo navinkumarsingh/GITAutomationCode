@@ -1,0 +1,8 @@
+Apr 25, 2016 1:20:39 AM com.kodiak.qa.testsuites.WindowClientFunctionalityValidation windowClient_ValidatingTotalCountInWorkAreaAfterSelectingManageContactsViaSubListTabForSubscriberWithNoContacts
+INFO: Test Purpose:  Validating the Total Count in work area after selecting Manage Contacts Via Sub List tab for Window Client after selecting 'Manage Contacts Via Sub-List'
+Apr 25, 2016 1:20:55 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountForManageContactsViaSubListIfNoContacts
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Apr 25, 2016 1:21:00 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountForManageContactsViaSubListIfNoContacts
+INFO: Successfully clicked on Subscriber 'Manage Contacts Via SubList' tab in Work Area
+Apr 25, 2016 1:21:04 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountForManageContactsViaSubListIfNoContacts
+INFO: 'Total Contact after selecting 'Manage Contacts Via SubList' tab for Subscriber' validation successful. Displayed Text :0

@@ -1,0 +1,20 @@
+Apr 25, 2016 12:26:35 AM com.kodiak.qa.testsuites.WindowClientManageContactsViaSubListFunctionality windowClient_VerifyStateOfSubListRemovalIconAfterClickOnViewGroupsTab
+INFO: Test Purpose: verifying State Of Sub List Removal Icon after revert back from 'View Groups' tab
+Apr 25, 2016 12:26:40 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnViewGroupsTab
+INFO: 'Successfully clicked on Undo Icon
+Apr 25, 2016 12:26:44 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnViewGroupsTab
+INFO: 'Before clicking on SubList Remove Icon Tool Tip' validation successful. Displayed Text :Delete
+Apr 25, 2016 12:26:50 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnViewGroupsTab
+INFO: Successfully clicked on SubList Remove Icon
+Apr 25, 2016 12:26:55 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnViewGroupsTab
+INFO: 'Before switching back from 'View Groups' tab 'SubList Remove Icon Tool Tip' validation successful. Displayed Text :Undo Delete
+Apr 25, 2016 12:27:00 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnViewGroupsTab
+INFO: Successfully clicked on 'View Groups' tab
+Apr 25, 2016 12:27:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnViewGroupsTab
+INFO: Successfully clicked on 'Manage Contacts' tab in Work Area
+Apr 25, 2016 12:27:10 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnViewGroupsTab
+INFO: Successfully revert back to the 'Manage Contacts Via SubList' tab in Work Area
+Apr 25, 2016 12:27:14 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnViewGroupsTab
+INFO: Successfully validated, 'Search by name and phone number' input field for 'Manage Contacts Via SubList', is located and send the SubList name to search :AutomationSubList1
+Apr 25, 2016 12:27:19 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnViewGroupsTab
+INFO: 'After switching from 'Manage Individual Conatct' tab 'SubList Remove Icon Tool Tip' validation successful. Displayed Text :Undo Delete

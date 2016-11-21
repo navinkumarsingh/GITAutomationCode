@@ -1,0 +1,14 @@
+Sep 27, 2016 1:55:52 AM com.kodiak.qa.testsuites.DispatcherAssignContactsFilterData Dispatcher_VerifyDispatcherClientOnAssignContacsPopup
+INFO: Test Purpose : Verify the Dispatcher Clients in Assign Contacts Pop up for Dispatcher Subscriber
+Sep 27, 2016 1:56:08 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchPhoneNumber
+INFO: Successfully clicked on Clear label in the Masterlist DropDown.
+Sep 27, 2016 1:56:24 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchPhoneNumber
+INFO: Succefully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 27, 2016 1:56:24 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchPhoneNumber
+INFO: enter the a subscriber phone number in the search field : 91988702141 
+Sep 27, 2016 1:56:31 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchPhoneNumber
+INFO: 1 item found. got in the search result
+Sep 27, 2016 1:57:00 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatcherContactsCountOnAssignContactsPopup
+INFO: select the drop down to Dispatcher in Assign contacts popup
+Sep 27, 2016 1:57:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatcherContactsCountOnAssignContactsPopup
+INFO: Got the search result count : 149 items found.

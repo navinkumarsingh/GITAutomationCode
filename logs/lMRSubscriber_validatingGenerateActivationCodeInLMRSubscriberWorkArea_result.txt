@@ -1,0 +1,6 @@
+Nov 08, 2016 7:08:54 PM com.kodiak.qa.testsuites.LMRSubscriberAndLMRGroupValidation lMRSubscriber_validatingGenerateActivationCodeInLMRSubscriberWorkArea
+INFO: Test Purpose: Validate LMR Subscriber Work Area Text
+Nov 08, 2016 7:09:02 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeInLMRSubscriberWorkArea
+INFO: Validating 'Generate Activation Code' for Selected Subscriber
+Nov 08, 2016 7:09:06 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeInLMRSubscriberWorkArea
+INFO: Successfully located the 'Generate Activation Code' is Present for the 'LMR Subscriber'

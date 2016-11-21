@@ -1,0 +1,4 @@
+Sep 23, 2016 5:23:38 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingDispatchGroupCreatedWithTwoMembersInManageGroup
+INFO: Test Purpose: Validation of Dispatch Group Created With Two Members In Manage Group
+Sep 23, 2016 5:23:48 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatchGroupCreatedWithTwoMembersInManageGroup
+INFO: Successfully clicked on 'Add New Group' tab

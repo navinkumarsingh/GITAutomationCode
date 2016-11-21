@@ -1,0 +1,2 @@
+Sep 27, 2016 2:47:04 AM com.kodiak.qa.testsuites.WiFiClientBasicSearchTestCase wiFi_VerifySubscriberNameInViewAllContactsTab
+INFO: Test Purpose : Search a subscriber Name in View All Contacts Tab

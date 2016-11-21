@@ -1,0 +1,6 @@
+Sep 27, 2016 3:29:51 AM com.kodiak.qa.testsuites.CrossCarrierPTTAssignContactsFilterData crossCarrier_VerifyNeedsAttentionClientOnAssignContacsPopup
+INFO: Test Purpose : Verify the Needs Attention Clients in Assign Contacts Pop up for Cross Carrier Client
+Sep 27, 2016 3:30:12 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyNeedsAttentionClientsCountOnAssignContactsPopup
+INFO: select the drop down to Needs Attention Clients Contacts in Assign contacts popup
+Sep 27, 2016 3:30:17 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyNeedsAttentionClientsCountOnAssignContactsPopup
+INFO: Got the search result count : 545 items found.

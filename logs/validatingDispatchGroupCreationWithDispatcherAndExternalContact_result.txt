@@ -1,0 +1,4 @@
+Sep 23, 2016 5:25:31 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingDispatchGroupCreationWithDispatcherAndExternalContact
+INFO: Test Purpose: Validation of Dispatch Group After Changing The Existing Dispatcher
+Sep 23, 2016 5:25:40 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatchGroupCreationWithDispatcherAndExternalContact
+INFO: Successfully clicked on 'Add New Group' tab

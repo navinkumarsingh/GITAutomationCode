@@ -1,0 +1,6 @@
+Sep 26, 2016 11:09:38 PM com.kodiak.qa.testsuites.ThirdPartyManageContactsViaSubListFunctionality thirdParty_VerifyingSubListAndContactCountAfterSubListAdded
+INFO: Test Purpose: verifying Sub List And Contact Count After Sub List Added
+Sep 26, 2016 11:09:38 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAndContactCountAfterSubListAdded
+INFO: Validating the Pick Sub List Check Box Selected
+Sep 26, 2016 11:09:58 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAndContactCountAfterSubListAdded
+INFO: Failed to get the present Sub Lists count Before adding 'Sub-List' under 'Manage Contacts Via Sub-Lists' tab

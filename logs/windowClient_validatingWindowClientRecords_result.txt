@@ -1,0 +1,10 @@
+Apr 25, 2016 10:04:48 PM com.kodiak.qa.testsuites.WindowClientProfileValidation windowClient_validatingWindowClientRecords
+INFO: Test Purpose:  Validating the WindowClient Total Records
+Apr 25, 2016 10:05:10 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifySubscriberRecords
+INFO: Successfully selected the 'Window Desktop' from the Master-List DropDown.
+Apr 25, 2016 10:05:19 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifySubscriberRecords
+INFO: Successfully located MasterList Search Box and Searched the mdn :919931721816
+Apr 25, 2016 10:05:28 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifySubscriberRecords
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Apr 25, 2016 10:05:32 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifySubscriberRecords
+INFO: 'Total Subscriber Record' validation successful. Displayed Text :4 items found.

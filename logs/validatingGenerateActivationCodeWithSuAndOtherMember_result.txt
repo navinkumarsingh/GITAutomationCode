@@ -1,0 +1,14 @@
+May 03, 2016 7:49:45 PM com.kodiak.qa.testsuites.LMRSubscriberAndLMRGroupValidation validatingGenerateActivationCodeWithSuAndOtherMember
+INFO: Test Purpose: Verifying Generate Activation Code With LMR Subscriber and Other Member
+May 03, 2016 7:50:03 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithLMRSubscriberAndOtherMember
+INFO: Succefully selected Manage Master List in Navigation Area
+May 03, 2016 7:50:16 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithLMRSubscriberAndOtherMember
+INFO: Succefully selected the 'LMR Subscriber' from the Masterlist DropDown.
+May 03, 2016 7:50:23 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithLMRSubscriberAndOtherMember
+INFO: Successfully located MasterList Search Box and Searched the LMR Subscriber:919900010755
+May 03, 2016 7:50:31 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithLMRSubscriberAndOtherMember
+INFO: Successfully selected the LMR Subscriber in the MasterList Menu
+May 03, 2016 7:50:50 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithLMRSubscriberAndOtherMember
+INFO: Succefully selected the 'Cross Carrier' from the Masterlist DropDown.
+May 03, 2016 7:50:58 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithLMRSubscriberAndOtherMember
+INFO: Successfully located MasterList Search Box and Searched the Cross Carrier :919900010521

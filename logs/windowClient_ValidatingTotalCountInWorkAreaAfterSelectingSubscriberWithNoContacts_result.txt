@@ -1,0 +1,10 @@
+Apr 25, 2016 1:18:41 AM com.kodiak.qa.testsuites.WindowClientFunctionalityValidation windowClient_ValidatingTotalCountInWorkAreaAfterSelectingSubscriberWithNoContacts
+INFO: Test Purpose:  Validating the Dispatcher Total Records
+Apr 25, 2016 1:19:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyTotalCountIfNoContacts
+INFO: Successfully selected the 'Window Desktop' from the Master-List DropDown.
+Apr 25, 2016 1:19:14 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyTotalCountIfNoContacts
+INFO: Successfully located MasterList Search Box and Searched the mdn :919931721816
+Apr 25, 2016 1:19:24 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyTotalCountIfNoContacts
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Apr 25, 2016 1:19:28 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyTotalCountIfNoContacts
+INFO: 'Total Subscriber Record' in work area validation successful. Displayed Text :0

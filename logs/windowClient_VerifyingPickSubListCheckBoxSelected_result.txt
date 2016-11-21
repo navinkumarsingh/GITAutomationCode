@@ -1,0 +1,16 @@
+Apr 25, 2016 12:20:34 AM com.kodiak.qa.testsuites.WindowClientManageContactsViaSubListFunctionality windowClient_VerifyingPickSubListCheckBoxSelected
+INFO: Test Purpose: Verifying 'Pick Sub List Popup checkbox is selected
+Apr 25, 2016 12:20:34 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCheckBoxSelected
+INFO: Validating the Pick Sub List Check Box Selected
+Apr 25, 2016 12:20:42 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCheckBoxSelected
+INFO: Succefully selected the 'Pick Sub List Popup Select All' checkbox
+Apr 25, 2016 12:20:46 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCheckBoxSelected
+INFO: User active check box is already checked
+Apr 25, 2016 12:20:53 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCheckBoxSelected
+INFO: Succefully unselected the 'Pick Sub List Popup Select All' checkbox
+Apr 25, 2016 12:20:58 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCheckBoxSelected
+INFO: Succefully sent 'Automation Sub List1 Member' in Pick Sub List Pop Up search field
+Apr 25, 2016 12:21:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCheckBoxSelected
+INFO: Succefully selected the 'Pick Sub List Popup Select All' checkbox
+Apr 25, 2016 12:21:14 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCheckBoxSelected
+INFO: Succefully selected 'Pick Sub List Done' Button

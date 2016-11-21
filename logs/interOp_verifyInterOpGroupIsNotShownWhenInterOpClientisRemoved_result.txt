@@ -1,0 +1,20 @@
+May 29, 2016 1:22:58 AM com.kodiak.qa.testsuites.InterOpNeedAttnCATExit interOp_verifyInterOpGroupIsNotShownWhenInterOpClientisRemoved
+INFO: Test Purpose: To verify Inter Op Group is Not Shown When InterOp Client is Removed
+May 29, 2016 1:23:07 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpGroupIsNotShownWhenInterOpClientisRemoved
+INFO: Successfully selected the Group : AUTOMATION INTER OP GROUP
+May 29, 2016 1:23:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpGroupIsNotShownWhenInterOpClientisRemoved
+INFO: Successfully searched the inter-op client: 915050152070
+May 29, 2016 1:23:15 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpGroupIsNotShownWhenInterOpClientisRemoved
+INFO: Successfully removed the inter-op client from the Group
+May 29, 2016 1:23:22 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpGroupIsNotShownWhenInterOpClientisRemoved
+INFO: Successfully clicked on 'Save' button
+May 29, 2016 1:23:28 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpGroupIsNotShownWhenInterOpClientisRemoved
+INFO: Successfully clicked on 'Group Confirm OK' button
+May 29, 2016 1:23:38 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpGroupIsNotShownWhenInterOpClientisRemoved
+INFO: Successfully clicked on 'Group Success OK' button
+May 29, 2016 1:23:43 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpGroupIsNotShownWhenInterOpClientisRemoved
+INFO: Successfully selected 'Inter-Op Groups' filter
+May 29, 2016 1:23:55 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpGroupIsNotShownWhenInterOpClientisRemoved
+INFO: Successfully searched for the Group-> AUTOMATION INTER OP GROUP
+May 29, 2016 1:23:55 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpGroupIsNotShownWhenInterOpClientisRemoved
+INFO: Failed to verify Inter-Op Group is not Shown When 'Inter-Op' Client is removed

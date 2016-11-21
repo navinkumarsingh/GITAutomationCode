@@ -1,0 +1,22 @@
+Sep 26, 2016 9:15:48 PM com.kodiak.qa.testsuites.GenerateActivationCode validatingGenerateActivationCodeWithMultipleLMRSubscriber
+INFO: Test Purpose: Verifying Generate Activation Code With LMR Subscriber and Other Member
+Sep 26, 2016 9:16:04 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithMultipleLMRSubscriber
+INFO: Succefully clicked on Clear label in the Masterlist DropDown.
+Sep 26, 2016 9:16:27 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithMultipleLMRSubscriber
+INFO: Succefully selected the 'LMR Subscriber' from the Masterlist DropDown.
+Sep 26, 2016 9:16:35 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithMultipleLMRSubscriber
+INFO: Successfully located MasterList Search Box and Searched the  LMR Subscriber:91988702691
+Sep 26, 2016 9:16:42 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithMultipleLMRSubscriber
+INFO: Successfully selected the LMR Subscriber in the MasterList Menu
+Sep 26, 2016 9:16:42 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithMultipleLMRSubscriber
+INFO: Successfully located MasterList Search Box and Searched the LMR Subscriber :91988702692
+Sep 26, 2016 9:17:00 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithMultipleLMRSubscriber
+INFO: Successfully selected the LMR Subscriber in the MasterList Menu
+Sep 26, 2016 9:17:08 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithMultipleLMRSubscriber
+INFO: Successfully selected 'Generate Activation Code' for Multiple Subscriber
+Sep 26, 2016 9:17:13 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithMultipleLMRSubscriber
+INFO: Successfully got Multiple Generate Activation Code Warning Message:Activation code is not applicable to selected types of subscribers. No activation code is generated.
+Sep 26, 2016 9:17:20 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithMultipleLMRSubscriber
+INFO: Successfully clicked on Multiple Generate Activation Code Warning Message OK button
+Sep 26, 2016 9:17:27 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithMultipleLMRSubscriber
+INFO: Successfully clicked on Multiple Subscriber Select CANCEL button in work Area

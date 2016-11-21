@@ -1,0 +1,14 @@
+Sep 27, 2016 3:42:34 AM com.kodiak.qa.testsuites.CrossCarrierPTTProfileValidation crossCarrier_ValidatingCrossCarrierWithoutEmail
+INFO: Test Purpose: Verify CrossCarrier Without Email
+Sep 27, 2016 3:42:34 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutEmail
+INFO: Validating Subscriber without passing Email
+Sep 27, 2016 3:42:40 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutEmail
+INFO: Successfully Cleared the existing Subscriber Email
+Sep 27, 2016 3:42:50 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutEmail
+INFO: Successfully selected the another Subscriber Type from the 'Subscriber Type Drop Down'
+Sep 27, 2016 3:42:57 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutEmail
+INFO: Successfully selected the another Subscriber Type from the 'Subscriber Type Drop Down' :
+Sep 27, 2016 3:43:06 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutEmail
+INFO: Successfully located and clicked on 'Subscriber Save Button'
+Sep 27, 2016 3:43:12 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutEmail
+INFO: Successfully validated Subscriber without Email

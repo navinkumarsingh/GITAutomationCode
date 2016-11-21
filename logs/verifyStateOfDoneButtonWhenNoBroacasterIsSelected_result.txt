@@ -1,0 +1,4 @@
+Sep 23, 2016 5:31:37 PM com.kodiak.qa.testsuites.BroadcastGroup verifyStateOfDoneButtonWhenNoBroacasterIsSelected
+INFO: To verify the State Of Done Button When No Broacaster Is Selected
+Sep 23, 2016 5:31:41 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfDoneButtonWhenNoBroacasterIsSelected
+INFO: Successfully verified the state of Pick Broadcasters 'Done' button as 'Disabled' when no broadcaster is selected

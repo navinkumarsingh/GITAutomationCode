@@ -1,0 +1,4 @@
+Sep 27, 2016 1:43:26 AM com.kodiak.qa.testsuites.DispatcherFunctionalityValidation Kodiak_ValidatingDisabledAdvancedStateOfSearchInputField
+INFO: Test Purpose:  Validating the 'Advanced Search Disabled State' when their is no Contacts Present for the Dispatcher
+Sep 27, 2016 1:43:34 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfAdvanceSearchDisabled
+INFO: Successfully validated, 'Advanced Search' icon is located and it is in 'Disabled State'

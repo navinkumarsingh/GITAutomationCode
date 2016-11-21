@@ -1,0 +1,10 @@
+May 11, 2016 1:52:01 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subscriberValidNameAdvancedSearchResult
+INFO: Validating Advance Search Result
+May 11, 2016 1:52:14 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subscriberValidNameAdvancedSearchResult
+INFO: Successfully located and clicked on Master List Advance Search Button
+May 11, 2016 1:52:23 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subscriberValidNameAdvancedSearchResult
+INFO: Successfully sent the mdn name to the Advance Search popup name text fieldAUTOMATION DISPATCHER 1
+May 11, 2016 1:52:29 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subscriberValidNameAdvancedSearchResult
+INFO: Successfully clicked on 'Advance Search button
+May 11, 2016 1:52:33 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subscriberValidNameAdvancedSearchResult
+INFO: Successfully validated the 'Advance Search' result for Valid Mdn Name:1 item found.

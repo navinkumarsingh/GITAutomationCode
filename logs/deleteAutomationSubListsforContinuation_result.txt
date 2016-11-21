@@ -1,0 +1,6 @@
+Sep 23, 2016 5:36:33 PM com.kodiak.qa.testsuites.BroadcastGroup deleteAutomationSubListsforContinuation
+INFO: Validating Sublist Deletion
+Sep 23, 2016 5:36:49 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods deleteautomationsublists
+INFO: Succefully selected 'Manage Sub Lists' in the Navigation Bar
+Sep 23, 2016 5:36:55 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods deleteautomationsublists
+INFO: Successfully located Manage Sub List Search Box and Searched the Sub List :Automation Wifi

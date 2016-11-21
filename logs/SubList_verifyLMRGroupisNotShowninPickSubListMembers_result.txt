@@ -1,0 +1,8 @@
+Sep 23, 2016 5:57:41 PM com.kodiak.qa.testsuites.SubListRelatedTestCases SubList_verifyLMRGroupisNotShowninPickSubListMembers
+INFO: To verify 'LMR Groups' is not shown in 'Pick Sub-List Members' drop down
+Sep 23, 2016 5:57:44 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLMRGroupisNotShowninPickSubListMembers
+INFO: Succefully selected 'Add New Sub Lists' in the Navigation Bar
+Sep 23, 2016 5:57:48 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLMRGroupisNotShowninPickSubListMembers
+INFO: Succefully selected 'Sub List Add Members' in the Work Area
+Sep 23, 2016 5:57:49 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLMRGroupisNotShowninPickSubListMembers
+INFO: Validation Successful; 'LMR Group' is not shown in Pick Sub-List Members List

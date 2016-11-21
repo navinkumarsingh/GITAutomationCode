@@ -1,0 +1,4 @@
+Sep 27, 2016 2:08:34 AM com.kodiak.qa.testsuites.DispatcherBasicSearchTestCase dispatcher_VerifyingViewGroupsFilterDispatchGroupsList
+INFO: Test Purpose: Verifying the mouse Over On Group Icon
+Sep 27, 2016 2:08:34 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyViewGroupsFilterDispatchGroupsList
+INFO: Validating the Dispatcher count for Dispatch Groups in View Group Filter 

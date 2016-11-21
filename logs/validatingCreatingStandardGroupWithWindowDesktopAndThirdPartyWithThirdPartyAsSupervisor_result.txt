@@ -1,0 +1,40 @@
+Apr 25, 2016 1:55:41 PM com.kodiak.qa.testsuites.StandardGroupTestCases validatingCreatingStandardGroupWithWindowDesktopAndThirdPartyWithThirdPartyAsSupervisor
+INFO: Test Purpose: Validation of Creating Standard Group With Window Desktop And Third Party With Third Party As Supervisor
+Apr 25, 2016 1:55:50 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreatingStandardGroupWithWindowDesktopAndThirdPartyWithThirdPartyAsSupervisor
+INFO: Successfully clicked on 'Add New Group' tab
+Apr 25, 2016 1:55:58 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreatingStandardGroupWithWindowDesktopAndThirdPartyWithThirdPartyAsSupervisor
+INFO: Successfully clicked on 'Select Group Type OK' button
+Apr 25, 2016 1:56:07 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreatingStandardGroupWithWindowDesktopAndThirdPartyWithThirdPartyAsSupervisor
+INFO: Successfully clicked on 'Add Individual Members' button
+Apr 25, 2016 1:56:12 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreatingStandardGroupWithWindowDesktopAndThirdPartyWithThirdPartyAsSupervisor
+INFO: Successfully sent the mdn1 to the 'Assign Contacts Search' field':919931721816
+Apr 25, 2016 1:56:17 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreatingStandardGroupWithWindowDesktopAndThirdPartyWithThirdPartyAsSupervisor
+INFO: Successfully clicked on 'Select All' checkbox
+Apr 25, 2016 1:56:22 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreatingStandardGroupWithWindowDesktopAndThirdPartyWithThirdPartyAsSupervisor
+INFO: Successfully sent the mdn1 to the 'Assign Contacts Search' field':91988702883
+Apr 25, 2016 1:56:26 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreatingStandardGroupWithWindowDesktopAndThirdPartyWithThirdPartyAsSupervisor
+INFO: Successfully clicked on 'Select All' checkbox
+Apr 25, 2016 1:56:31 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreatingStandardGroupWithWindowDesktopAndThirdPartyWithThirdPartyAsSupervisor
+INFO: Successfully clicked on 'Pick Group Member Done' button
+Apr 25, 2016 1:56:35 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreatingStandardGroupWithWindowDesktopAndThirdPartyWithThirdPartyAsSupervisor
+INFO: Successfully clicked on 'MANAGE SUPERVISOR' tab
+Apr 25, 2016 1:56:39 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreatingStandardGroupWithWindowDesktopAndThirdPartyWithThirdPartyAsSupervisor
+INFO: Successfully clicked on 'ASSIGN SUPERVISOR' tab
+Apr 25, 2016 1:56:45 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreatingStandardGroupWithWindowDesktopAndThirdPartyWithThirdPartyAsSupervisor
+INFO: Successfully sent the MDN in the 'Pick Contacts Searched Field' :91988702883
+Apr 25, 2016 1:56:49 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreatingStandardGroupWithWindowDesktopAndThirdPartyWithThirdPartyAsSupervisor
+INFO: Successfully clicked on 'Select All' checkbox
+Apr 25, 2016 1:56:53 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreatingStandardGroupWithWindowDesktopAndThirdPartyWithThirdPartyAsSupervisor
+INFO: Successfully clicked on 'Pick Supervisor Done' button
+Apr 25, 2016 1:57:02 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreatingStandardGroupWithWindowDesktopAndThirdPartyWithThirdPartyAsSupervisor
+INFO: Successfully passed the Group Name to the Field:AUTOMA GROUP WIN THIRD AND WI
+Apr 25, 2016 1:57:11 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreatingStandardGroupWithWindowDesktopAndThirdPartyWithThirdPartyAsSupervisor
+INFO: Successfully clicked on 'Group ADD' button
+Apr 25, 2016 1:57:20 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreatingStandardGroupWithWindowDesktopAndThirdPartyWithThirdPartyAsSupervisor
+INFO: Successfully clicked on 'Group Confirm OK' button
+Apr 25, 2016 1:57:28 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreatingStandardGroupWithWindowDesktopAndThirdPartyWithThirdPartyAsSupervisor
+INFO: Successfully clicked on 'Group Success OK' button
+Apr 25, 2016 1:57:37 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreatingStandardGroupWithWindowDesktopAndThirdPartyWithThirdPartyAsSupervisor
+INFO: Successfully entered the Group Name in Groups input field in Group Navigation Area
+Apr 25, 2016 1:57:42 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreatingStandardGroupWithWindowDesktopAndThirdPartyWithThirdPartyAsSupervisor
+INFO: 1 item found. got in the search result

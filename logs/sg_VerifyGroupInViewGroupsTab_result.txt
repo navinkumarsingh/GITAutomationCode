@@ -1,0 +1,2 @@
+Nov 11, 2015 7:15:10 AM com.kodiak.qa.testsuites.SuAndSgPhoneNumberValidation sg_VerifyGroupInViewGroupsTab
+INFO: Test Purpose : Search a Group Name in View Groups Tab If SG is a Member 

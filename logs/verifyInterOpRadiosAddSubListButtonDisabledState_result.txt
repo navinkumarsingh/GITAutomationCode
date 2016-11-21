@@ -1,0 +1,6 @@
+May 29, 2016 1:13:15 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosAddSubListButtonDisabledState
+INFO: Validating Inter Op Radios 'Add Sub List' button disabled state
+May 29, 2016 1:13:20 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosAddSubListButtonDisabledState
+INFO: Successfully clicked on 'Manage Contacts Via Sub List' tab
+May 29, 2016 1:13:24 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosAddSubListButtonDisabledState
+INFO: Successfully validated 'Add Sub List' tab is in disabled state

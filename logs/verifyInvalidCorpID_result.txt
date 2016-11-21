@@ -1,0 +1,8 @@
+Sep 27, 2016 12:53:04 AM com.kodiak.qa.testsuites.DispatcherProfileValidation verifyInvalidCorpID
+INFO: Test Purpose: Verify Invalid Corp ID
+Sep 27, 2016 12:53:04 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATWithInvalidCorpID
+INFO: Entering Corp ID : 0000
+Sep 27, 2016 12:53:10 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATWithInvalidCorpID
+INFO: Clicking on Go button
+Sep 27, 2016 12:53:20 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATWithInvalidCorpID
+INFO: Invalid Corp ID validation Successful :Invalid Corporate profile.

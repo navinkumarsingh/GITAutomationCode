@@ -1,0 +1,4 @@
+Mar 04, 2016 4:04:16 PM com.kodiak.qa.testsuites.LMT_HEADER verifyCorporateIDText
+INFO: Test Purpose: Verify the Corporate ID shown on Header Part
+Mar 04, 2016 4:04:19 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCorporateID
+INFO: Successfully Validated the Corporate Id

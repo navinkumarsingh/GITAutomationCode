@@ -1,0 +1,4 @@
+Sep 27, 2016 2:06:08 AM com.kodiak.qa.testsuites.DispatcherBasicSearchTestCase dispatcher_SearchInvalidStringInSubscriberWorkArea
+INFO: Test Purpose : Search a invalid string in Subscriber work area
+Sep 27, 2016 2:06:18 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchWorkAreaInvalidString
+INFO: Failed to Locate Workarea Search

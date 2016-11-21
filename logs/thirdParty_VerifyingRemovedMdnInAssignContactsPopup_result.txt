@@ -1,0 +1,22 @@
+May 08, 2016 1:04:21 AM com.kodiak.qa.testsuites.ThirdPartyFunctionalityValidationManageIndividualList thirdParty_VerifyingRemovedMdnInAssignContactsPopup
+INFO: Test Purpose: Verifying State of removed MDN in the 'Assign Contacts' popup
+May 08, 2016 1:04:42 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully selected the 'Third party' from the Master-List DropDown.
+May 08, 2016 1:04:49 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully located MasterList Search Box and Searched the mdn :919900010746
+May 08, 2016 1:05:00 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully selected the Subscriber in the MasterList Menu
+May 08, 2016 1:05:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully clicked on 'Assign Contacts' button
+May 08, 2016 1:05:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully sent the MDN in the 'Pick Contacts Searched Field' :919900010561
+May 08, 2016 1:05:15 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully clicked on 'Select All' checkbox which will select the Searched MDN :919900010561
+May 08, 2016 1:05:22 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully validated and Clicked on Done button to add the for continuation for Automation :919900010561
+May 08, 2016 1:05:28 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully clicked on 'Remove All' label
+May 08, 2016 1:05:37 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully Clicked on Subscriber 'Save' button
+May 08, 2016 1:05:46 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully Clicked on Subscriber Save Success OK button

@@ -1,0 +1,6 @@
+Nov 11, 2015 7:12:02 AM com.kodiak.qa.testsuites.SuAndSgPhoneNumberValidation su_validatingGenerateActivationCodeInSuPhoneNumberWorkArea
+INFO: Test Purpose: Validate SU Phone Number Work Area Text
+Nov 11, 2015 7:12:10 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeInSuPhoneNumberWorkArea
+INFO: Validating 'Generate Activation Code' for Selected Subscriber
+Nov 11, 2015 7:12:15 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeInSuPhoneNumberWorkArea
+INFO: Successfully located the 'Generate Activation Code' is Present for the 'SU Phone Number'

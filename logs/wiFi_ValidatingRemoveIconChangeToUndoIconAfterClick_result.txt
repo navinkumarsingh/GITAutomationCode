@@ -1,0 +1,16 @@
+Sep 27, 2016 3:10:42 AM com.kodiak.qa.testsuites.WiFiClientFunctionalityValidation wiFi_ValidatingRemoveIconChangeToUndoIconAfterClick
+INFO: Test Purpose: Validating Remove Icon after Click
+Sep 27, 2016 3:10:42 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveIconChangeToUndoIconForSubscriber
+INFO: Validating the Remove Icon Change to Undo Icon
+Sep 27, 2016 3:10:51 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveIconChangeToUndoIconForSubscriber
+INFO: Successfully entered the MDN in the 'SEARCH BY NAME AND PHONE NUMBER' input field
+Sep 27, 2016 3:10:59 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveIconChangeToUndoIconForSubscriber
+INFO: 'Delete Button Tool Tip' validation successful. Displayed Text :Delete
+Sep 27, 2016 3:11:03 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveIconChangeToUndoIconForSubscriber
+INFO: Successfully clicked on the Delete button for the Selected MDN
+Sep 27, 2016 3:11:07 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveIconChangeToUndoIconForSubscriber
+INFO: 'Undo Delete Button Tool Tip' validation successful. Displayed Text :Undo Delete
+Sep 27, 2016 3:11:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveIconChangeToUndoIconForSubscriber
+INFO: Successfully Clicked on Undo button for the mdn in the list
+Sep 27, 2016 3:11:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveIconChangeToUndoIconForSubscriber
+INFO: Validation Successful: Successfully validated the Remove Icon after clicking on Remove Icon. It should be :Undo Delete

@@ -1,0 +1,4 @@
+Sep 27, 2016 1:06:07 AM com.kodiak.qa.testsuites.DispatcherProfileValidation validatingClientType
+INFO: Test Purpose:  Validating the Dispatcher Subscriber Client Type
+Sep 27, 2016 1:06:12 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyClientType
+INFO: 'Client Type' validation successful. Displayed Text :Dispatch Console

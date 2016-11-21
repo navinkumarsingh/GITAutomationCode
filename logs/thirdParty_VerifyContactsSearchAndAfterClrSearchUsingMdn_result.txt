@@ -1,0 +1,2 @@
+May 08, 2016 7:04:24 AM com.kodiak.qa.testsuites.ThirdPartyBasicSearchTestCase thirdParty_VerifyContactsSearchAndAfterClrSearchUsingMdn
+INFO: Test Purpose : verify the total count after searching and after clearing the search using Subscriber phone Number

@@ -1,0 +1,4 @@
+Sep 27, 2016 3:46:28 AM com.kodiak.qa.testsuites.CrossCarrierPTTProfileValidation crossCarrier_ValidatingCrossCarrierBillingPhoneNumber
+INFO: Test Purpose:  Validating the CrossCarrier Billing Phone Number
+Sep 27, 2016 3:46:32 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberBillingPhoneNumber
+INFO: 'Subscriber BILLING PHONE NUMBER' validation successful. Displayed Text :+91-897-278-9857

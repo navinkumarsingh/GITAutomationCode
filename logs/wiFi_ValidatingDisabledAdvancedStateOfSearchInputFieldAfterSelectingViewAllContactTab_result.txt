@@ -1,0 +1,4 @@
+Sep 27, 2016 3:06:32 AM com.kodiak.qa.testsuites.WiFiClientFunctionalityValidation wiFi_ValidatingDisabledAdvancedStateOfSearchInputFieldAfterSelectingViewAllContactTab
+INFO: Test Purpose:  Validating the 'Advanced Search Disabled State' when their is no Contacts Present for the Wi Fi Client after selecting 'View All Contacts' tab
+Sep 27, 2016 3:06:40 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfAdvanceSearchDisabledForViewAllContacts
+INFO: Successfully validated, 'Advanced Search' icon is located and it is in 'Disabled State'

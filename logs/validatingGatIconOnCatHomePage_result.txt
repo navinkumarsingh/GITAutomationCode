@@ -1,0 +1,4 @@
+Nov 08, 2016 7:07:53 PM com.kodiak.qa.testsuites.LMRSubscriberAndLMRGroupValidation validatingGatIconOnCatHomePage
+INFO: Test Purpose: Validate GAT Icon on CAT Home Page
+Nov 08, 2016 7:08:01 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGatIconOnCatHomePage
+INFO: Verify GAT Icon is Present or Not

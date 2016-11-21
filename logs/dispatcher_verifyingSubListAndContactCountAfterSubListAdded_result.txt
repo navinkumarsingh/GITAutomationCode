@@ -1,0 +1,18 @@
+Sep 27, 2016 4:11:07 PM com.kodiak.qa.testsuites.DispatcherManageContactsViaSubListFunctionality dispatcher_verifyingSubListAndContactCountAfterSubListAdded
+INFO: Test Purpose: verifying Sub List And Contact Count After Sub List Added
+Sep 27, 2016 4:11:07 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAndContactCountAfterSubListAdded
+INFO: Validating the Pick Sub List Check Box Selected
+Sep 27, 2016 4:11:16 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAndContactCountAfterSubListAdded
+INFO: Succefully Verified the present Sub Lists count Before adding 'Sub-List' under 'Manage Contacts Via Sub-Lists' tab :1
+Sep 27, 2016 4:11:21 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAndContactCountAfterSubListAdded
+INFO: 'Successfully Validated the Total Contact Count Before Sub List Added :1
+Sep 27, 2016 4:11:26 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAndContactCountAfterSubListAdded
+INFO: Successfully clicked on 'Add Sub List' tab in Work Area
+Sep 27, 2016 4:11:30 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAndContactCountAfterSubListAdded
+INFO: Succefully selected the 'Pick Sub List Popup Select All' checkbox
+Sep 27, 2016 4:11:34 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAndContactCountAfterSubListAdded
+INFO: Successfully clicked on 'Pick Sub List Popup' done button
+Sep 27, 2016 4:11:39 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAndContactCountAfterSubListAdded
+INFO: Succefully Verified the present Sub Lists count after adding 'Sub List' under 'Manage Contacts Via Sub-Lists' tab :2
+Sep 27, 2016 4:11:43 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAndContactCountAfterSubListAdded
+INFO: 'Successfully Validated the Total Contact Count after Sub List Added :2

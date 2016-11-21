@@ -1,0 +1,2 @@
+Apr 25, 2016 10:05:32 PM com.kodiak.qa.testsuites.WindowClientProfileValidation windowClient_validatingWindowClientIconToolTip
+INFO: Test Purpose:  Validating the WindowClient Icon Tool Tip

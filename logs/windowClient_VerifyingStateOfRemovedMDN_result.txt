@@ -1,0 +1,20 @@
+Apr 25, 2016 12:11:16 AM com.kodiak.qa.testsuites.WindowClientFunctionalityValidationManageIndividualList windowClient_VerifyingStateOfRemovedMDN
+INFO: Test Purpose: Verifying State of Removed MDN
+Apr 25, 2016 12:11:16 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyStateOfRemovedMDN
+INFO: Validating the State of Removed Icon After Save
+Apr 25, 2016 12:11:26 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyStateOfRemovedMDN
+INFO: Successfully clicked on 'Remove Icon'  for searched mdn
+Apr 25, 2016 12:11:30 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyStateOfRemovedMDN
+INFO: Successfully Clicked on Subscriber 'Save' button
+Apr 25, 2016 12:11:38 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyStateOfRemovedMDN
+INFO: Successfully Clicked on Subscriber Save Success OK button
+Apr 25, 2016 12:12:08 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyStateOfRemovedMDN
+INFO: Successfully selected the 'Window Desktop' from the Master-List DropDown.
+Apr 25, 2016 12:12:15 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyStateOfRemovedMDN
+INFO: Successfully located MasterList Search Box and Searched the mdn :919931721816
+Apr 25, 2016 12:12:35 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyStateOfRemovedMDN
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Apr 25, 2016 12:12:35 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyStateOfRemovedMDN
+INFO: Successfully located 'Search by name and phone number' input field and sent the mdn :919901721806
+Apr 25, 2016 12:12:44 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyStateOfRemovedMDN
+INFO: Successfully validate the searched result. The Searched Result is :0 items found

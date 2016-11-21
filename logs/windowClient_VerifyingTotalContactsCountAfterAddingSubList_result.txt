@@ -1,0 +1,14 @@
+Apr 25, 2016 12:28:39 AM com.kodiak.qa.testsuites.WindowClientManageContactsViaSubListFunctionality windowClient_VerifyingTotalContactsCountAfterAddingSubList
+INFO: Test Purpose: verifying Total Contacts Count After Adding SubList
+Apr 25, 2016 12:28:39 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalContactsCountAfterAddingSubList
+INFO: verify Total Contacts Count after 'Adding a Sub_List' under 'Manage Contacts Via Sub-Lists' tab
+Apr 25, 2016 12:28:46 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalContactsCountAfterAddingSubList
+INFO: Successfully Validated the Total Contacts count before adding a 'Sub-List' from the list :5
+Apr 25, 2016 12:28:54 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalContactsCountAfterAddingSubList
+INFO: Successfully clicked on 'SubList Undo Icon'
+Apr 25, 2016 12:29:01 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalContactsCountAfterAddingSubList
+INFO: Successfully Validated the Total Contacts count after removing a 'Sub-List' from the list :5
+Apr 25, 2016 12:29:08 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalContactsCountAfterAddingSubList
+INFO: Successfully validated, clicked on 'Cancel' button, in work area
+Apr 25, 2016 12:29:16 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalContactsCountAfterAddingSubList
+INFO: Successfully validated, clicked on 'Confirm oK' button, in work area

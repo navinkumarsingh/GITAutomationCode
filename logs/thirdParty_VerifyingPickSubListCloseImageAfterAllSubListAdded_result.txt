@@ -1,0 +1,4 @@
+Sep 26, 2016 11:10:43 PM com.kodiak.qa.testsuites.ThirdPartyManageContactsViaSubListFunctionality thirdParty_VerifyingPickSubListCloseImageAfterAllSubListAdded
+INFO: Test Purpose: verifying Sub List Cancel Button after All Sub List added
+Sep 26, 2016 11:10:43 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCloseImageAfterAllSubListAdded
+INFO: Validating the Pick Sub List Close image after all the sublist added

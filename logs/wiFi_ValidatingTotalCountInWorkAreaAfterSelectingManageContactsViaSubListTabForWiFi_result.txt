@@ -1,0 +1,6 @@
+Sep 27, 2016 2:38:01 AM com.kodiak.qa.testsuites.WiFiClientProfileValidation wiFi_ValidatingTotalCountInWorkAreaAfterSelectingManageContactsViaSubListTabForWiFi
+INFO: Test Purpose:  Validating the Total Count in work area after selecting Manage Contacts Via Sub List tab for WiFi
+Sep 27, 2016 2:38:10 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountForManageContactsViaSubList
+INFO: Successfully clicked on Subscriber 'Manage Contacts Via SubList' tab in Work Area
+Sep 27, 2016 2:38:14 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountForManageContactsViaSubList
+INFO: 'Total Contact after selecting 'Manage Contacts Via SubList' tab for Subscriber' validation successful. Displayed Text :0

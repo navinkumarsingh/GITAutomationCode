@@ -1,0 +1,8 @@
+Apr 25, 2016 12:22:11 AM com.kodiak.qa.testsuites.WindowClientManageContactsViaSubListFunctionality windowClient_VerifyingPickSubListSearchBoxAfterAllSubListAdded
+INFO: Test Purpose: verifying Sub List Search Box After All Sub List added
+Apr 25, 2016 12:22:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListSearchBoxAfterAllSubListAdded
+INFO: Validating the Pick Sub List Search box after all the sublist added
+Apr 25, 2016 12:22:19 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListSearchBoxAfterAllSubListAdded
+INFO: Successfully clicked on 'Add Sub List' tab in Work Area
+Apr 25, 2016 12:22:24 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListSearchBoxAfterAllSubListAdded
+INFO: Successfully validated, 'Pick Sub List Search box' is located and it is in 'Disabled State'

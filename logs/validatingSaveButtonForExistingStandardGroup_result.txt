@@ -1,0 +1,4 @@
+Sep 23, 2016 5:44:07 PM com.kodiak.qa.testsuites.StandardGroupTestCases validatingSaveButtonForExistingStandardGroup
+INFO: Test Purpose: Validation Save Button Disabled For Existing Standard Group
+Sep 23, 2016 5:44:15 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySaveButtonDisabledForExistingStandardGroup
+INFO: Successfully validated Save Button Disabled For Existing Standard Group

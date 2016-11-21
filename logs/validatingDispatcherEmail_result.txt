@@ -1,0 +1,10 @@
+Sep 27, 2016 1:01:06 AM com.kodiak.qa.testsuites.DispatcherProfileValidation validatingDispatcherEmail
+INFO: Test Purpose: Verify Selected Dispatcher Email in Work Area
+Sep 27, 2016 1:01:33 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberEmail
+INFO: Successfully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 27, 2016 1:01:43 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberEmail
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702141 
+Sep 27, 2016 1:01:56 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberEmail
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 1:01:59 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberEmail
+INFO: Dispatcher email is Validated Successfully :itg@kodiaknetworks.com

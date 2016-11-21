@@ -1,0 +1,18 @@
+Sep 23, 2016 5:15:01 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingDispatcherInPickIndividualGroupMemberPopup
+INFO: Test Purpose: Validation LMR Group In Pick Individual Group Member Popup
+Sep 23, 2016 5:15:10 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatcherInPickIndividualGroupMemberPopup
+INFO: Successfully clicked on 'Add New Group' tab
+Sep 23, 2016 5:15:14 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatcherInPickIndividualGroupMemberPopup
+INFO: Succefully selected Dispatch Group in the Filter
+Sep 23, 2016 5:15:18 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatcherInPickIndividualGroupMemberPopup
+INFO: Successfully clicked on 'Select Group Type OK' button
+Sep 23, 2016 5:15:22 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatcherInPickIndividualGroupMemberPopup
+INFO: Successfully clicked on 'Pick Dispatcher Cancel' button
+Sep 23, 2016 5:15:27 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatcherInPickIndividualGroupMemberPopup
+INFO: Successfully clicked on 'Manage Members' tab
+Sep 23, 2016 5:15:33 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatcherInPickIndividualGroupMemberPopup
+INFO: Successfully clicked on 'Add Individual Members' button
+Sep 23, 2016 5:15:33 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatcherInPickIndividualGroupMemberPopup
+INFO: The available options in Dropdown are:[Corporate, Corporate-Public, Cross Carrier PTT Client, External, Integrated Mobile Application, Integrated Web Application, Inter-Op Radio, Needs Attention, Wi-Fi Only Client, Windows Desktop Client]
+Sep 23, 2016 5:15:33 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatcherInPickIndividualGroupMemberPopup
+INFO: Successfully validated that 'Dispatcher' is not Present in the List

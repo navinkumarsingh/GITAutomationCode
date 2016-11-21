@@ -1,0 +1,6 @@
+Sep 23, 2016 5:54:05 PM com.kodiak.qa.testsuites.SubListRelatedTestCases SubList_validateSubListAdditionWithoutName
+INFO: To Validate Sub List creation without having the 'Name' entered
+Sep 23, 2016 5:54:12 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subList_SubListAdditionWithoutName
+INFO: Successfully clicked on 'Save' button
+Sep 23, 2016 5:54:16 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subList_SubListAdditionWithoutName
+INFO: Found the expected Error dialog with message ->'Name' should have at least one non- space character.

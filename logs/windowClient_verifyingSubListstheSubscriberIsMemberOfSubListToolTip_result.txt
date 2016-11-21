@@ -1,0 +1,6 @@
+Apr 25, 2016 12:30:40 AM com.kodiak.qa.testsuites.WindowClientManageContactsViaSubListFunctionality windowClient_verifyingSubListstheSubscriberIsMemberOfSubListToolTip
+INFO: Test Purpose: verifying Sub Lists the Subscriber Is Member Of Sub List Tool Tip
+Apr 25, 2016 12:30:40 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListstheSubscriberIsMemberOfSubListToolTip
+INFO: verify Sub Lists the Subscriber Is Member Of Sub List Tool Tip
+Apr 25, 2016 12:30:45 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListstheSubscriberIsMemberOfSubListToolTip
+INFO: Successfully validated 'Sub Lists the Subscriber Is Member Of' Sub List Tool Tip :Subscriber is member of sub-list and you can remove subscriber from sub-list using sub-list management.

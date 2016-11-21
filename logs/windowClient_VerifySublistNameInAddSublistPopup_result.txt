@@ -1,0 +1,6 @@
+Apr 25, 2016 1:39:58 AM com.kodiak.qa.testsuites.WindowClientBasicSearchTestCase windowClient_VerifySublistNameInAddSublistPopup
+INFO: Test Purpose : Search a Sublist Name in Manage Contacts Via Sublist
+Apr 25, 2016 1:40:06 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySublistInAddSublistPopup
+INFO: enter the a sublist in the search field of Add subList popup : AutomationSubList2
+Apr 25, 2016 1:40:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySublistInAddSublistPopup
+INFO: AutomationSubList2 got in the search result

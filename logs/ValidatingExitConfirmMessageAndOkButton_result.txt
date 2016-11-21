@@ -1,0 +1,10 @@
+May 29, 2016 1:26:00 AM com.kodiak.qa.testsuites.InterOpNeedAttnCATExit ValidatingExitConfirmMessageAndOkButton
+INFO: Test Purpose: Verify Exit Confirm Message and Ok Button
+May 29, 2016 1:26:00 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods exitOk
+INFO: Validating Exit
+May 29, 2016 1:26:12 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods exitOk
+INFO: Successfully clicked on 'Exit' link
+May 29, 2016 1:26:20 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods exitOk
+INFO: Do you want to exit Corporate Admin Tool? got in the Error Message Popup
+May 29, 2016 1:26:28 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods exitOk
+INFO: Successfully clicked on 'Exit' Ok

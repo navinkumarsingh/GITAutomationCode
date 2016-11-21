@@ -1,0 +1,16 @@
+Apr 25, 2016 12:29:26 AM com.kodiak.qa.testsuites.WindowClientManageContactsViaSubListFunctionality windowClient_verifyingRemoveUndoButtonNotAvailableForSubListstheSubscriberIsMemberOf
+INFO: Test Purpose: Verifying Remove-Undo Button Not Available For Sub Lists the Subscriber Is Member Of
+Apr 25, 2016 12:29:47 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveUndoButtonNotAvailableForSubListstheSubscriberIsMemberOf
+INFO: Succefully clicked on Clear label in the Masterlist DropDown.
+Apr 25, 2016 12:30:02 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveUndoButtonNotAvailableForSubListstheSubscriberIsMemberOf
+INFO: Succefully selected the 'Wi Fi only Client' from the Masterlist DropDown.
+Apr 25, 2016 12:30:02 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveUndoButtonNotAvailableForSubListstheSubscriberIsMemberOf
+INFO: verify Remove Undo Button Not Available For Sub Lists the Subscriber Is Member Of
+Apr 25, 2016 12:30:09 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveUndoButtonNotAvailableForSubListstheSubscriberIsMemberOf
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988700332
+Apr 25, 2016 12:30:14 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveUndoButtonNotAvailableForSubListstheSubscriberIsMemberOf
+INFO: Successfully located and click the 'Wi-Fi Only Clients' subscriber in Master list :91988700332
+Apr 25, 2016 12:30:25 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveUndoButtonNotAvailableForSubListstheSubscriberIsMemberOf
+INFO: Successfully clicked on 'Manage Contacts Via SubList' tab in Work Area
+Apr 25, 2016 12:30:30 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveUndoButtonNotAvailableForSubListstheSubscriberIsMemberOf
+INFO: Successfully validated that Remove Icon is not present

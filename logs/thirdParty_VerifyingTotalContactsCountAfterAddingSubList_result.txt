@@ -1,0 +1,4 @@
+Sep 26, 2016 11:12:16 PM com.kodiak.qa.testsuites.ThirdPartyManageContactsViaSubListFunctionality thirdParty_VerifyingTotalContactsCountAfterAddingSubList
+INFO: Test Purpose: verifying Total Contacts Count After Adding SubList
+Sep 26, 2016 11:12:16 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalContactsCountAfterAddingSubList
+INFO: verify Total Contacts Count after 'Adding a Sub_List' under 'Manage Contacts Via Sub-Lists' tab

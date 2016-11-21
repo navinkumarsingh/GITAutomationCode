@@ -1,0 +1,4 @@
+Sep 27, 2016 1:05:53 AM com.kodiak.qa.testsuites.DispatcherProfileValidation validatingDispatcherBillingPhoneNumber
+INFO: Test Purpose:  Validating the Dispatcher Billing Phone Number
+Sep 27, 2016 1:05:57 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberBillingPhoneNumber
+INFO: 'Subscriber BILLING PHONE NUMBER' validation successful. Displayed Text :+91-897-278-9854

@@ -1,0 +1,6 @@
+May 11, 2016 1:52:37 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySearchCriteriaAndClearLabelAfterPerformingAdvancedSearchWithValidName
+INFO: Validating Search Criteria And Clear Label After Performing Advanced Search with Valid Name
+May 11, 2016 1:52:47 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySearchCriteriaAndClearLabelAfterPerformingAdvancedSearchWithValidName
+INFO: Successfully validated 'Basic Search' Search Criteria for Valid Format Mdn:Subscriber Name:AUTOMATION DISPATCHER 1
+May 11, 2016 1:53:07 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySearchCriteriaAndClearLabelAfterPerformingAdvancedSearchWithValidName
+INFO: Successfully clicked on Clear label in the Masterlist:Clear

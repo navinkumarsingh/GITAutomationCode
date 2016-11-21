@@ -1,0 +1,4 @@
+Sep 27, 2016 4:00:22 AM com.kodiak.qa.testsuites.CrossCarrierPTTManageContactsViaSubListFunctionality crossCarrier_verifyingSubListstheSubscriberIsMemberOfSubListToolTip
+INFO: Test Purpose: verifying Sub Lists the Subscriber Is Member Of Sub List Tool Tip
+Sep 27, 2016 4:00:22 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListstheSubscriberIsMemberOfSubListToolTip
+INFO: verify Sub Lists the Subscriber Is Member Of Sub List Tool Tip

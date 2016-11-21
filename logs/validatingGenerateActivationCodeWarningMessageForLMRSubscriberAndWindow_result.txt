@@ -1,0 +1,8 @@
+May 03, 2016 4:43:12 PM com.kodiak.qa.testsuites.GenerateActivationCode validatingGenerateActivationCodeWarningMessageForLMRSubscriberAndWindow
+INFO: Test Purpose: validating Generate Activation Code Warning Message For LMR Subscriber And Window
+May 03, 2016 4:43:35 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRSubscriberAndWindow
+INFO: Successfully clicked on Clear label in the Masterlist DropDown.
+May 03, 2016 4:43:51 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRSubscriberAndWindow
+INFO: Succefully selected the 'LMR Subscriber' from the Masterlist DropDown.
+May 03, 2016 4:43:58 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForLMRSubscriberAndWindow
+INFO: Successfully located MasterList Search Box and Searched the  LMR Subscriber:91988700212

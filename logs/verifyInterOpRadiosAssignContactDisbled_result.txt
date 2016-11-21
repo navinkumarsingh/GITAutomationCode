@@ -1,0 +1,4 @@
+May 29, 2016 1:13:07 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosAssignContactDisbled
+INFO: Validating Inter Op Radios Assign Contact
+May 29, 2016 1:13:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosAssignContactDisbled
+INFO: Successfully validated 'Assign Contact' button disabled

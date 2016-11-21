@@ -1,0 +1,10 @@
+Sep 27, 2016 3:46:52 AM com.kodiak.qa.testsuites.CrossCarrierPTTProfileValidation crossCarrier_ValidatingCrossCarrierRecords
+INFO: Test Purpose:  Validating the CrossCarrier Total Records
+Sep 27, 2016 3:47:13 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberRecords
+INFO: Successfully selected the 'Cross Carrier' from the Master-List DropDown.
+Sep 27, 2016 3:47:22 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberRecords
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702491
+Sep 27, 2016 3:47:31 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberRecords
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 3:47:35 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberRecords
+INFO: 'Total Subscriber Record' validation successful. Displayed Text :1 item found.

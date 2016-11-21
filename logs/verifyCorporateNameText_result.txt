@@ -1,0 +1,4 @@
+Mar 04, 2016 4:04:19 PM com.kodiak.qa.testsuites.LMT_HEADER verifyCorporateNameText
+INFO: Test Purpose: Verify the Corporate Name shown on Header Part
+Mar 04, 2016 4:04:22 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCorporateName
+INFO: Successfully Validated the Corporate Name

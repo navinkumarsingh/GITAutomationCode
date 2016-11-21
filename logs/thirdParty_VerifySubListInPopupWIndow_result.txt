@@ -1,0 +1,12 @@
+Sep 26, 2016 11:08:29 PM com.kodiak.qa.testsuites.ThirdPartyManageContactsViaSubListFunctionality thirdParty_VerifySubListInPopupWIndow
+INFO: Test Purpose: Verifying Sub Lists in Popup Window
+Sep 26, 2016 11:08:29 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifySubListInPopupWIndow
+INFO: Validating the Dispatcher count for Dispatch Groups in View Group Filter 
+Sep 26, 2016 11:08:38 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifySubListInPopupWIndow
+INFO: Successfully selected Manage Master List in Navigation Area
+Sep 26, 2016 11:08:59 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifySubListInPopupWIndow
+INFO: Successfully selected the 'Third Party' from the Master-List DropDown.
+Sep 26, 2016 11:09:05 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifySubListInPopupWIndow
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702391
+Sep 26, 2016 11:09:14 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifySubListInPopupWIndow
+INFO: Successfully selected the Dispatcher in the MasterList Menu

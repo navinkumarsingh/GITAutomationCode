@@ -1,0 +1,2 @@
+Sep 23, 2016 5:16:11 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingDispatcherGroupNeedAttentionIconMessageWithOneMember
+INFO: Test Purpose: Validation of Creation of Dispatch Group

@@ -1,0 +1,6 @@
+Sep 27, 2016 2:37:25 AM com.kodiak.qa.testsuites.WiFiClientProfileValidation wiFi_ValidatingTotalCountInWorkAreaAfterSelectingDisaptcherInMasterList
+INFO: Test Purpose:  Validating the WiFi Total Records
+Sep 27, 2016 2:37:35 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountInWorkAreaAfterSelectingSubscriberInMasterList
+INFO: Successfully clicked on Subscriber in MasterList
+Sep 27, 2016 2:37:39 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountInWorkAreaAfterSelectingSubscriberInMasterList
+INFO: 'Total Subscriber Record' validation successful. Displayed Text :0

@@ -1,0 +1,36 @@
+Sep 27, 2016 4:30:26 AM com.kodiak.qa.testsuites.CrossCarrierPTTBasicSearchTestCase Kodiak_CAT_LaunchingUsingFANId
+INFO: Test Purpose: CAT UI Launch using FAN ID
+Sep 27, 2016 4:30:26 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATByCorpIdType
+INFO: Validating Corporation Management Link appeared
+Sep 27, 2016 4:30:36 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATByCorpIdType
+INFO: Clicking Corp Mgmt Link
+Sep 27, 2016 4:30:40 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATByCorpIdType
+INFO: Clicking Corp Admin Tool Link
+Sep 27, 2016 4:30:48 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATByCorpIdType
+INFO: Entering Corp ID : 4449
+Sep 27, 2016 4:30:51 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATByCorpIdType
+INFO: Clicking on Go button
+Sep 27, 2016 4:31:04 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATByCorpIdType
+INFO: Selecting FAN Radio button 
+Sep 27, 2016 4:31:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATByCorpIdType
+INFO: Selecting FAN content CHeckbox with Value : 4449 
+Sep 27, 2016 4:31:09 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATByCorpIdType
+INFO: Clicking on Launch button
+Sep 27, 2016 4:31:17 AM com.kodiak.qa.testsuites.CrossCarrierPTTBasicSearchTestCase Kodiak_CAT_LaunchingUsingFANId
+INFO: CAT Launched successfully
+Sep 27, 2016 4:31:27 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateCATlaunch
+INFO: Current Window Handler : {e1916f99-3a04-4a71-9170-5435b5f4e540}
+Sep 27, 2016 4:31:27 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateCATlaunch
+INFO: No.of Windows Present : 2
+Sep 27, 2016 4:31:27 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateCATlaunch
+INFO: Handle : {e1916f99-3a04-4a71-9170-5435b5f4e540}
+Sep 27, 2016 4:31:27 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateCATlaunch
+INFO: Handle : {6d72441e-b0f4-444c-be84-c51890a11880}
+Sep 27, 2016 4:31:35 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateCATlaunch
+INFO: Switched to new window
+Sep 27, 2016 4:31:35 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateCATlaunch
+INFO: Logo Validated successfully
+Sep 27, 2016 4:31:35 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateCATlaunch
+INFO: Corp ID validation successful. Displayed Text :Corporate ID : 4449
+Sep 27, 2016 4:31:35 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateCATlaunch
+INFO: Corp Name validation successful. Displayed Text :Corporate Name : CORP4449

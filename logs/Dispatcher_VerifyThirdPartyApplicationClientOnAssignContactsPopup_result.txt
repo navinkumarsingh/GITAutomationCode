@@ -1,0 +1,6 @@
+Sep 27, 2016 1:57:46 AM com.kodiak.qa.testsuites.DispatcherAssignContactsFilterData Dispatcher_VerifyThirdPartyApplicationClientOnAssignContactsPopup
+INFO: Test Purpose : Verify the ThirdParty Application Clients in Assign Contacts Pop up for Dispatcher Subscriber
+Sep 27, 2016 1:58:06 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyThirdPartyApplicationClientOnAssignContacsPopup
+INFO: select the drop down to Third Party Application Contacts in Assign contacts popup
+Sep 27, 2016 1:58:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyThirdPartyApplicationClientOnAssignContacsPopup
+INFO: Got the search result count : 100 items found.

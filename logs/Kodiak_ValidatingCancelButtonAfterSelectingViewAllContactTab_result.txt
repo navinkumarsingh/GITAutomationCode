@@ -1,0 +1,6 @@
+Sep 27, 2016 1:46:40 AM com.kodiak.qa.testsuites.DispatcherFunctionalityValidation Kodiak_ValidatingCancelButtonAfterSelectingViewAllContactTab
+INFO: Test Purpose: Validating the 'Cancel' button for 'View All Contacts' tab
+Sep 27, 2016 1:46:49 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCancelButtonForDispatcherViewAllContactsTab
+INFO: Successfully validated, clicked on 'Cancel' button, in work area
+Sep 27, 2016 1:46:49 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCancelButtonForDispatcherViewAllContactsTab
+INFO: Successfully validated, Master List Help Icon

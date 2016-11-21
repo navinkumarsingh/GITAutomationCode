@@ -1,0 +1,10 @@
+Nov 11, 2015 7:12:15 AM com.kodiak.qa.testsuites.SuAndSgPhoneNumberValidation su_validatingSuPhoneNumberWorkAreaDetails
+INFO: Test Purpose: Validate SU Phone Number Work Area Text
+Nov 11, 2015 7:12:23 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySuPhoneNumberWorkAreaDetails
+INFO: Validating 'SU Phone Number' Work Area Details
+Nov 11, 2015 7:12:27 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySuPhoneNumberWorkAreaDetails
+INFO: Successfully validated that 'Manage Contacts' is not Present for the 'SU Phone Number'
+Nov 11, 2015 7:12:31 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySuPhoneNumberWorkAreaDetails
+INFO: Successfully validated that 'Manage Contacts via Sub-Lists' is not Present for the 'SU Phone Number'
+Nov 11, 2015 7:12:35 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySuPhoneNumberWorkAreaDetails
+INFO: Successfully validated that 'View Groups' is not Present for the 'SU Phone Number'

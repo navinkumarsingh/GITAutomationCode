@@ -1,0 +1,14 @@
+Sep 26, 2016 8:30:32 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactInvalidError
+INFO: Validating Addition of new External Contact
+Sep 26, 2016 8:30:51 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactInvalidError
+INFO: Successfully clicked on 'Add External Contact' label in Mater List
+Sep 26, 2016 8:30:58 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactInvalidError
+INFO: Successfully  modified the external contact name:NEW EXTERNAL CONTACT
+Sep 26, 2016 8:31:04 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactInvalidError
+INFO: Successfully  modified the external contact name:111111111111
+Sep 26, 2016 8:31:09 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactInvalidError
+INFO: Successfully located and clicked on 'External Contact Add' Button
+Sep 26, 2016 8:31:13 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactInvalidError
+INFO: Successfully validated External Contact error pop-up Text:Invalid PoC Subscriber
+Sep 26, 2016 8:31:22 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactInvalidError
+INFO: Successfully clicked on External Contact Error Pop-up 'OK' button

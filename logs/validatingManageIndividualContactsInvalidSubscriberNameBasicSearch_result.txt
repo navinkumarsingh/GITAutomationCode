@@ -1,0 +1,2 @@
+Sep 28, 2016 6:40:16 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyManageIndividualContactsInvalidSubscriberNameBasicSearch
+INFO: Validating Invalid Mdn Name for 'Manage Individual Conatcts' Basic Search'

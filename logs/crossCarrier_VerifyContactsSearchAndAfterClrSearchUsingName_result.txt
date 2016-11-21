@@ -1,0 +1,2 @@
+Sep 27, 2016 4:37:21 AM com.kodiak.qa.testsuites.CrossCarrierPTTBasicSearchTestCase crossCarrier_VerifyContactsSearchAndAfterClrSearchUsingName
+INFO: Test Purpose : verify the total count after searching and after clearing the search using Subscriber Name

@@ -1,0 +1,6 @@
+May 08, 2016 12:43:01 AM com.kodiak.qa.testsuites.ThirdPartyFunctionalityValidation thirdParty_ValidatingCancelButtonManageIndividualContacts
+INFO: Test Purpose: Validating the 'Cancel' button for 'Manage Individual Contacts' tab
+May 08, 2016 12:43:09 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCancelButtonManageIndividualContacts
+INFO: Successfully validated, clicked on 'Cancel' button, in work area
+May 08, 2016 12:43:13 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCancelButtonManageIndividualContacts
+INFO: Successfully validated, Master List Help Icon

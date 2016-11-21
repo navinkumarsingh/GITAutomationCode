@@ -1,0 +1,10 @@
+Sep 27, 2016 4:28:47 AM com.kodiak.qa.testsuites.CrossCarrierPTTFunctionalityValidation crossCarrier_validatingTotalCountAfterRemove
+INFO: Test Purpose: Validating Total Count after Remove
+Sep 27, 2016 4:28:47 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountAfterRemove
+INFO: Validating the Total Count after Remove
+Sep 27, 2016 4:28:51 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountAfterRemove
+INFO: 'Total Count before clicking on Remove button' validation successful. Displayed Text :1
+Sep 27, 2016 4:28:55 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountAfterRemove
+INFO: Successfully clicked on 'Delete' button
+Sep 27, 2016 4:28:59 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountAfterRemove
+INFO: 'Total Count after clicking on Delete button' validation successful. Displayed Text :0

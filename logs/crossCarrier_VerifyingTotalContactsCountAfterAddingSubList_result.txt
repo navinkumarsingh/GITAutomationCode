@@ -1,0 +1,4 @@
+Sep 27, 2016 3:59:47 AM com.kodiak.qa.testsuites.CrossCarrierPTTManageContactsViaSubListFunctionality crossCarrier_VerifyingTotalContactsCountAfterAddingSubList
+INFO: Test Purpose: verifying Total Contacts Count After Adding SubList
+Sep 27, 2016 3:59:47 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalContactsCountAfterAddingSubList
+INFO: verify Total Contacts Count after 'Adding a Sub_List' under 'Manage Contacts Via Sub-Lists' tab

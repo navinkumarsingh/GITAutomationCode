@@ -1,0 +1,4 @@
+Sep 27, 2016 3:04:39 AM com.kodiak.qa.testsuites.WiFiClientFunctionalityValidation wiFi_ValidatingDisabledAllFilterAfterSelectingManageContactsViaSubListTabIfNoConatcts
+INFO: Test Purpose:  Validating the All Filter is in Disabled State when their is no Contacts Present for the Wi Fi Client after selecting 'Manage Contacts Via Sub-List'
+Sep 27, 2016 3:04:47 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDisabledAllFilterForSubscriberIfNoContactsForManageContactsViaSublist
+INFO: Successfully validated, 'All Filter' located and it is in 'Disabled State'

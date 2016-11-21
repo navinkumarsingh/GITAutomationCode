@@ -1,0 +1,6 @@
+Apr 25, 2016 1:40:39 AM com.kodiak.qa.testsuites.WindowClientBasicSearchTestCase windowClient_VerifySubscriberMdnInViewAllContactsTab
+INFO: Test Purpose : Search a subscriber Name in View All Contacts Tab
+Apr 25, 2016 1:40:48 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchWorkAreaMdnInViewAllContactsTab
+INFO: enter the a subscriber Mdn in the search field : 919901721806
+Apr 25, 2016 1:40:53 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchWorkAreaMdnInViewAllContactsTab
+INFO: 1 item found. got in the search result

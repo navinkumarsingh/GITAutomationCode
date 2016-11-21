@@ -1,0 +1,2 @@
+Sep 28, 2016 6:39:03 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInvalidMdnNameForManageIndividualContactsAdvanceSearch
+INFO: Validating Invalid Mdn Name for 'Manage Individual Contacts Advance Search'

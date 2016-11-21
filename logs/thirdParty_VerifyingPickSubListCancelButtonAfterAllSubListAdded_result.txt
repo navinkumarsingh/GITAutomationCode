@@ -1,0 +1,6 @@
+Sep 26, 2016 11:10:26 PM com.kodiak.qa.testsuites.ThirdPartyManageContactsViaSubListFunctionality thirdParty_VerifyingPickSubListCancelButtonAfterAllSubListAdded
+INFO: Test Purpose: verifying Sub List Cancel Button after All Sub List added
+Sep 26, 2016 11:10:26 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCancelButtonAfterAllSubListAdded
+INFO: Validating the Pick Sub List Done button after all the sublist added
+Sep 26, 2016 11:10:33 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCancelButtonAfterAllSubListAdded
+INFO: Successfully clicked on 'Pick Sub List Popup Cancel' button

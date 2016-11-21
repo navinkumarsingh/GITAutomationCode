@@ -1,0 +1,16 @@
+May 29, 2016 1:23:55 AM com.kodiak.qa.testsuites.InterOpNeedAttnCATExit interOp_GroupDeletionforContinuation
+INFO: To validate Sub-List Distribution removal to a Group
+May 29, 2016 1:24:16 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods inter_verifyGroupDeletion
+INFO: Succefully clicked on Clear label in the Manage Groups Menu.
+May 29, 2016 1:24:21 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods inter_verifyGroupDeletion
+INFO: Successfully selected the All Filter in Manage Groups Menu
+May 29, 2016 1:24:29 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods inter_verifyGroupDeletion
+INFO: Successfully located Manage Group Search Box and entered the Group Name :AUTOMATION INTER OP GROUP
+May 29, 2016 1:24:37 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods inter_verifyGroupDeletion
+INFO: Successfully selected the Individual Group in Manage Group Menu
+May 29, 2016 1:24:44 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods inter_verifyGroupDeletion
+INFO: Successfully selected the Delete Group Button  in Work Area
+May 29, 2016 1:24:53 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods inter_verifyGroupDeletion
+INFO: Successfully selected the Delete Group OK Button  in Work Area
+May 29, 2016 1:25:03 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods inter_verifyGroupDeletion
+INFO: Successfully selected the Delete Group Success OK Button  in Work Area

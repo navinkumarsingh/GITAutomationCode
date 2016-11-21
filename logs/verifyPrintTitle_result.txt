@@ -1,0 +1,4 @@
+Mar 04, 2016 4:04:35 PM com.kodiak.qa.testsuites.LMT_HEADER verifyPrintTitle
+INFO: Test Purpose: Verify the Print Title
+Mar 04, 2016 4:04:38 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPrintTitle
+INFO: Successfully Validated the Print Title:Print

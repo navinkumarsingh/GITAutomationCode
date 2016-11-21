@@ -1,0 +1,6 @@
+Apr 25, 2016 12:38:02 AM com.kodiak.qa.testsuites.WindowClientAssignContactsFilterData windowClient_VerifyWindowsDesktopClientOnAssignContactsPopup
+INFO: Test Purpose : Verify the Windows Desktop Clients in Assign Contacts Pop up for Window Client
+Apr 25, 2016 12:38:22 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyWindowsDesktopClientOnAssignContacsPopup
+INFO: select the drop down to Windows Desktop Contacts in Assign contacts popup
+Apr 25, 2016 12:38:27 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyWindowsDesktopClientOnAssignContacsPopup
+INFO: Got the search result count : 3 items found.

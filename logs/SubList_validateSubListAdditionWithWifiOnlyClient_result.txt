@@ -1,0 +1,8 @@
+Sep 23, 2016 5:56:04 PM com.kodiak.qa.testsuites.SubListRelatedTestCases SubList_validateSubListAdditionWithWifiOnlyClient
+INFO: To validate Sub List Addition with a Wifi-Only Client
+Sep 23, 2016 5:56:07 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subList_SubListAdditionWithWifiOnlyClient
+INFO: Succefully selected 'Add New Sub Lists' in the Navigation Bar
+Sep 23, 2016 5:56:12 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subList_SubListAdditionWithWifiOnlyClient
+INFO: Succefully selected 'Sub List Add Members' in the Work Area
+Sep 23, 2016 5:56:33 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subList_SubListAdditionWithWifiOnlyClient
+INFO: Selecting 'WiFi-Only' contacts from the client type filter

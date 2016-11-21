@@ -1,0 +1,4 @@
+Mar 04, 2016 4:04:29 PM com.kodiak.qa.testsuites.LMT_HEADER verifyLanguageOptionsAvailable
+INFO: Test Purpose: Verify the Langauge options available in the filter
+Mar 04, 2016 4:04:29 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLanguageOptionsAvailable
+INFO: The available language options in Dropdown are:[English (us), English (ca), French (ca)]

@@ -1,0 +1,6 @@
+Sep 27, 2016 3:57:20 AM com.kodiak.qa.testsuites.CrossCarrierPTTManageContactsViaSubListFunctionality crossCarrier_VerifyingPickSubListCancelButtonAfterAllSubListAdded
+INFO: Test Purpose: verifying Sub List Cancel Button after All Sub List added
+Sep 27, 2016 3:57:20 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCancelButtonAfterAllSubListAdded
+INFO: Validating the Pick Sub List Done button after all the sublist added
+Sep 27, 2016 3:57:26 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCancelButtonAfterAllSubListAdded
+INFO: Successfully clicked on 'Pick Sub List Popup Cancel' button

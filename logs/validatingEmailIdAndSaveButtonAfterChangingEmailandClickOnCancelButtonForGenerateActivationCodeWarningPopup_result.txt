@@ -1,0 +1,26 @@
+Sep 26, 2016 8:45:02 PM com.kodiak.qa.testsuites.GenerateActivationCode validatingEmailIdAndSaveButtonAfterChangingEmailandClickOnCancelButtonForGenerateActivationCodeWarningPopup
+INFO: Test Purpose: Validate Client Type and Save Button After Generate Activation Code and Email Sent
+Sep 26, 2016 8:45:02 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyEmailIdAndSaveButtonAfterChangingEmailandClickOnCancelButtonForGenerateActivationCodeWarningPopup
+INFO: Validating Email Id and Save Button after Click on CANCEL button for 'GENERATE ACTIVATION CODE WARNING MESSAGE'
+Sep 26, 2016 8:45:16 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyEmailIdAndSaveButtonAfterChangingEmailandClickOnCancelButtonForGenerateActivationCodeWarningPopup
+INFO: Successfully Validated the Subscriber after Clearing the existing Dispatcher Email and assigning the new 'Dispatcher Email' : itg@kodiaknetworks.com
+Sep 26, 2016 8:45:30 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyEmailIdAndSaveButtonAfterChangingEmailandClickOnCancelButtonForGenerateActivationCodeWarningPopup
+INFO: Successfully Validated the Subscriber after Clearing the existing Dispatcher Email and assigning the new 'Dispatcher Email' : itg@kodiaknetworks.com
+Sep 26, 2016 8:45:40 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyEmailIdAndSaveButtonAfterChangingEmailandClickOnCancelButtonForGenerateActivationCodeWarningPopup
+INFO: Successfully selected 'Generate Activation Code' for the Selected Subscriber' in the work area
+Sep 26, 2016 8:45:49 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyEmailIdAndSaveButtonAfterChangingEmailandClickOnCancelButtonForGenerateActivationCodeWarningPopup
+INFO: Successfully clicked on 'CANCEL' button for 'Generate Activation Code' Warning message
+Sep 26, 2016 8:45:53 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyEmailIdAndSaveButtonAfterChangingEmailandClickOnCancelButtonForGenerateActivationCodeWarningPopup
+INFO: Successfully validated,'Save Button' is in 'Enable State'
+Sep 26, 2016 8:46:02 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyEmailIdAndSaveButtonAfterChangingEmailandClickOnCancelButtonForGenerateActivationCodeWarningPopup
+INFO: Successfully clicked on 'CANCEL' button for Selected Subscriber in Work Area
+Sep 26, 2016 8:46:16 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyEmailIdAndSaveButtonAfterChangingEmailandClickOnCancelButtonForGenerateActivationCodeWarningPopup
+INFO: Successfully clicked on 'CANCEL' button for Selected Subscriber in Work Area
+Sep 26, 2016 8:46:37 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyEmailIdAndSaveButtonAfterChangingEmailandClickOnCancelButtonForGenerateActivationCodeWarningPopup
+INFO: Succefully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 26, 2016 8:46:52 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyEmailIdAndSaveButtonAfterChangingEmailandClickOnCancelButtonForGenerateActivationCodeWarningPopup
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702141 
+Sep 26, 2016 8:47:01 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyEmailIdAndSaveButtonAfterChangingEmailandClickOnCancelButtonForGenerateActivationCodeWarningPopup
+INFO: Successfully selected the Dispatcher in the MasterList Menu
+Sep 26, 2016 8:47:08 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyEmailIdAndSaveButtonAfterChangingEmailandClickOnCancelButtonForGenerateActivationCodeWarningPopup
+INFO: Successfully Validated the Subscriber Email 'IS SAME' before and After Update in Email and clicking CANCEL for Generate Activation Code Warning Popup:: null

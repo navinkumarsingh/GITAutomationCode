@@ -1,0 +1,2 @@
+Nov 08, 2016 6:53:10 PM com.kodiak.qa.testsuites.KodiakCATLaunchingUsingBANId launchGIT
+INFO: Test Purpose: GIT Hub Launch

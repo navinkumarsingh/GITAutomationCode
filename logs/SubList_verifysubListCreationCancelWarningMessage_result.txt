@@ -1,0 +1,6 @@
+Sep 23, 2016 5:53:58 PM com.kodiak.qa.testsuites.SubListRelatedTestCases SubList_verifysubListCreationCancelWarningMessage
+INFO: To verify sub-list creation cancel 'Warning message'
+Sep 23, 2016 5:54:02 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods sublist_subListCreationCancelWarningMessage
+INFO: Clicking on 'Cancel' button
+Sep 23, 2016 5:54:02 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods sublist_subListCreationCancelWarningMessage
+INFO: Successfully verified sublist creation cancel 'Warning message: You have not saved the changes. Changes will be lost. Are you sure?

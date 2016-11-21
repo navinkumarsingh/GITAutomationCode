@@ -1,0 +1,14 @@
+Apr 25, 2016 9:59:03 PM com.kodiak.qa.testsuites.WindowClientProfileValidation windowClient_validatingWindowClientWithoutName
+INFO: Test Purpose: Verify WindowClient Without Name
+Apr 25, 2016 9:59:03 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutName
+INFO: Validating Dispatcher without passing name
+Apr 25, 2016 9:59:07 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutName
+INFO: Successfully Cleared the existing Dispatcher Name
+Apr 25, 2016 9:59:15 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutName
+INFO: Successfully selected the another Subscriber Type from the 'Subscriber Type Drop Down'
+Apr 25, 2016 9:59:24 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutName
+INFO: Successfully selected the another Subscriber Type from the 'Subscriber Type Drop Down'
+Apr 25, 2016 9:59:31 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutName
+INFO: Successfully located and clicked on 'Subscriber Save Button'
+Apr 25, 2016 9:59:39 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutName
+INFO: Successfully validated Subscriber without Name

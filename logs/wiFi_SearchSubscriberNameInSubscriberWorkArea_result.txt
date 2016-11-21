@@ -1,0 +1,2 @@
+Sep 27, 2016 2:45:19 AM com.kodiak.qa.testsuites.WiFiClientBasicSearchTestCase wiFi_SearchSubscriberNameInSubscriberWorkArea
+INFO: Test Purpose : Search a subcriber name in Subscriber Work area for Wi Fi Client

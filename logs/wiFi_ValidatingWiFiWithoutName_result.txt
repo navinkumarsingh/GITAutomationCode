@@ -1,0 +1,14 @@
+Sep 27, 2016 2:26:18 AM com.kodiak.qa.testsuites.WiFiClientProfileValidation wiFi_ValidatingWiFiWithoutName
+INFO: Test Purpose: Verify WiFi Without Name
+Sep 27, 2016 2:26:18 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutName
+INFO: Validating Dispatcher without passing name
+Sep 27, 2016 2:26:22 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutName
+INFO: Successfully Cleared the existing Dispatcher Name
+Sep 27, 2016 2:26:30 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutName
+INFO: Successfully selected the another Subscriber Type from the 'Subscriber Type Drop Down'
+Sep 27, 2016 2:26:39 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutName
+INFO: Successfully selected the another Subscriber Type from the 'Subscriber Type Drop Down'
+Sep 27, 2016 2:26:46 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutName
+INFO: Successfully located and clicked on 'Subscriber Save Button'
+Sep 27, 2016 2:26:54 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutName
+INFO: Successfully validated Subscriber without Name

@@ -1,0 +1,4 @@
+Sep 27, 2016 1:44:35 AM com.kodiak.qa.testsuites.DispatcherFunctionalityValidation Kodiak_ValidatingDisabledAllFilterAfterSelectingManageContactsViaSubListTabIfNoConatcts
+INFO: Test Purpose:  Validating the All Filter is in Disabled State when their is no Contacts Present for the Dispatcher after selecting 'Manage Contacts Via Sub-List'
+Sep 27, 2016 1:44:43 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDisabledAllFilterForSubscriberIfNoContactsForManageContactsViaSublist
+INFO: Successfully validated, 'All Filter' located and it is in 'Disabled State'

@@ -1,0 +1,4 @@
+Sep 27, 2016 2:45:20 AM com.kodiak.qa.testsuites.WiFiClientBasicSearchTestCase wiFi_SearchSubscriberPhoneNumberInSubscriberWorkArea
+INFO: Test Purpose : Search a subcriber phone number in Subscriber Work area for Wi Fi Client
+Sep 27, 2016 2:45:30 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchWorkAreaPhoneNumber
+INFO: Failed to Locate Workarea Search

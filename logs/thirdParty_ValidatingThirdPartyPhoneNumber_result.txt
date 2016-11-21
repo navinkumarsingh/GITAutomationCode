@@ -1,0 +1,2 @@
+Sep 27, 2016 12:07:07 AM com.kodiak.qa.testsuites.ThirdPartyProfileValidation thirdParty_ValidatingThirdPartyPhoneNumber
+INFO: Test Purpose:  Validating the ThirdParty Phone Number

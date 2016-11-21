@@ -1,0 +1,4 @@
+May 08, 2016 7:04:09 AM com.kodiak.qa.testsuites.ThirdPartyBasicSearchTestCase thirdParty_CheckDeleteBtnBeforeAndAfterSearch
+INFO: Test Purpose : Delete a subscriber befor search and after search
+May 08, 2016 7:04:24 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDeleteBtnBefAndAfter
+INFO: Failed to Locate Workarea Search

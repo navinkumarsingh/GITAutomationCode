@@ -1,0 +1,4 @@
+Sep 27, 2016 4:38:57 AM com.kodiak.qa.testsuites.CrossCarrierPTTBasicSearchTestCase crossCarrier_VerifyingViewGroupsFilterDispatchGroupsList
+INFO: Test Purpose: Verifying the View Groups Filter Dispatch Group List
+Sep 27, 2016 4:38:57 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyViewGroupsFilterDispatchGroupsList
+INFO: Validating the Dispatcher count for Dispatch Groups in View Group Filter 

@@ -1,0 +1,755 @@
+<html>
+<head>
+<title>TestNG:  ThirdPartyProfileValidation</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>ThirdPartyProfileValidation</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>14/7/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Sep 26 22:52:56 IST 2016</td>
+</tr>
+<tr><td>Total time:</td><td>682 seconds (682122 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingChangedThirdPartyEmail()'><b>thirdParty_ValidatingChangedThirdPartyEmail</b><br>Test class: com.kodiak.qa.testsuites.ThirdPartyProfileValidation</td>
+<td><div><pre>org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: Offset within element cannot be scrolled into view: (147.5, 9): [object HTMLSelectElement]
+Command duration or timeout: 19 milliseconds
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a40e7c23-d8b2-4b40-94ac-40dea42bf590
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteExecuteMethod.execute(RemoteExecuteMethod.java:35)
+	at org.openqa.selenium.remote.RemoteMouse.mouseMove(RemoteMouse.java:89)
+	at org.openqa.selenium.interactions.MoveMouseAction.perform(MoveMouseAction.java:39)
+	at org.openqa.selenium.interactions.CompositeAction.perform(CompositeAction.java:50)
+	at org.openqa.selenium.interactions.Actions.perform(Actions.java:371)
+	at com.kodiak.qa.common.WebDriverWrappers.Click(WebDriverWrappers.java:51)
+	at com.kodiak.qa.test.kodiak.methods.CATCommonMethods.tp_verifySubscriberEmail(CATCommonMethods.java:10234)
+	at com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingChangedThirdPartyEmail(ThirdPartyProfileValidation.java:174)
+Caused by: org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: Offset within element cannot be scrolled into view: (147.5, 9): [object HTMLSelectElement]
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.FirefoxDriver.prototype.mouseMoveTo(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10978)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12643)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12648)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.execute/&lt;(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12590)
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1932536213", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1932536213'><pre>org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: Offset within element cannot be scrolled into view: (147.5, 9): [object HTMLSelectElement]
+Command duration or timeout: 19 milliseconds
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a40e7c23-d8b2-4b40-94ac-40dea42bf590
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteExecuteMethod.execute(RemoteExecuteMethod.java:35)
+	at org.openqa.selenium.remote.RemoteMouse.mouseMove(RemoteMouse.java:89)
+	at org.openqa.selenium.interactions.MoveMouseAction.perform(MoveMouseAction.java:39)
+	at org.openqa.selenium.interactions.CompositeAction.perform(CompositeAction.java:50)
+	at org.openqa.selenium.interactions.Actions.perform(Actions.java:371)
+	at com.kodiak.qa.common.WebDriverWrappers.Click(WebDriverWrappers.java:51)
+	at com.kodiak.qa.test.kodiak.methods.CATCommonMethods.tp_verifySubscriberEmail(CATCommonMethods.java:10234)
+	at com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingChangedThirdPartyEmail(ThirdPartyProfileValidation.java:174)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:773)
+	at org.testng.TestRunner.run(TestRunner.java:623)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1018)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:112)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:205)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:176)
+Caused by: org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: Offset within element cannot be scrolled into view: (147.5, 9): [object HTMLSelectElement]
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.FirefoxDriver.prototype.mouseMoveTo(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10978)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12643)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12648)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.execute/&lt;(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12590)
+</pre></div></td>
+<td>28</td>
+<td>com.kodiak.qa.testsuites.ThirdPartyProfileValidation@7c30a502</td></tr>
+<tr>
+<td title='com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingChangedThirdPartyName()'><b>thirdParty_ValidatingChangedThirdPartyName</b><br>Test class: com.kodiak.qa.testsuites.ThirdPartyProfileValidation</td>
+<td><div><pre>org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: Offset within element cannot be scrolled into view: (147.5, 9): [object HTMLSelectElement]
+Command duration or timeout: 25 milliseconds
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a40e7c23-d8b2-4b40-94ac-40dea42bf590
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteExecuteMethod.execute(RemoteExecuteMethod.java:35)
+	at org.openqa.selenium.remote.RemoteMouse.mouseMove(RemoteMouse.java:89)
+	at org.openqa.selenium.interactions.MoveMouseAction.perform(MoveMouseAction.java:39)
+	at org.openqa.selenium.interactions.CompositeAction.perform(CompositeAction.java:50)
+	at org.openqa.selenium.interactions.Actions.perform(Actions.java:371)
+	at com.kodiak.qa.common.WebDriverWrappers.Click(WebDriverWrappers.java:51)
+	at com.kodiak.qa.test.kodiak.methods.CATCommonMethods.tp_verifySubscriberName(CATCommonMethods.java:10197)
+	at com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingChangedThirdPartyName(ThirdPartyProfileValidation.java:129)
+Caused by: org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: Offset within element cannot be scrolled into view: (147.5, 9): [object HTMLSelectElement]
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.FirefoxDriver.prototype.mouseMoveTo(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10978)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12643)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12648)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.execute/&lt;(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12590)
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace380812044", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace380812044'><pre>org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: Offset within element cannot be scrolled into view: (147.5, 9): [object HTMLSelectElement]
+Command duration or timeout: 25 milliseconds
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a40e7c23-d8b2-4b40-94ac-40dea42bf590
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteExecuteMethod.execute(RemoteExecuteMethod.java:35)
+	at org.openqa.selenium.remote.RemoteMouse.mouseMove(RemoteMouse.java:89)
+	at org.openqa.selenium.interactions.MoveMouseAction.perform(MoveMouseAction.java:39)
+	at org.openqa.selenium.interactions.CompositeAction.perform(CompositeAction.java:50)
+	at org.openqa.selenium.interactions.Actions.perform(Actions.java:371)
+	at com.kodiak.qa.common.WebDriverWrappers.Click(WebDriverWrappers.java:51)
+	at com.kodiak.qa.test.kodiak.methods.CATCommonMethods.tp_verifySubscriberName(CATCommonMethods.java:10197)
+	at com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingChangedThirdPartyName(ThirdPartyProfileValidation.java:129)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:773)
+	at org.testng.TestRunner.run(TestRunner.java:623)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1018)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:112)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:205)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:176)
+Caused by: org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: Offset within element cannot be scrolled into view: (147.5, 9): [object HTMLSelectElement]
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.FirefoxDriver.prototype.mouseMoveTo(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10978)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12643)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12648)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.execute/&lt;(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12590)
+</pre></div></td>
+<td>28</td>
+<td>com.kodiak.qa.testsuites.ThirdPartyProfileValidation@7c30a502</td></tr>
+<tr>
+<td title='com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingSubscriberType()'><b>thirdParty_ValidatingSubscriberType</b><br>Test class: com.kodiak.qa.testsuites.ThirdPartyProfileValidation</td>
+<td><div><pre>org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: Offset within element cannot be scrolled into view: (147.5, 9): [object HTMLSelectElement]
+Command duration or timeout: 21 milliseconds
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a40e7c23-d8b2-4b40-94ac-40dea42bf590
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteExecuteMethod.execute(RemoteExecuteMethod.java:35)
+	at org.openqa.selenium.remote.RemoteMouse.mouseMove(RemoteMouse.java:89)
+	at org.openqa.selenium.interactions.MoveMouseAction.perform(MoveMouseAction.java:39)
+	at org.openqa.selenium.interactions.CompositeAction.perform(CompositeAction.java:50)
+	at org.openqa.selenium.interactions.Actions.perform(Actions.java:371)
+	at com.kodiak.qa.common.WebDriverWrappers.Click(WebDriverWrappers.java:51)
+	at com.kodiak.qa.test.kodiak.methods.CATCommonMethods.tp_verifySubscriberType(CATCommonMethods.java:10331)
+	at com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingSubscriberType(ThirdPartyProfileValidation.java:142)
+Caused by: org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: Offset within element cannot be scrolled into view: (147.5, 9): [object HTMLSelectElement]
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.FirefoxDriver.prototype.mouseMoveTo(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10978)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12643)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12648)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.execute/&lt;(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12590)
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1581078471", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1581078471'><pre>org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: Offset within element cannot be scrolled into view: (147.5, 9): [object HTMLSelectElement]
+Command duration or timeout: 21 milliseconds
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a40e7c23-d8b2-4b40-94ac-40dea42bf590
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteExecuteMethod.execute(RemoteExecuteMethod.java:35)
+	at org.openqa.selenium.remote.RemoteMouse.mouseMove(RemoteMouse.java:89)
+	at org.openqa.selenium.interactions.MoveMouseAction.perform(MoveMouseAction.java:39)
+	at org.openqa.selenium.interactions.CompositeAction.perform(CompositeAction.java:50)
+	at org.openqa.selenium.interactions.Actions.perform(Actions.java:371)
+	at com.kodiak.qa.common.WebDriverWrappers.Click(WebDriverWrappers.java:51)
+	at com.kodiak.qa.test.kodiak.methods.CATCommonMethods.tp_verifySubscriberType(CATCommonMethods.java:10331)
+	at com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingSubscriberType(ThirdPartyProfileValidation.java:142)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:773)
+	at org.testng.TestRunner.run(TestRunner.java:623)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1018)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:112)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:205)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:176)
+Caused by: org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: Offset within element cannot be scrolled into view: (147.5, 9): [object HTMLSelectElement]
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.FirefoxDriver.prototype.mouseMoveTo(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10978)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12643)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12648)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.execute/&lt;(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12590)
+</pre></div></td>
+<td>26</td>
+<td>com.kodiak.qa.testsuites.ThirdPartyProfileValidation@7c30a502</td></tr>
+<tr>
+<td title='com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingThirdPartyEmail()'><b>thirdParty_ValidatingThirdPartyEmail</b><br>Test class: com.kodiak.qa.testsuites.ThirdPartyProfileValidation</td>
+<td><div><pre>org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: Offset within element cannot be scrolled into view: (147.5, 9): [object HTMLSelectElement]
+Command duration or timeout: 21 milliseconds
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a40e7c23-d8b2-4b40-94ac-40dea42bf590
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteExecuteMethod.execute(RemoteExecuteMethod.java:35)
+	at org.openqa.selenium.remote.RemoteMouse.mouseMove(RemoteMouse.java:89)
+	at org.openqa.selenium.interactions.MoveMouseAction.perform(MoveMouseAction.java:39)
+	at org.openqa.selenium.interactions.CompositeAction.perform(CompositeAction.java:50)
+	at org.openqa.selenium.interactions.Actions.perform(Actions.java:371)
+	at com.kodiak.qa.common.WebDriverWrappers.Click(WebDriverWrappers.java:51)
+	at com.kodiak.qa.test.kodiak.methods.CATCommonMethods.tp_verifySubscriberEmail(CATCommonMethods.java:10234)
+	at com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingThirdPartyEmail(ThirdPartyProfileValidation.java:153)
+Caused by: org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: Offset within element cannot be scrolled into view: (147.5, 9): [object HTMLSelectElement]
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.FirefoxDriver.prototype.mouseMoveTo(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10978)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12643)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12648)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.execute/&lt;(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12590)
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1910936570", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1910936570'><pre>org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: Offset within element cannot be scrolled into view: (147.5, 9): [object HTMLSelectElement]
+Command duration or timeout: 21 milliseconds
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a40e7c23-d8b2-4b40-94ac-40dea42bf590
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteExecuteMethod.execute(RemoteExecuteMethod.java:35)
+	at org.openqa.selenium.remote.RemoteMouse.mouseMove(RemoteMouse.java:89)
+	at org.openqa.selenium.interactions.MoveMouseAction.perform(MoveMouseAction.java:39)
+	at org.openqa.selenium.interactions.CompositeAction.perform(CompositeAction.java:50)
+	at org.openqa.selenium.interactions.Actions.perform(Actions.java:371)
+	at com.kodiak.qa.common.WebDriverWrappers.Click(WebDriverWrappers.java:51)
+	at com.kodiak.qa.test.kodiak.methods.CATCommonMethods.tp_verifySubscriberEmail(CATCommonMethods.java:10234)
+	at com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingThirdPartyEmail(ThirdPartyProfileValidation.java:153)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:773)
+	at org.testng.TestRunner.run(TestRunner.java:623)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1018)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:112)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:205)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:176)
+Caused by: org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: Offset within element cannot be scrolled into view: (147.5, 9): [object HTMLSelectElement]
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.FirefoxDriver.prototype.mouseMoveTo(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10978)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12643)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12648)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.execute/&lt;(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12590)
+</pre></div></td>
+<td>28</td>
+<td>com.kodiak.qa.testsuites.ThirdPartyProfileValidation@7c30a502</td></tr>
+<tr>
+<td title='com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingThirdPartyPhoneNumber()'><b>thirdParty_ValidatingThirdPartyPhoneNumber</b><br>Test class: com.kodiak.qa.testsuites.ThirdPartyProfileValidation</td>
+<td><div><pre>org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: Offset within element cannot be scrolled into view: (147.5, 9): [object HTMLSelectElement]
+Command duration or timeout: 21 milliseconds
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a40e7c23-d8b2-4b40-94ac-40dea42bf590
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteExecuteMethod.execute(RemoteExecuteMethod.java:35)
+	at org.openqa.selenium.remote.RemoteMouse.mouseMove(RemoteMouse.java:89)
+	at org.openqa.selenium.interactions.MoveMouseAction.perform(MoveMouseAction.java:39)
+	at org.openqa.selenium.interactions.CompositeAction.perform(CompositeAction.java:50)
+	at org.openqa.selenium.interactions.Actions.perform(Actions.java:371)
+	at com.kodiak.qa.common.WebDriverWrappers.Click(WebDriverWrappers.java:51)
+	at com.kodiak.qa.test.kodiak.methods.CATCommonMethods.tp_verifySubscriberPhoneNumber(CATCommonMethods.java:10414)
+	at com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingThirdPartyPhoneNumber(ThirdPartyProfileValidation.java:186)
+Caused by: org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: Offset within element cannot be scrolled into view: (147.5, 9): [object HTMLSelectElement]
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.FirefoxDriver.prototype.mouseMoveTo(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10978)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12643)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12648)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.execute/&lt;(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12590)
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1513867245", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1513867245'><pre>org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: Offset within element cannot be scrolled into view: (147.5, 9): [object HTMLSelectElement]
+Command duration or timeout: 21 milliseconds
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a40e7c23-d8b2-4b40-94ac-40dea42bf590
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteExecuteMethod.execute(RemoteExecuteMethod.java:35)
+	at org.openqa.selenium.remote.RemoteMouse.mouseMove(RemoteMouse.java:89)
+	at org.openqa.selenium.interactions.MoveMouseAction.perform(MoveMouseAction.java:39)
+	at org.openqa.selenium.interactions.CompositeAction.perform(CompositeAction.java:50)
+	at org.openqa.selenium.interactions.Actions.perform(Actions.java:371)
+	at com.kodiak.qa.common.WebDriverWrappers.Click(WebDriverWrappers.java:51)
+	at com.kodiak.qa.test.kodiak.methods.CATCommonMethods.tp_verifySubscriberPhoneNumber(CATCommonMethods.java:10414)
+	at com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingThirdPartyPhoneNumber(ThirdPartyProfileValidation.java:186)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:773)
+	at org.testng.TestRunner.run(TestRunner.java:623)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1018)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:112)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:205)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:176)
+Caused by: org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: Offset within element cannot be scrolled into view: (147.5, 9): [object HTMLSelectElement]
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.FirefoxDriver.prototype.mouseMoveTo(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10978)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12643)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12648)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.execute/&lt;(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12590)
+</pre></div></td>
+<td>24</td>
+<td>com.kodiak.qa.testsuites.ThirdPartyProfileValidation@7c30a502</td></tr>
+<tr>
+<td title='com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingThirdPartyRecords()'><b>thirdParty_ValidatingThirdPartyRecords</b><br>Test class: com.kodiak.qa.testsuites.ThirdPartyProfileValidation</td>
+<td><div><pre>org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: Offset within element cannot be scrolled into view: (147.5, 9): [object HTMLSelectElement]
+Command duration or timeout: 21 milliseconds
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a40e7c23-d8b2-4b40-94ac-40dea42bf590
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteExecuteMethod.execute(RemoteExecuteMethod.java:35)
+	at org.openqa.selenium.remote.RemoteMouse.mouseMove(RemoteMouse.java:89)
+	at org.openqa.selenium.interactions.MoveMouseAction.perform(MoveMouseAction.java:39)
+	at org.openqa.selenium.interactions.CompositeAction.perform(CompositeAction.java:50)
+	at org.openqa.selenium.interactions.Actions.perform(Actions.java:371)
+	at com.kodiak.qa.common.WebDriverWrappers.Click(WebDriverWrappers.java:51)
+	at com.kodiak.qa.test.kodiak.methods.CATCommonMethods.tp_verifySubscriberRecords(CATCommonMethods.java:10456)
+	at com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingThirdPartyRecords(ThirdPartyProfileValidation.java:223)
+Caused by: org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: Offset within element cannot be scrolled into view: (147.5, 9): [object HTMLSelectElement]
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.FirefoxDriver.prototype.mouseMoveTo(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10978)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12643)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12648)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.execute/&lt;(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12590)
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace746115872", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace746115872'><pre>org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: Offset within element cannot be scrolled into view: (147.5, 9): [object HTMLSelectElement]
+Command duration or timeout: 21 milliseconds
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a40e7c23-d8b2-4b40-94ac-40dea42bf590
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteExecuteMethod.execute(RemoteExecuteMethod.java:35)
+	at org.openqa.selenium.remote.RemoteMouse.mouseMove(RemoteMouse.java:89)
+	at org.openqa.selenium.interactions.MoveMouseAction.perform(MoveMouseAction.java:39)
+	at org.openqa.selenium.interactions.CompositeAction.perform(CompositeAction.java:50)
+	at org.openqa.selenium.interactions.Actions.perform(Actions.java:371)
+	at com.kodiak.qa.common.WebDriverWrappers.Click(WebDriverWrappers.java:51)
+	at com.kodiak.qa.test.kodiak.methods.CATCommonMethods.tp_verifySubscriberRecords(CATCommonMethods.java:10456)
+	at com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingThirdPartyRecords(ThirdPartyProfileValidation.java:223)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:773)
+	at org.testng.TestRunner.run(TestRunner.java:623)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1018)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:112)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:205)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:176)
+Caused by: org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: Offset within element cannot be scrolled into view: (147.5, 9): [object HTMLSelectElement]
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.FirefoxDriver.prototype.mouseMoveTo(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10978)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12643)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12648)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.execute/&lt;(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12590)
+</pre></div></td>
+<td>24</td>
+<td>com.kodiak.qa.testsuites.ThirdPartyProfileValidation@7c30a502</td></tr>
+<tr>
+<td title='com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingTotalGroupCountInWorkAreaAfterSelectingViewGroupTabForThirdParty()'><b>thirdParty_ValidatingTotalGroupCountInWorkAreaAfterSelectingViewGroupTabForThirdParty</b><br>Test class: com.kodiak.qa.testsuites.ThirdPartyProfileValidation</td>
+<td><div><pre>org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 21 milliseconds
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a40e7c23-d8b2-4b40-94ac-40dea42bf590
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:273)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at com.kodiak.qa.common.WebDriverWrappers.click(WebDriverWrappers.java:36)
+	at com.kodiak.qa.test.kodiak.methods.CATCommonMethods.tp_verifyTotalGroupCount(CATCommonMethods.java:10541)
+	at com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingTotalGroupCountInWorkAreaAfterSelectingViewGroupTabForThirdParty(ThirdPartyProfileValidation.java:270)
+Caused by: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.fxdriver.preconditions.visible(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:9982)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.checkPreconditions_(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12626)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12643)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12648)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.execute/&lt;(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12590)
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1105628551", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1105628551'><pre>org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 21 milliseconds
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a40e7c23-d8b2-4b40-94ac-40dea42bf590
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:273)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at com.kodiak.qa.common.WebDriverWrappers.click(WebDriverWrappers.java:36)
+	at com.kodiak.qa.test.kodiak.methods.CATCommonMethods.tp_verifyTotalGroupCount(CATCommonMethods.java:10541)
+	at com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingTotalGroupCountInWorkAreaAfterSelectingViewGroupTabForThirdParty(ThirdPartyProfileValidation.java:270)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:773)
+	at org.testng.TestRunner.run(TestRunner.java:623)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1018)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:112)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:205)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:176)
+Caused by: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Build info: version: &apos;2.47.1&apos;, revision: &apos;411b314&apos;, time: &apos;2015-07-30 02:56:46&apos;
+System info: host: &apos;Admin-PC&apos;, ip: &apos;192.168.2.17&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.fxdriver.preconditions.visible(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:9982)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.checkPreconditions_(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12626)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12643)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12648)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.execute/&lt;(file:///C:/Users/Admin/AppData/Local/Temp/anonymous7681535866431761149webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12590)
+</pre></div></td>
+<td>24</td>
+<td>com.kodiak.qa.testsuites.ThirdPartyProfileValidation@7c30a502</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.kodiak.qa.testsuites.ThirdPartyProfileValidation.Kodiak_CAT_LaunchingUsingFANId()'><b>Kodiak_CAT_LaunchingUsingFANId</b><br>Test class: com.kodiak.qa.testsuites.ThirdPartyProfileValidation</td>
+<td></td>
+<td>99</td>
+<td>com.kodiak.qa.testsuites.ThirdPartyProfileValidation@7c30a502</td></tr>
+<tr>
+<td title='com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_SelectedSubscriberConatctInWorkArea()'><b>thirdParty_SelectedSubscriberConatctInWorkArea</b><br>Test class: com.kodiak.qa.testsuites.ThirdPartyProfileValidation</td>
+<td></td>
+<td>69</td>
+<td>com.kodiak.qa.testsuites.ThirdPartyProfileValidation@7c30a502</td></tr>
+<tr>
+<td title='com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingAlphanumericThirdPartyName()'><b>thirdParty_ValidatingAlphanumericThirdPartyName</b><br>Test class: com.kodiak.qa.testsuites.ThirdPartyProfileValidation</td>
+<td></td>
+<td>31</td>
+<td>com.kodiak.qa.testsuites.ThirdPartyProfileValidation@7c30a502</td></tr>
+<tr>
+<td title='com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingClientType()'><b>thirdParty_ValidatingClientType</b><br>Test class: com.kodiak.qa.testsuites.ThirdPartyProfileValidation</td>
+<td></td>
+<td>9</td>
+<td>com.kodiak.qa.testsuites.ThirdPartyProfileValidation@7c30a502</td></tr>
+<tr>
+<td title='com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingThirdPartyBillingPhoneNumber()'><b>thirdParty_ValidatingThirdPartyBillingPhoneNumber</b><br>Test class: com.kodiak.qa.testsuites.ThirdPartyProfileValidation</td>
+<td></td>
+<td>14</td>
+<td>com.kodiak.qa.testsuites.ThirdPartyProfileValidation@7c30a502</td></tr>
+<tr>
+<td title='com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingThirdPartyIconToolTip()'><b>thirdParty_ValidatingThirdPartyIconToolTip</b><br>Test class: com.kodiak.qa.testsuites.ThirdPartyProfileValidation</td>
+<td></td>
+<td>47</td>
+<td>com.kodiak.qa.testsuites.ThirdPartyProfileValidation@7c30a502</td></tr>
+<tr>
+<td title='com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingThirdPartyName()'><b>thirdParty_ValidatingThirdPartyName</b><br>Test class: com.kodiak.qa.testsuites.ThirdPartyProfileValidation</td>
+<td></td>
+<td>49</td>
+<td>com.kodiak.qa.testsuites.ThirdPartyProfileValidation@7c30a502</td></tr>
+<tr>
+<td title='com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingThirdPartyState()'><b>thirdParty_ValidatingThirdPartyState</b><br>Test class: com.kodiak.qa.testsuites.ThirdPartyProfileValidation</td>
+<td></td>
+<td>8</td>
+<td>com.kodiak.qa.testsuites.ThirdPartyProfileValidation@7c30a502</td></tr>
+<tr>
+<td title='com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingThirdPartyWithoutEmail()'><b>thirdParty_ValidatingThirdPartyWithoutEmail</b><br>Test class: com.kodiak.qa.testsuites.ThirdPartyProfileValidation</td>
+<td></td>
+<td>44</td>
+<td>com.kodiak.qa.testsuites.ThirdPartyProfileValidation@7c30a502</td></tr>
+<tr>
+<td title='com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingThirdPartyWithoutName()'><b>thirdParty_ValidatingThirdPartyWithoutName</b><br>Test class: com.kodiak.qa.testsuites.ThirdPartyProfileValidation</td>
+<td></td>
+<td>44</td>
+<td>com.kodiak.qa.testsuites.ThirdPartyProfileValidation@7c30a502</td></tr>
+<tr>
+<td title='com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingTotalCountInWorkAreaAfterSelectingDisaptcherInMasterList()'><b>thirdParty_ValidatingTotalCountInWorkAreaAfterSelectingDisaptcherInMasterList</b><br>Test class: com.kodiak.qa.testsuites.ThirdPartyProfileValidation</td>
+<td></td>
+<td>18</td>
+<td>com.kodiak.qa.testsuites.ThirdPartyProfileValidation@7c30a502</td></tr>
+<tr>
+<td title='com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingTotalCountInWorkAreaAfterSelectingManageContactsViaSubListTabForThirdParty()'><b>thirdParty_ValidatingTotalCountInWorkAreaAfterSelectingManageContactsViaSubListTabForThirdParty</b><br>Test class: com.kodiak.qa.testsuites.ThirdPartyProfileValidation</td>
+<td></td>
+<td>17</td>
+<td>com.kodiak.qa.testsuites.ThirdPartyProfileValidation@7c30a502</td></tr>
+<tr>
+<td title='com.kodiak.qa.testsuites.ThirdPartyProfileValidation.thirdParty_ValidatingTotalCountInWorkAreaAfterSelectingViewAllContactTabForThirdParty()'><b>thirdParty_ValidatingTotalCountInWorkAreaAfterSelectingViewAllContactTabForThirdParty</b><br>Test class: com.kodiak.qa.testsuites.ThirdPartyProfileValidation</td>
+<td></td>
+<td>17</td>
+<td>com.kodiak.qa.testsuites.ThirdPartyProfileValidation@7c30a502</td></tr>
+<tr>
+<td title='com.kodiak.qa.testsuites.ThirdPartyProfileValidation.validatingCloseBrowser()'><b>validatingCloseBrowser</b><br>Test class: com.kodiak.qa.testsuites.ThirdPartyProfileValidation</td>
+<td></td>
+<td>2</td>
+<td>com.kodiak.qa.testsuites.ThirdPartyProfileValidation@7c30a502</td></tr>
+</table><p>
+</body>
+</html>

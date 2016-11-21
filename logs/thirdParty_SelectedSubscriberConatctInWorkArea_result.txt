@@ -1,0 +1,18 @@
+Sep 27, 2016 12:01:18 AM com.kodiak.qa.testsuites.ThirdPartyProfileValidation thirdParty_SelectedSubscriberConatctInWorkArea
+INFO: Test Purpose: Verify Selected Subscriber Contacts
+Sep 27, 2016 12:01:18 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifySelectedSubscriberConatctInWorkArea
+INFO: Verifying Selected Subscriber's Contacts In Work Area Is Zero or Not
+Sep 27, 2016 12:01:33 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifySelectedSubscriberConatctInWorkArea
+INFO: Succefully selected the 'Third Party' from the Masterlist DropDown.
+Sep 27, 2016 12:02:03 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifySelectedSubscriberConatctInWorkArea
+INFO: enter the a subscriber phone number in the search field : 91988702391
+Sep 27, 2016 12:02:03 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifySelectedSubscriberConatctInWorkArea
+INFO: 1 item found. got in the search result
+Sep 27, 2016 12:02:18 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifySelectedSubscriberConatctInWorkArea
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 12:02:18 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifySelectedSubscriberConatctInWorkArea
+INFO: 'Total Subscriber Record' validation successful. Displayed Text :0
+Sep 27, 2016 12:02:22 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifySelectedSubscriberConatctInWorkArea
+INFO: 'Total Subscriber Record' validation successful. Displayed Text :0
+Sep 27, 2016 12:02:22 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifySelectedSubscriberConatctInWorkArea
+INFO: Total Contacts are Zero

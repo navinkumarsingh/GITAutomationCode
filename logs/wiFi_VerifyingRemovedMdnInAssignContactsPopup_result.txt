@@ -1,0 +1,22 @@
+Sep 27, 2016 3:23:51 AM com.kodiak.qa.testsuites.WiFiClientFunctionalityValidationManageIndividualList wiFi_VerifyingRemovedMdnInAssignContactsPopup
+INFO: Test Purpose: Verifying State of removed MDN in the 'Assign Contacts' popup
+Sep 27, 2016 3:24:12 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully selected the 'Wi Fi' from the Master-List DropDown.
+Sep 27, 2016 3:24:19 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702591
+Sep 27, 2016 3:24:30 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 3:24:30 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully clicked on 'Assign Contacts' button
+Sep 27, 2016 3:24:35 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully sent the MDN in the 'Pick Contacts Searched Field' :91988702592
+Sep 27, 2016 3:24:40 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully clicked on 'Select All' checkbox which will select the Searched MDN :91988702592
+Sep 27, 2016 3:24:44 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully validated and Clicked on Done button to add the for continuation for Automation :91988702592
+Sep 27, 2016 3:24:49 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully clicked on 'Remove All' label
+Sep 27, 2016 3:24:53 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully Clicked on Subscriber 'Save' button
+Sep 27, 2016 3:25:01 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully Clicked on Subscriber Save Success OK button

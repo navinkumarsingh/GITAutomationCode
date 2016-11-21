@@ -1,0 +1,4 @@
+Apr 25, 2016 10:05:57 PM com.kodiak.qa.testsuites.WindowClientProfileValidation windowClient_validatingTotalCountInWorkAreaAfterSelectingDisaptcherInMasterList
+INFO: Test Purpose:  Validating the WindowClient Total Records
+Apr 25, 2016 10:06:07 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountInWorkAreaAfterSelectingSubscriberInMasterList
+INFO: Successfully clicked on Subscriber in MasterList

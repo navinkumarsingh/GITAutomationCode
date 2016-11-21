@@ -1,0 +1,10 @@
+May 08, 2016 12:41:14 AM com.kodiak.qa.testsuites.ThirdPartyFunctionalityValidation thirdParty_ValidatingTotalCountInWorkAreaAfterSelectingSubscriberWithNoContacts
+INFO: Test Purpose:  Validating the Dispatcher Total Records
+May 08, 2016 12:41:39 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyTotalCountIfNoContacts
+INFO: Successfully selected the 'Third Party' from the Master-List DropDown.
+May 08, 2016 12:41:52 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyTotalCountIfNoContacts
+INFO: Successfully located MasterList Search Box and Searched the mdn :919900010746
+May 08, 2016 12:42:03 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyTotalCountIfNoContacts
+INFO: Successfully selected the Subscriber in the MasterList Menu
+May 08, 2016 12:42:07 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyTotalCountIfNoContacts
+INFO: 'Total Subscriber Record' in work area validation successful. Displayed Text :0

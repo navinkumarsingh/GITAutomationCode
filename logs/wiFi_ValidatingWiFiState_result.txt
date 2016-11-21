@@ -1,0 +1,4 @@
+Sep 27, 2016 2:35:22 AM com.kodiak.qa.testsuites.WiFiClientProfileValidation wiFi_ValidatingWiFiState
+INFO: Test Purpose:  Validating the WiFi State
+Sep 27, 2016 2:35:26 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberState
+INFO: 'Subscriber STATE' validation successful. Displayed Text :Provisioned

@@ -1,0 +1,2 @@
+Sep 23, 2016 5:22:36 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingAddIndividualMemberTabForMaxLimitForDispatchGroup
+INFO: Test Purpose: Validation of Add Individual Member Tab For Max Limit

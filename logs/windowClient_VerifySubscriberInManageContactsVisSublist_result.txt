@@ -1,0 +1,6 @@
+Apr 25, 2016 1:39:41 AM com.kodiak.qa.testsuites.WindowClientBasicSearchTestCase windowClient_VerifySubscriberInManageContactsVisSublist
+INFO: Test Purpose : Search a Sublist Name in Manage Contacts Via Sublist
+Apr 25, 2016 1:39:50 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifysubscriberInSUblist
+INFO: enter the a contact of sublist in the search field : 91988700332
+Apr 25, 2016 1:39:54 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifysubscriberInSUblist
+INFO: 91988700332 got in the search result

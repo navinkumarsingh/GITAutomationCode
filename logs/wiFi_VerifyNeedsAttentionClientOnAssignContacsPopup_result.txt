@@ -1,0 +1,6 @@
+Sep 27, 2016 2:55:32 AM com.kodiak.qa.testsuites.WiFiClientAssignContactsFilterData wiFi_VerifyNeedsAttentionClientOnAssignContacsPopup
+INFO: Test Purpose : Verify the Needs Attention Clients in Assign Contacts Pop up for WiFiClient Subscriber
+Sep 27, 2016 2:55:53 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyNeedsAttentionClientsCountOnAssignContactsPopup
+INFO: select the drop down to Needs Attention Clients Contacts in Assign contacts popup
+Sep 27, 2016 2:55:58 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyNeedsAttentionClientsCountOnAssignContactsPopup
+INFO: Got the search result count : 545 items found.

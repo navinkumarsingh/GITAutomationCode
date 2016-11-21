@@ -1,0 +1,10 @@
+Sep 27, 2016 4:35:09 AM com.kodiak.qa.testsuites.CrossCarrierPTTBasicSearchTestCase crossCarrier_SearchSubscriberName
+INFO: Test Purpose : Search a subcriber name in MasterList Search
+Sep 27, 2016 4:35:09 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchName
+INFO: Verifying  the Name in the MasterList Navigation Area
+Sep 27, 2016 4:35:14 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchName
+INFO: Succefully selected Manage Master List in Navigation Area
+Sep 27, 2016 4:35:21 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchName
+INFO: enter the a subscriber name in the search field : AUTOMATION CROSS CARRIER 
+Sep 27, 2016 4:35:26 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchName
+INFO: Unable to find the : AUTOMATION CROSS CARRIER in MasterList navigation serach

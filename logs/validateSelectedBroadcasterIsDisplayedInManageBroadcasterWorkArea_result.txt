@@ -1,0 +1,4 @@
+Sep 23, 2016 5:31:53 PM com.kodiak.qa.testsuites.BroadcastGroup validateSelectedBroadcasterIsDisplayedInManageBroadcasterWorkArea
+INFO: To verify Selected Broadcaster is displayed in 'Manage Broadcaster' work area
+Sep 23, 2016 5:31:56 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateSelectedBroadcasterIsDisplayedInManageBroadcasterWorkArea
+INFO: Successfully clicked on 'Pick Broadcasters Done' button

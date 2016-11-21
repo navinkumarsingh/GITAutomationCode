@@ -1,0 +1,4 @@
+Sep 27, 2016 3:56:56 AM com.kodiak.qa.testsuites.CrossCarrierPTTManageContactsViaSubListFunctionality crossCarrier_VerifyingPickSubListSearchBoxAfterAllSubListAdded
+INFO: Test Purpose: verifying Sub List Search Box After All Sub List added
+Sep 27, 2016 3:56:56 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListSearchBoxAfterAllSubListAdded
+INFO: Validating the Pick Sub List Search box after all the sublist added

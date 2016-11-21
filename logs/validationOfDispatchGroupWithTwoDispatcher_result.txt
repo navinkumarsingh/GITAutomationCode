@@ -1,0 +1,18 @@
+Sep 23, 2016 5:17:47 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validationOfDispatchGroupWithTwoDispatcher
+INFO: Test Purpose: Validation of Dispatch Group With Two Dispatcher
+Sep 23, 2016 5:17:53 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatchGroupWithTwoDispatcher
+INFO: Successfully sent the mdn1 to the 'Assign Contacts Search' field':918899790030
+Sep 23, 2016 5:17:58 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatchGroupWithTwoDispatcher
+INFO: Successfully clicked on 'Pick Dispatcher Individual Member Check Box'
+Sep 23, 2016 5:18:04 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatchGroupWithTwoDispatcher
+INFO: Successfully sent the mdn1 to the 'Assign Contacts Search' field':918899790031
+Sep 23, 2016 5:18:08 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatchGroupWithTwoDispatcher
+INFO: Successfully clicked on 'Pick Dispatcher Individual Member Check Box'
+Sep 23, 2016 5:18:12 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatchGroupWithTwoDispatcher
+INFO: Successfully clicked on 'Pick Dispatcher Done' button
+Sep 23, 2016 5:18:18 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatchGroupWithTwoDispatcher
+INFO: Successfully passed the Group Name to the Field
+Sep 23, 2016 5:18:27 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatchGroupWithTwoDispatcher
+INFO: Successfully clicked on 'Group ADD' button
+Sep 23, 2016 5:18:36 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatchGroupWithTwoDispatcher
+INFO: Successfully clicked on 'Group Confirm OK' button

@@ -1,0 +1,6 @@
+Sep 27, 2016 1:57:05 AM com.kodiak.qa.testsuites.DispatcherAssignContactsFilterData Dispatcher_VerifyExternalClientOnAssignContactsPopup
+INFO: Test Purpose : Verify the External Clients in Assign Contacts Pop up for Dispatcher Subscriber
+Sep 27, 2016 1:57:20 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactsCountOnAssignContactsPopup
+INFO: select the drop down to External Contacts in Assign contacts popup
+Sep 27, 2016 1:57:20 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactsCountOnAssignContactsPopup
+INFO: Got the search result count : 2 items found.

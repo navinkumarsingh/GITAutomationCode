@@ -1,0 +1,20 @@
+Sep 27, 2016 12:58:06 AM com.kodiak.qa.testsuites.DispatcherProfileValidation validatingChangedDispatcherName
+INFO: Test purpose: Validating the Dispatcher Name Cleared and assigned a New Name
+Sep 27, 2016 12:58:30 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberName
+INFO: Succefully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 27, 2016 12:58:37 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberName
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702141 
+Sep 27, 2016 12:58:46 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberName
+INFO: Successfully selected the Dispatcher in the MasterList Menu
+Sep 27, 2016 12:58:55 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberName
+INFO: Successfully validated the Dispatcher Name in Work Area:12Disp@$
+Sep 27, 2016 12:58:55 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberNameAfterModification
+INFO: Validating the Subscriber Name Cleared and assigned a New Name
+Sep 27, 2016 12:59:09 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberNameAfterModification
+INFO: Successfully Validated the Subscriber after Clearing the existing Dispatcher Name and assigning the new 'Dispatcher Name' : AUTOMATION DISPATCHER 1
+Sep 27, 2016 12:59:16 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberNameAfterModification
+INFO: Successfully located the 'Subscriber Save Button'
+Sep 27, 2016 12:59:24 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberNameAfterModification
+INFO: Successfully Clicked on Subscriber 'Save' button
+Sep 27, 2016 12:59:29 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberNameAfterModification
+INFO: Successfully validated Assigning new name for Subscriber

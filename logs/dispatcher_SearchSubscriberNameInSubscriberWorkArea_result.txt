@@ -1,0 +1,2 @@
+Sep 27, 2016 2:05:57 AM com.kodiak.qa.testsuites.DispatcherBasicSearchTestCase dispatcher_SearchSubscriberNameInSubscriberWorkArea
+INFO: Test Purpose : Search a subcriber name in Subscriber Work area

@@ -1,0 +1,12 @@
+Apr 25, 2016 1:28:12 AM com.kodiak.qa.testsuites.WindowClientFunctionalityValidation windowClient_ValidatingUndoIconChangeToRemoveIconAfterClick
+INFO: Test Purpose: Validating Undo Icon after Click
+Apr 25, 2016 1:28:12 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoIconChangeToDeleteIcon
+INFO: Validating the 'UNDO ICON' change to 'DELETE ICON' 
+Apr 25, 2016 1:28:20 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoIconChangeToDeleteIcon
+INFO: 'Undo Button Tool Tip' validation successful. Displayed Text :Undo Delete
+Apr 25, 2016 1:28:25 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoIconChangeToDeleteIcon
+INFO: 'Successfully  clicked on 'UNDO' button
+Apr 25, 2016 1:28:33 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoIconChangeToDeleteIcon
+INFO: 'Delete Button Tool Tip' validation successful. Displayed Text :Delete
+Apr 25, 2016 1:28:37 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoIconChangeToDeleteIcon
+INFO: 'Successfully  clicked on 'DELETE' button

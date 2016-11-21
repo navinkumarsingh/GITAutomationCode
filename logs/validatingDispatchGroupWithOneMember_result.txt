@@ -1,0 +1,4 @@
+Sep 23, 2016 5:22:09 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingDispatchGroupWithOneMember
+INFO: Test Purpose: Validation of Dispatch Group With One Member
+Sep 23, 2016 5:22:25 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatchGroupWithOneMember
+INFO: Successfully clicked on 'Add New Group' tab

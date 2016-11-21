@@ -1,0 +1,16 @@
+Apr 25, 2016 1:28:41 AM com.kodiak.qa.testsuites.WindowClientFunctionalityValidation windowClient_ValidatingTotalCountAfterClickOnUndoIcon
+INFO: Test Purpose: Validating Total Count after clicking on Undo Icon
+Apr 25, 2016 1:28:41 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountAfterUndoIcon
+INFO: Validating the 'Total Count' after click on 'Undo Icon'
+Apr 25, 2016 1:28:45 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountAfterUndoIcon
+INFO: 'Total Count before clicking on Undo button' validation successful. Displayed Text :0
+Apr 25, 2016 1:28:49 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountAfterUndoIcon
+INFO: 'Successfully  clicked on 'UNDO' button
+Apr 25, 2016 1:28:53 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountAfterUndoIcon
+INFO: 'Total Count after clicking on Undo button' validation successful. Displayed Text :1
+Apr 25, 2016 1:28:58 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountAfterUndoIcon
+INFO: 'Successfully  clicked on 'DELETE' button
+Apr 25, 2016 1:29:03 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountAfterUndoIcon
+INFO: Successfully located and clicked on Subscriber 'Save' Button
+Apr 25, 2016 1:29:08 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountAfterUndoIcon
+INFO: Successfully Clicked on Success message 'OK' button

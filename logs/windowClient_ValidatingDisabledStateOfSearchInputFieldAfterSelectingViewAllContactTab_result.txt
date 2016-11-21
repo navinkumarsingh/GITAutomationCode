@@ -1,0 +1,4 @@
+Apr 25, 2016 1:23:02 AM com.kodiak.qa.testsuites.WindowClientFunctionalityValidation windowClient_ValidatingDisabledStateOfSearchInputFieldAfterSelectingViewAllContactTab
+INFO: Test Purpose:  Validating the 'Search Disabled State' when their is no Contacts Present for the Window Client after selecting 'View All Contacts' tab
+Apr 25, 2016 1:23:10 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSearchDisabledForViewAllConatcts
+INFO: Successfully validated, 'Search by name and phone number' input field for 'View All Contacts', is located and it is in 'Disabled State'

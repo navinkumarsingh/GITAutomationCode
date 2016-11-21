@@ -1,0 +1,18 @@
+Sep 23, 2016 5:32:26 PM com.kodiak.qa.testsuites.BroadcastGroup validateSelectingMoreThanOneLMRGroupMDNAsMembers
+INFO: To validate selecting more than 1 LMR Group as Members
+Sep 23, 2016 5:32:30 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateSelectingMoreThanOneLMRGroupMDNAsMembers
+INFO: Clicking on 'Add Individual Members' button
+Sep 23, 2016 5:32:36 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateSelectingMoreThanOneLMRGroupMDNAsMembers
+INFO: Successfully sent the mdn1 to the 'Assign Contacts Search' field':916100253551
+Sep 23, 2016 5:32:40 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateSelectingMoreThanOneLMRGroupMDNAsMembers
+INFO: Successfully selected searched MDN
+Sep 23, 2016 5:32:47 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateSelectingMoreThanOneLMRGroupMDNAsMembers
+INFO: Successfully sent the mdn1 to the 'Assign Contacts Search' field':916100253552
+Sep 23, 2016 5:32:51 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateSelectingMoreThanOneLMRGroupMDNAsMembers
+INFO: Successfully selected searched MDN
+Sep 23, 2016 5:32:55 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateSelectingMoreThanOneLMRGroupMDNAsMembers
+INFO: Successfully clicked on 'Done' button
+Sep 23, 2016 5:33:01 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateSelectingMoreThanOneLMRGroupMDNAsMembers
+INFO: Successfully passed the Group Name to the Field
+Sep 23, 2016 5:33:09 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateSelectingMoreThanOneLMRGroupMDNAsMembers
+INFO: Successfully clicked on 'Group ADD' button

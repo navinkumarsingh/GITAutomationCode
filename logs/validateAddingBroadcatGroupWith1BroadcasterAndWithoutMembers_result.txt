@@ -1,0 +1,2 @@
+Sep 23, 2016 5:34:17 PM com.kodiak.qa.testsuites.BroadcastGroup validateAddingBroadcatGroupWith1BroadcasterAndWithoutMembers
+INFO: To validate creating a Broadcast Group with 1 Broadcaster and No members

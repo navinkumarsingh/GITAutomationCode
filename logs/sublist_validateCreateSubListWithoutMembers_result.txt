@@ -1,0 +1,12 @@
+Sep 23, 2016 5:53:25 PM com.kodiak.qa.testsuites.SubListRelatedTestCases sublist_validateCreateSubListWithoutMembers
+INFO: To validate creating sub-list without members'
+Sep 23, 2016 5:53:43 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods sublist_CreateSubListWithoutMembers
+INFO: Succefully selected 'Manage Sub Lists' in the Navigation Bar
+Sep 23, 2016 5:53:46 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods sublist_CreateSubListWithoutMembers
+INFO: Succefully selected 'Add New Sub Lists' in the Navigation Bar
+Sep 23, 2016 5:53:50 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods sublist_CreateSubListWithoutMembers
+INFO: Succefully Specified the Sub List Name :automation
+Sep 23, 2016 5:53:54 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods sublist_CreateSubListWithoutMembers
+INFO: Successfully clicked on 'Save' button
+Sep 23, 2016 5:53:54 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods sublist_CreateSubListWithoutMembers
+INFO: Successfully verified creating sub-list without members; Found expected warning message: Sub-List cannot be empty.

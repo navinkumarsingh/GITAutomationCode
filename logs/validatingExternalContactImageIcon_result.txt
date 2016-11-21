@@ -1,0 +1,6 @@
+Sep 26, 2016 8:32:31 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactImageIcon
+INFO: Validating External Contact Name Modification
+Sep 26, 2016 8:32:52 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactImageIcon
+INFO: Successfully located MasterList Search Box and Search the external contact :918772789800
+Sep 26, 2016 8:32:56 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactImageIcon
+INFO: Successfully located external contact and get the title :External Contact

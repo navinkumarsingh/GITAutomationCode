@@ -1,0 +1,12 @@
+Sep 27, 2016 12:52:25 AM com.kodiak.qa.testsuites.DispatcherProfileValidation validatingLoginWithoutCorpID
+INFO: Test Purpose: Verify Login Without Corp ID
+Sep 27, 2016 12:52:25 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATWithoutCorpID
+INFO: Validating Corporation Management Link appeared
+Sep 27, 2016 12:52:34 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATWithoutCorpID
+INFO: Clicking Corp Mgmt Link
+Sep 27, 2016 12:52:40 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATWithoutCorpID
+INFO: Clicking Corp Admin Tool Link
+Sep 27, 2016 12:52:49 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATWithoutCorpID
+INFO: Clicking on Go button
+Sep 27, 2016 12:52:54 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATWithoutCorpID
+INFO: Without Corp ID validation Successful : Corporate ID should contain 1 to 30 characters. Any special characters are allowed.

@@ -1,0 +1,4 @@
+Sep 27, 2016 3:56:24 AM com.kodiak.qa.testsuites.CrossCarrierPTTManageContactsViaSubListFunctionality crossCarrier_VerifyingPickSubListCheckBoxSelected
+INFO: Test Purpose: Verifying 'Pick Sub List Popup checkbox is selected
+Sep 27, 2016 3:56:24 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCheckBoxSelected
+INFO: Validating the Pick Sub List Check Box Selected

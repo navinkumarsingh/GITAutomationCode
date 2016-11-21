@@ -1,0 +1,9 @@
+Sep 27, 2016 4:14:14 PM com.kodiak.qa.testsuites.DispatcherManageContactsViaSubListFunctionality dispatcher_verifyingSubListstheSubscriberIsNotMemberofFilterResult
+INFO: Test Purpose: verifying Sub Lists the Subscriber Is not Member of Filter Result
+Sep 27, 2016 4:14:14 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListstheSubscriberIsNotMemberofFilterResult
+INFO: Validating the Sub-Lists the subscriber is not member of filter result
+Sep 27, 2016 4:14:22 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListstheSubscriberIsNotMemberofFilterResult
+INFO: Successfully located Sub-List all Filter and Selected 'Sub-Lists the subscriber is not member of'
+Sep 27, 2016 4:14:27 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListstheSubscriberIsNotMemberofFilterResult
+INFO: 'Successfully Validating Sub Lists the Subscriber Is not Member of Filter Result :AutomationSubList2                                
+AutomationSubList1                                

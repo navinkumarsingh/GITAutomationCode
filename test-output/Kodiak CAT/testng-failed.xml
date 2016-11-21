@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Kodiak CAT]">
+  <listeners>
+    <listener class-name="com.kodiak.qa.customReport.CustomReport"/>
+  </listeners>
+  <test name="KodiakCATLaunchingUsingBANId(failed)">
+    <classes>
+      <class name="com.kodiak.qa.testsuites.KodiakCATLaunchingUsingBANId">
+        <methods>
+          <include name="CATLaunchingUsingBANId"/>
+          <include name="validatingCloseBrowser"/>
+          <include name="launchCAT"/>
+          <include name="initFramewotk"/>
+          <include name="setupLogger"/>
+          <include name="loadDataProperties"/>
+        </methods>
+      </class> <!-- com.kodiak.qa.testsuites.KodiakCATLaunchingUsingBANId -->
+    </classes>
+  </test> <!-- KodiakCATLaunchingUsingBANId(failed) -->
+</suite> <!-- Failed suite [Kodiak CAT] -->

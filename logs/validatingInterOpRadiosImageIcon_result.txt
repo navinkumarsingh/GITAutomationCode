@@ -1,0 +1,6 @@
+May 29, 2016 1:12:21 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosImageIcon
+INFO: Validating Inter Op Radios Image Icon Title
+May 29, 2016 1:12:42 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosImageIcon
+INFO: Successfully located MasterList Search Box and Search the Inter-Op Radios :915050152070
+May 29, 2016 1:12:46 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosImageIcon
+INFO: Successfully located Inter-Op Radios and get the title :Inter-Op Radio

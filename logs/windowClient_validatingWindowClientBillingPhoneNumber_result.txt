@@ -1,0 +1,2 @@
+Apr 25, 2016 10:04:27 PM com.kodiak.qa.testsuites.WindowClientProfileValidation windowClient_validatingWindowClientBillingPhoneNumber
+INFO: Test Purpose:  Validating the WindowClient Billing Phone Number

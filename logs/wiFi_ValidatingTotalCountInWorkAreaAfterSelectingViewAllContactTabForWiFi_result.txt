@@ -1,0 +1,6 @@
+Sep 27, 2016 2:37:43 AM com.kodiak.qa.testsuites.WiFiClientProfileValidation wiFi_ValidatingTotalCountInWorkAreaAfterSelectingViewAllContactTabForWiFi
+INFO: Test Purpose:  Validating the Total Count in work area after selecting view all contact tab for WiFi
+Sep 27, 2016 2:37:53 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountForViewAllContacts
+INFO: Successfully clicked on Subscriber 'View All Contacts' tab in Work Area
+Sep 27, 2016 2:37:57 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountForViewAllContacts
+INFO: 'Total Contact after selecting Manage Contact tab for Subscriber' validation successful. Displayed Text :0

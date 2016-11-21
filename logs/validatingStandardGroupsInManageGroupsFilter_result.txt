@@ -1,0 +1,6 @@
+Sep 23, 2016 5:39:24 PM com.kodiak.qa.testsuites.StandardGroupTestCases validatingStandardGroupsInManageGroupsFilter
+INFO: Test Purpose: Validation of 'Standard Groups' in 'Manage Groups Filter'
+Sep 23, 2016 5:39:39 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStandardGroupsInManageGroupsFilter
+INFO: Successfully clicked on 'Manage Groups' tab
+Sep 23, 2016 5:39:46 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStandardGroupsInManageGroupsFilter
+INFO: Successfully clicked on 'Standard Groups' in 'Manage Groups Filter'

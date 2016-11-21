@@ -1,0 +1,2 @@
+Sep 23, 2016 5:27:10 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingExistingDispatchGroupMemberCountAfterDeletingSubListInManageSubList
+INFO: Test Purpose: Validation of Existing Dispatch Group Member Count After Deleting Sub List In Manage SubList

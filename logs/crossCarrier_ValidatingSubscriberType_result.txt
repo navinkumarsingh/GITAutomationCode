@@ -1,0 +1,20 @@
+Sep 27, 2016 3:39:51 AM com.kodiak.qa.testsuites.CrossCarrierPTTProfileValidation crossCarrier_ValidatingSubscriberType
+INFO: Test Purpose: Validating the CrossCarrier Subscriber Type
+Sep 27, 2016 3:40:17 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberType
+INFO: Successfully selected the 'Cross Carrier' from the Master-List DropDown.
+Sep 27, 2016 3:40:37 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberType
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702491
+Sep 27, 2016 3:40:46 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberType
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 3:40:50 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberType
+INFO: Successfully got the subscriber type :1
+Sep 27, 2016 3:40:56 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberType
+INFO: Successfully selected the another Subscriber Type from the 'Subscriber Type Drop Down'
+Sep 27, 2016 3:41:00 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberType
+INFO: Successfully updated the subscriber type :2
+Sep 27, 2016 3:41:06 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberType
+INFO: Successfully selected the another Subscriber Type from the 'Subscriber Type Drop Down'
+Sep 27, 2016 3:41:07 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberType
+INFO: Successfully located the 'Subscriber Save Button'
+Sep 27, 2016 3:41:16 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberType
+INFO: Successfully Clicked on Subscriber 'Save success OK' button

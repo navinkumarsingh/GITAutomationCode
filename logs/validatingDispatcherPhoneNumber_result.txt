@@ -1,0 +1,10 @@
+Sep 27, 2016 1:04:52 AM com.kodiak.qa.testsuites.DispatcherProfileValidation validatingDispatcherPhoneNumber
+INFO: Test Purpose:  Validating the Dispatcher Phone Number
+Sep 27, 2016 1:05:16 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberPhoneNumber
+INFO: Succefully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 27, 2016 1:05:25 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberPhoneNumber
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702141 
+Sep 27, 2016 1:05:36 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberPhoneNumber
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 1:05:40 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberPhoneNumber
+INFO: 'DISPATCHER PHONE NUMBER' validation successful. Displayed Text :+9-198-870-2141

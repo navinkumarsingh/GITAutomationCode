@@ -1,0 +1,14 @@
+Apr 25, 2016 10:01:37 PM com.kodiak.qa.testsuites.WindowClientProfileValidation windowClient_validatingWindowClientWithoutEmail
+INFO: Test Purpose: Verify WindowClient Without Email
+Apr 25, 2016 10:01:37 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutEmail
+INFO: Validating Subscriber without passing Email
+Apr 25, 2016 10:01:42 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutEmail
+INFO: Successfully Cleared the existing Subscriber Email
+Apr 25, 2016 10:01:52 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutEmail
+INFO: Successfully selected the another Subscriber Type from the 'Subscriber Type Drop Down'
+Apr 25, 2016 10:02:00 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutEmail
+INFO: Successfully selected the another Subscriber Type from the 'Subscriber Type Drop Down' :
+Apr 25, 2016 10:02:09 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutEmail
+INFO: Successfully located and clicked on 'Subscriber Save Button'
+Apr 25, 2016 10:02:15 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutEmail
+INFO: Successfully validated Subscriber without Email

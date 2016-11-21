@@ -1,0 +1,12 @@
+Sep 23, 2016 5:31:00 PM com.kodiak.qa.testsuites.BroadcastGroup verifyInterOpRadioIsNotShowninPickBroadcastersWindow
+INFO: To verify Inter-Op Radio is not shown in 'Pick Broadcasters' window
+Sep 23, 2016 5:31:03 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadioIsNotShowninPickBroadcastersWindow
+INFO: Succefully selected 'Manage Groups' in Navigation area
+Sep 23, 2016 5:31:07 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadioIsNotShowninPickBroadcastersWindow
+INFO: Succefully selected 'Add New Group' in navigation area
+Sep 23, 2016 5:31:12 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadioIsNotShowninPickBroadcastersWindow
+INFO: Succefully selected Broadcast Group in the Filter
+Sep 23, 2016 5:31:16 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadioIsNotShowninPickBroadcastersWindow
+INFO: Successfully clicked on 'Select Group Type OK' button
+Sep 23, 2016 5:31:16 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadioIsNotShowninPickBroadcastersWindow
+INFO: Validation Successful; 'Inter-Op Radio' is not shown in Pick Broadcasters window

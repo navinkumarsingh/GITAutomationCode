@@ -1,0 +1,4 @@
+May 08, 2016 12:42:25 AM com.kodiak.qa.testsuites.ThirdPartyFunctionalityValidation thirdParty_ValidatingDisabledAllFilterIfNoConatcts
+INFO: Test Purpose:  Validating the All Filter is in Disabled State when their is no Contacts Present for the Third Party
+May 08, 2016 12:42:33 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDisabledAllFilterForSubscriberIfNoContacts
+INFO: Successfully validated, 'All Filter' is located and it is in 'Disabled State'

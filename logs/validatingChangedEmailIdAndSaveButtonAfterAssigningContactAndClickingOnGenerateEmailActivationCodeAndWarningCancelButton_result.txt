@@ -1,0 +1,42 @@
+Sep 26, 2016 8:55:25 PM com.kodiak.qa.testsuites.GenerateActivationCode validatingChangedEmailIdAndSaveButtonAfterAssigningContactAndClickingOnGenerateEmailActivationCodeAndWarningCancelButton
+INFO: Test Purpose: validating Changed Email Id And Save Button After Assigning Contact And Clicking On Generate Email Activation Code And Warning Cancel Button
+Sep 26, 2016 8:55:25 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterAssigningContactAndClickingOnGenerateEmailActivationCodeAndWarningCancelButton
+INFO: Verify Changed Email Id And Save Button After Assigning Contact And Clicking On Generate Email Activation Code And Warning Cancel Button
+Sep 26, 2016 8:55:41 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterAssigningContactAndClickingOnGenerateEmailActivationCodeAndWarningCancelButton
+INFO: Succefully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 26, 2016 8:55:55 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterAssigningContactAndClickingOnGenerateEmailActivationCodeAndWarningCancelButton
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702141 
+Sep 26, 2016 8:56:05 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterAssigningContactAndClickingOnGenerateEmailActivationCodeAndWarningCancelButton
+INFO: Successfully selected the Dispatcher in the MasterList Menu
+Sep 26, 2016 8:56:19 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterAssigningContactAndClickingOnGenerateEmailActivationCodeAndWarningCancelButton
+INFO: Successfully cleared existing Subscriber Email  and assigned a New Email:itg@kodiaknetworks.com
+Sep 26, 2016 8:56:27 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterAssigningContactAndClickingOnGenerateEmailActivationCodeAndWarningCancelButton
+INFO: Successfully clicked on 'Assign Contacts' button
+Sep 26, 2016 8:56:28 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterAssigningContactAndClickingOnGenerateEmailActivationCodeAndWarningCancelButton
+INFO: Successfully sent the MDN in the 'Pick Contacts Searched Field' :91988702592
+Sep 26, 2016 8:56:32 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterAssigningContactAndClickingOnGenerateEmailActivationCodeAndWarningCancelButton
+INFO: Successfully clicked on 'Select All' checkbox which will select the Searched MDN :91988702592
+Sep 26, 2016 8:56:38 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterAssigningContactAndClickingOnGenerateEmailActivationCodeAndWarningCancelButton
+INFO: Successfully validated and Clicked on Done button
+Sep 26, 2016 8:56:45 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterAssigningContactAndClickingOnGenerateEmailActivationCodeAndWarningCancelButton
+INFO: Successfully clicked on 'Generate Activation Code' button for Selected Subscriber in Work Area
+Sep 26, 2016 8:56:52 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterAssigningContactAndClickingOnGenerateEmailActivationCodeAndWarningCancelButton
+INFO: Successfully clicked on 'Generate Activation Code Warning Message Cancel' button
+Sep 26, 2016 8:56:57 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterAssigningContactAndClickingOnGenerateEmailActivationCodeAndWarningCancelButton
+INFO: Successfully validated, 'Save Button' is located and it is in 'Disabled State'
+Sep 26, 2016 8:57:04 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterAssigningContactAndClickingOnGenerateEmailActivationCodeAndWarningCancelButton
+INFO: Successfully located and clicked on 'Subscriber Save Button'
+Sep 26, 2016 8:57:12 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterAssigningContactAndClickingOnGenerateEmailActivationCodeAndWarningCancelButton
+INFO: Successfully validated Subscriber Save Success OK Button
+Sep 26, 2016 8:57:28 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterAssigningContactAndClickingOnGenerateEmailActivationCodeAndWarningCancelButton
+INFO: Succefully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 26, 2016 8:57:43 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterAssigningContactAndClickingOnGenerateEmailActivationCodeAndWarningCancelButton
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702141 
+Sep 26, 2016 8:57:52 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterAssigningContactAndClickingOnGenerateEmailActivationCodeAndWarningCancelButton
+INFO: Successfully selected the Dispatcher in the MasterList Menu
+Sep 26, 2016 8:57:56 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterAssigningContactAndClickingOnGenerateEmailActivationCodeAndWarningCancelButton
+INFO: Successfully clicked on 'Remove All' label
+Sep 26, 2016 8:58:04 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterAssigningContactAndClickingOnGenerateEmailActivationCodeAndWarningCancelButton
+INFO: Successfully located and clicked on 'Subscriber Save Button'
+Sep 26, 2016 8:58:12 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterAssigningContactAndClickingOnGenerateEmailActivationCodeAndWarningCancelButton
+INFO: Successfully validated Subscriber Save Success OK Button

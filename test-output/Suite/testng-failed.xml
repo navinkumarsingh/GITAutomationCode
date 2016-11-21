@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.kodiak.qa.testsuites.LMRSubscriberAndLMRGroupValidation">
+        <methods>
+          <include name="standardGroupWithSgAndNormalMemberAsSupervsior"/>
+          <include name="validatingSgPhoneNumberInAssignDispatcher"/>
+          <include name="validatingStandardGroupWithTwoSg"/>
+          <include name="lMRGroup_validatingGenerateActivationCodeInLMRGroupWorkArea"/>
+          <include name="validatingLMRSubscriberAndGroupHelpText"/>
+          <include name="validatingSubListAdditionWithLMRSubscriberAndGroup"/>
+          <include name="validatingCloseBrowser"/>
+          <include name="validatingGenerateActivationCodeWithSuAndOtherMember"/>
+          <include name="validatingGatIconOnCatHomePage"/>
+          <include name="validatingGroupDeletionForContinuation"/>
+          <include name="Kodiak_CAT_LaunchingUsingFANId"/>
+          <include name="validatingGenerateActivationCodeWithSgAndOtherMember"/>
+          <include name="lMRSubscriber_validatingSuPhoneNumberWorkAreaDetails"/>
+          <include name="lMRGroup_validatingLMRGroupWorkAreaDetails"/>
+          <include name="lMRGroup_VerifyGroupInViewGroupsTab"/>
+          <include name="lMRSubscriber_validatingGenerateActivationCodeInLMRSubscriberWorkArea"/>
+          <include name="lMRGroup_ValidatingEnableTalkGroupScanning"/>
+          <include name="validatingLMRSubscriberInPickIndividualMemberPopup"/>
+          <include name="lMRSubscriber_ValidatingLMRSubscriberChangedNameReflectingInMasterList"/>
+          <include name="lMRGroup_validatingGroupCountWhenSgIsNotAddedToAnyGroup"/>
+          <include name="lMRSubscriber_validatingSuPhoneNumberWorkAreaUnderSubscriberPhoneBookText"/>
+          <include name="lMRGroup_ValidatingLMRGroupChangedNameReflectingInMasterList"/>
+        </methods>
+      </class> <!-- com.kodiak.qa.testsuites.LMRSubscriberAndLMRGroupValidation -->
+      <class name="com.kodiak.qa.testsuites.ExternalContact">
+        <methods>
+          <include name="validatingCloseBrowser"/>
+          <include name="loadDataProperties"/>
+          <include name="launchCAT"/>
+          <include name="validatingExternalContactNameModification"/>
+          <include name="setupLogger"/>
+          <include name="initFramewotk"/>
+        </methods>
+      </class> <!-- com.kodiak.qa.testsuites.ExternalContact -->
+      <class name="com.kodiak.qa.testsuites.GenerateActivationCode">
+        <methods>
+          <include name="validatingChangedEmailIdAndSaveButtonAfterAssigningContactAndClickingOnGenerateEmailActivationCodeAndWarningCancelButton"/>
+          <include name="validatingClientTypeAndSaveButtonAfterGenerateActivationCodeAndEmailSent"/>
+          <include name="validatingverifyGenerateActivationCodeWithMultipleExternalContact"/>
+          <include name="verifyEmailFieldAndSaveButtonAfterGenerateActivationCodeAndEmailSent"/>
+          <include name="validatingCloseBrowser"/>
+          <include name="validatingGenerateActivationCodeWithMultipleLMRGroup"/>
+          <include name="validatingNameFieldAndSaveButtonAfterEmailActivationCodeAndEmailSent"/>
+          <include name="validatingUpdatedCorporateTypeAndSaveButtonAfterEmailActivationCodeAndEmailSent"/>
+          <include name="validatingGenerateActivationCodeWithMultipleLMRSubscriber"/>
+          <include name="validatingNameFieldAndSaveButtonAfterGenerateActivationCodeAndEmailSent"/>
+          <include name="verifyChangedEmailIdAndSaveButtonAfterClickOnEmailActivationCodeAndEmailSentCancelButton"/>
+          <include name="validatingEmailActivationCodeAndSendMailForAllEmailIdAvailable"/>
+          <include name="validatingGenerateActivationCodeWarningMessageForWiFiAndExternalContact"/>
+          <include name="validatingGenerateActivationCodeWarningMessageForLMRSubscriberAndWindow"/>
+          <include name="validatingEmailIdAndSaveButtonAfterClickingOnEmailActivationCodeAndSendMailForSelectedSubscriber"/>
+          <include name="validatingGenerateActivationCodeWarningMessageForLMRGroupAndLMRSubscriber"/>
+          <include name="validatingGenerateActivationCodeWarningMessageForExternalContactAndLMRSubscriber"/>
+          <include name="validatingGenerateActivationCodeWarningMessageForLMRSubscriberAndCrossCarrier"/>
+          <include name="validatingEmailActivationCodeAfterRemovingTheEmailIdFromTheSelectedSubscriberAndAfterClickingOnGenerateActivationCode"/>
+          <include name="validatingGenerateActivationCodeForSubscriber"/>
+          <include name="validatingEmailIdAndSaveButtonAfterChangingEmailandClickOnCancelButtonForGenerateActivationCodeWarningPopup"/>
+          <include name="validatingErrorMessageAfterRemovingTheEmailIdFromTheSelectedSubscriber"/>
+          <include name="validatingGenerateActivationCodeWarningMessageForExternalContactAndLMRGroup"/>
+          <include name="Kodiak_CAT_LaunchingUsingFANId"/>
+          <include name="dispatcher_SelectedSubscriberConatctInWorkArea"/>
+        </methods>
+      </class> <!-- com.kodiak.qa.testsuites.GenerateActivationCode -->
+      <class name="com.kodiak.qa.testsuites.InterOpNeedAttnCATExit">
+        <methods>
+          <include name="interOp_verifyInterOpGroupIsShownWhenInterOpGroupsFilterisSelected"/>
+          <include name="ValidatingExitConfirmMessageAndOkButton"/>
+          <include name="interOp_verifyGroupIconForInterOpAndDispatcherGroup"/>
+          <include name="launchWithSamlFile"/>
+          <include name="ValidatingExitConfirmMessageAndCancelButton"/>
+          <include name="needAttention_verifyNeedAttentionFilterInManageGroupsTab"/>
+          <include name="interOp_GroupDeletionforContinuation"/>
+          <include name="interOp_verifyInterOpGroupIsNotShownWhenInterOpClientisRemoved"/>
+          <include name="needAttention_verifyNeedAttentionFilterInMasterListTab"/>
+        </methods>
+      </class> <!-- com.kodiak.qa.testsuites.InterOpNeedAttnCATExit -->
+      <class name="com.kodiak.qa.testsuites.InterOpRadios">
+        <methods>
+          <include name="verifyInterOpRadiosRecordInMasterList"/>
+          <include name="validatingInterOpRadiosImageIcon"/>
+          <include name="verifyInterOpRadiosViewGroupTabInvalidGroupMessage"/>
+          <include name="validatingCloseBrowser"/>
+          <include name="validatingInterOpRadiosGroupExistenceAndCount"/>
+          <include name="launchCAT"/>
+          <include name="verifyInterOpRadiosAssignContactDisbled"/>
+          <include name="validatingInterOpRadiosHelpText"/>
+          <include name="validatingInterOpRadiosManageContactsTabAdvancedSearchEnabled"/>
+          <include name="Kodiak_CAT_2_LaunchingUsingFANId"/>
+          <include name="validatingGroupDeletionForContinuation"/>
+          <include name="validatingInterOpRadiosClientType"/>
+          <include name="verifyInterOpRadiosAddSubListButtonDisabledState"/>
+          <include name="initFramewotk"/>
+          <include name="validatingInterOpRadiosManageContactsTabSearchByNameAndPhoneNumberEnabled"/>
+        </methods>
+      </class> <!-- com.kodiak.qa.testsuites.InterOpRadios -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

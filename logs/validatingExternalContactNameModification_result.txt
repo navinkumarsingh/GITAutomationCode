@@ -1,0 +1,12 @@
+Sep 26, 2016 8:29:31 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactNameModification
+INFO: Validating External Contact Name Modification
+Sep 26, 2016 8:29:53 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactNameModification
+INFO: Successfully located MasterList Search Box and Searched the external contact :918772789800
+Sep 26, 2016 8:30:03 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactNameModification
+INFO: Successfully selected the External Contact in the MasterList Menu
+Sep 26, 2016 8:30:07 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactNameModification
+INFO: Successfully  modified the external contact name:AUTOMATION EXTERNAL CONTACT
+Sep 26, 2016 8:30:12 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactNameModification
+INFO: Successfully located and clicked on 'External Contact Save' Button
+Sep 26, 2016 8:30:22 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactNameModification
+INFO: Successfully clicked on External Contact Modify Success 'OK' button

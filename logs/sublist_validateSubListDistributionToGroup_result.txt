@@ -1,0 +1,8 @@
+Sep 23, 2016 5:59:57 PM com.kodiak.qa.testsuites.SubListRelatedTestCases sublist_validateSubListDistributionToGroup
+INFO: To validate Sub-List Distribution to a Group
+Sep 23, 2016 6:00:16 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Manage Groups' tab
+Sep 23, 2016 6:00:25 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Add New Group' tab
+Sep 23, 2016 6:00:29 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully got the Dialog Text:Confirm

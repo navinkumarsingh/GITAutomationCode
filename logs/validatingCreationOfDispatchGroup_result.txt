@@ -1,0 +1,6 @@
+Sep 23, 2016 5:19:48 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingCreationOfDispatchGroup
+INFO: Test Purpose: Validation of Creation of Dispatch Group
+Sep 23, 2016 5:19:55 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreationOfDispatchGroup
+INFO: Successfully entered the Group Name in Groups input field in Group Navigation Area
+Sep 23, 2016 5:20:00 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreationOfDispatchGroup
+INFO: 1 item found. got in the search result for validating Group in the Group Navigation

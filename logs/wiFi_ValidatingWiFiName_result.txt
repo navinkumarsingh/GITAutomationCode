@@ -1,0 +1,12 @@
+Sep 27, 2016 2:25:31 AM com.kodiak.qa.testsuites.WiFiClientProfileValidation wiFi_ValidatingWiFiName
+INFO: Test Purpose: Verify Selected WiFi Name in Work Area
+Sep 27, 2016 2:25:57 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberName
+INFO: Successfully selected the 'Wi Fi' from the Masterlist DropDown.
+Sep 27, 2016 2:26:04 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberName
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702591
+Sep 27, 2016 2:26:14 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberName
+INFO: Successfully selected the Dispatcher in the MasterList Menu
+Sep 27, 2016 2:26:14 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberName
+INFO: Validating the 'Existing Name' present for the selected subscriber
+Sep 27, 2016 2:26:18 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberName
+INFO: Dispatcher Name is Validated Successfully :AUTOMATION WI FI

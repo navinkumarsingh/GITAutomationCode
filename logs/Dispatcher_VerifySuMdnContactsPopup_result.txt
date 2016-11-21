@@ -1,0 +1,6 @@
+Sep 27, 2016 1:58:32 AM com.kodiak.qa.testsuites.DispatcherAssignContactsFilterData Dispatcher_VerifySuMdnContactsPopup
+INFO: Test Purpose : Verify the Sumdn Clients in Assign Contacts Pop up for Dispatcher Subscriber
+Sep 27, 2016 1:58:47 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySuMdnsClientOnAssignContacsPopup
+INFO: select the drop down to SuMdn Contacts in Assign contacts popup
+Sep 27, 2016 1:58:52 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySuMdnsClientOnAssignContacsPopup
+INFO: Got the search result count : 200 items found.

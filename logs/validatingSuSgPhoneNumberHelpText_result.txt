@@ -1,0 +1,4 @@
+Nov 11, 2015 7:11:17 AM com.kodiak.qa.testsuites.SuAndSgPhoneNumberValidation validatingSuSgPhoneNumberHelpText
+INFO: Test Purpose: Validate SU and SG Phone Number Help Text
+Nov 11, 2015 7:11:25 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySuSgPhoneNumberHelpText
+INFO: Verify SU and SG phone number Help Text

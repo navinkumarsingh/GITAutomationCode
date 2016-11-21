@@ -1,0 +1,6 @@
+Sep 23, 2016 5:20:00 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingMouseOverOnGroupIconForTitle
+INFO: Test Purpose: Validation Mouse Over On Group Icon Title For Dispatch Group
+Sep 23, 2016 5:20:06 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyMouseOverOnDispatchGroupIconForTitle
+INFO: Successfully entered the Group Name in Groups input field in Group Navigation Area
+Sep 23, 2016 5:20:11 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyMouseOverOnDispatchGroupIconForTitle
+INFO: 'Successfully find Mouse Over Text on the Group Icon:Dispatch Group

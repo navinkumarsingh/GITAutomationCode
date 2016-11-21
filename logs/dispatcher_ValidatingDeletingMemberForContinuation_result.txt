@@ -1,0 +1,2 @@
+Sep 27, 2016 2:09:35 AM com.kodiak.qa.testsuites.DispatcherBasicSearchTestCase dispatcher_ValidatingDeletingMemberForContinuation
+INFO: Test Purpose : Deleting All the Members from the selected Dispatcher for Continuation

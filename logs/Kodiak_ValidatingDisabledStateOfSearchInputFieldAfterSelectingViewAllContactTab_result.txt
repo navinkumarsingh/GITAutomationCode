@@ -1,0 +1,4 @@
+Sep 27, 2016 1:46:16 AM com.kodiak.qa.testsuites.DispatcherFunctionalityValidation Kodiak_ValidatingDisabledStateOfSearchInputFieldAfterSelectingViewAllContactTab
+INFO: Test Purpose:  Validating the 'Search Disabled State' when their is no Contacts Present for the Dispatcher after selecting 'View All Contacts' tab
+Sep 27, 2016 1:46:24 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSearchDisabledForViewAllConatcts
+INFO: Successfully validated, 'Search by name and phone number' input field for 'View All Contacts', is located and it is in 'Disabled State'

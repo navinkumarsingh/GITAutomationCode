@@ -1,0 +1,14 @@
+Sep 27, 2016 12:03:16 AM com.kodiak.qa.testsuites.ThirdPartyProfileValidation thirdParty_ValidatingThirdPartyWithoutName
+INFO: Test Purpose: Verify ThirdParty Without Name
+Sep 27, 2016 12:03:16 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutName
+INFO: Validating Dispatcher without passing name
+Sep 27, 2016 12:03:20 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutName
+INFO: Successfully Cleared the existing Dispatcher Name
+Sep 27, 2016 12:03:28 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutName
+INFO: Successfully selected the another Subscriber Type from the 'Subscriber Type Drop Down'
+Sep 27, 2016 12:03:36 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutName
+INFO: Successfully selected the another Subscriber Type from the 'Subscriber Type Drop Down'
+Sep 27, 2016 12:03:43 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutName
+INFO: Successfully located and clicked on 'Subscriber Save Button'
+Sep 27, 2016 12:03:52 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutName
+INFO: Successfully validated Subscriber without Name

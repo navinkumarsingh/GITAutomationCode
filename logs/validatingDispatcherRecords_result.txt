@@ -1,0 +1,10 @@
+Sep 27, 2016 1:06:16 AM com.kodiak.qa.testsuites.DispatcherProfileValidation validatingDispatcherRecords
+INFO: Test Purpose:  Validating the Dispatcher Total Records
+Sep 27, 2016 1:06:37 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberRecords
+INFO: Successfully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 27, 2016 1:06:47 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberRecords
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702141 
+Sep 27, 2016 1:07:01 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberRecords
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 1:07:06 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberRecords
+INFO: 'Total Subscriber Record' validation successful. Displayed Text :1 item found.

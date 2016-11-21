@@ -1,0 +1,18 @@
+Sep 27, 2016 4:09:09 PM com.kodiak.qa.testsuites.DispatcherManageContactsViaSubListFunctionality dispatcher_verifySubListInPopupWIndow
+INFO: Test Purpose: Verifying Sub Lists in Popup Window
+Sep 27, 2016 4:09:15 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListInPopupWIndow
+INFO: Validating the Dispatcher count for Dispatch Groups in View Group Filter 
+Sep 27, 2016 4:09:30 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListInPopupWIndow
+INFO: Succefully selected Manage Master List in Navigation Area
+Sep 27, 2016 4:09:36 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListInPopupWIndow
+INFO: Succefully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 27, 2016 4:09:42 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListInPopupWIndow
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702141 
+Sep 27, 2016 4:09:51 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListInPopupWIndow
+INFO: Successfully selected the Dispatcher in the MasterList Menu
+Sep 27, 2016 4:09:55 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListInPopupWIndow
+INFO: Successfully clicked on Disapcther 'Manage Contacts Via SubList' tab in Work Area
+Sep 27, 2016 4:10:02 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListInPopupWIndow
+INFO: Successfully clicked on 'Add Sub List' tab in Work Area
+Sep 27, 2016 4:10:08 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListInPopupWIndow
+INFO: Succefully Verified the Present Sub Lists count in 'Pick Sub Lists' popup :2

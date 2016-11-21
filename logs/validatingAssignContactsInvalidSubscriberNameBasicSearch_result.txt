@@ -1,0 +1,2 @@
+Sep 28, 2016 6:40:40 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyAssignContactsInvalidSubscriberNameBasicSearch
+INFO: Validating Invalid Mdn Name for 'Assign Conatcts' Basic search

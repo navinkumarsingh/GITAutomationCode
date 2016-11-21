@@ -1,0 +1,4 @@
+Sep 23, 2016 5:23:00 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingDispatchGroupWithTwoMemberWithoutDispatcher
+INFO: Test Purpose: Validation of Error Message for Dispatch Group With Two Member Without Dispatcher
+Sep 23, 2016 5:23:09 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatchGroupWithTwoMemberWithoutDispatcher
+INFO: Successfully clicked on 'Add New Group' tab

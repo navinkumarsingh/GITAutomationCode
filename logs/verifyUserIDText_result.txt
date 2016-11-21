@@ -1,0 +1,4 @@
+Mar 04, 2016 4:04:22 PM com.kodiak.qa.testsuites.LMT_HEADER verifyUserIDText
+INFO: Test Purpose: Verify the User ID shown on Header Part
+Mar 04, 2016 4:04:25 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUserID
+INFO: Successfully Validated the User ID

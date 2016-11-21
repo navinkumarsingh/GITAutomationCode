@@ -1,0 +1,8 @@
+May 08, 2016 12:43:17 AM com.kodiak.qa.testsuites.ThirdPartyFunctionalityValidation thirdParty_ValidatingTotalCountInWorkAreaAfterSelectingManageContactsViaSubListTabForSubscriberWithNoContacts
+INFO: Test Purpose:  Validating the Total Count in work area after selecting Manage Contacts Via Sub List tab for Third Party after selecting 'Manage Contacts Via Sub-List'
+May 08, 2016 12:43:34 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountForManageContactsViaSubListIfNoContacts
+INFO: Successfully selected the Subscriber in the MasterList Menu
+May 08, 2016 12:43:38 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountForManageContactsViaSubListIfNoContacts
+INFO: Successfully clicked on Subscriber 'Manage Contacts Via SubList' tab in Work Area
+May 08, 2016 12:43:42 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountForManageContactsViaSubListIfNoContacts
+INFO: 'Total Contact after selecting 'Manage Contacts Via SubList' tab for Subscriber' validation successful. Displayed Text :0

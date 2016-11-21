@@ -1,0 +1,14 @@
+Sep 27, 2016 1:08:58 AM com.kodiak.qa.testsuites.DispatcherProfileValidation validatingTotalGroupCountInWorkAreaAfterSelectingViewGroupTabForDispatcher
+INFO: Test Purpose:  Validating the Total Group Count in work area after selecting view Group tab for Dispatcher
+Sep 27, 2016 1:09:21 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalGroupCount
+INFO: Succefully clicked on Clear label in the Masterlist DropDown.
+Sep 27, 2016 1:09:35 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalGroupCount
+INFO: Succefully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 27, 2016 1:09:44 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalGroupCount
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702141 
+Sep 27, 2016 1:09:55 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalGroupCount
+INFO: Successfully selected the Dispatcher in the MasterList Menu
+Sep 27, 2016 1:09:59 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalGroupCount
+INFO: Successfully clicked on 'Disapcther View Group' tab in Work Area
+Sep 27, 2016 1:10:03 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalGroupCount
+INFO: 'Total Group count after selecting Manage Contact tab for Subscriber' validation successful. Displayed Text :0

@@ -1,0 +1,10 @@
+Sep 27, 2016 2:57:34 AM com.kodiak.qa.testsuites.WiFiClientAssignContactsFilterData wiFi_VerifySelectedcontactAvailableInManageIndividualContacts
+INFO: Test Purpose : Verify the Added contacts is avaiable or not in Manage Individual Contact
+Sep 27, 2016 2:57:50 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wfClear_searchPhoneNumber
+INFO: Successfully clicked on Clear label in the Masterlist DropDown.
+Sep 27, 2016 2:58:13 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wfClear_searchPhoneNumber
+INFO: Successfully selected the 'Wi Fi' from the Master-List DropDown.
+Sep 27, 2016 2:58:13 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wfClear_searchPhoneNumber
+INFO: enter the a subscriber phone number in the search field : 91988702591
+Sep 27, 2016 2:58:23 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wfClear_searchPhoneNumber
+INFO: 1 item found. got in the search result

@@ -1,0 +1,4 @@
+Nov 08, 2016 7:09:36 PM com.kodiak.qa.testsuites.LMRSubscriberAndLMRGroupValidation lMRSubscriber_ValidatingLMRSubscriberChangedNameReflectingInMasterList
+INFO: Test Purpose: Verifying LMR Subscriber Changed name reflecting in Master-List
+Nov 08, 2016 7:09:44 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods lMRSubscriberChangedNameReflectingInMasterList
+INFO: Validating 'Generate Activation Code' for Selected Subscriber

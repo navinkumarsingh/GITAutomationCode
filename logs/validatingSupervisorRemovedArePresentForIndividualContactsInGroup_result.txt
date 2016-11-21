@@ -1,0 +1,8 @@
+Sep 23, 2016 5:47:48 PM com.kodiak.qa.testsuites.StandardGroupTestCases validatingSupervisorRemovedArePresentForIndividualContactsInGroup
+INFO: Test Purpose: Validation of Supervisor Removed Are Present For Individual Contacts In Group
+Sep 23, 2016 5:47:58 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySupervisorRemovedArePresentForIndividualContactsInGroup
+INFO: Successfully selected the Individual Group in Manage Group Menu
+Sep 23, 2016 5:48:01 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySupervisorRemovedArePresentForIndividualContactsInGroup
+INFO: Validated Successfully that Group Contact Count is:5
+Sep 23, 2016 5:48:06 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySupervisorRemovedArePresentForIndividualContactsInGroup
+INFO: Successfully clicked on 'MANAGE SUPERVISOR' tab

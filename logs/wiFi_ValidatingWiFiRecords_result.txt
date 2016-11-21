@@ -1,0 +1,10 @@
+Sep 27, 2016 2:35:54 AM com.kodiak.qa.testsuites.WiFiClientProfileValidation wiFi_ValidatingWiFiRecords
+INFO: Test Purpose:  Validating the WiFi Total Records
+Sep 27, 2016 2:36:15 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberRecords
+INFO: Successfully selected the 'Wi Fi' from the Master-List DropDown.
+Sep 27, 2016 2:36:24 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberRecords
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702591
+Sep 27, 2016 2:36:33 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberRecords
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 2:36:37 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberRecords
+INFO: 'Total Subscriber Record' validation successful. Displayed Text :1 item found.

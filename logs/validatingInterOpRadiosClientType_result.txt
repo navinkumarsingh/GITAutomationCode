@@ -1,0 +1,6 @@
+May 29, 2016 1:12:50 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosClientType
+INFO: Validating Inter Op Radios Client Type
+May 29, 2016 1:12:59 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosClientType
+INFO: Successfully selected the Inter-Op in the MasterList Menu
+May 29, 2016 1:13:03 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosClientType
+INFO: 'Client Type' validation successful. Displayed Text :Inter-Op Radios

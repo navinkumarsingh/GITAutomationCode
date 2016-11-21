@@ -1,0 +1,4 @@
+May 08, 2016 7:03:16 AM com.kodiak.qa.testsuites.ThirdPartyBasicSearchTestCase thirdParty_SearchSubscriberName
+INFO: Test Purpose : Search a subcriber name in MasterList Search
+May 08, 2016 7:03:16 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchName
+INFO: Verifying  the Name in the MasterList Navigation Area

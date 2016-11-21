@@ -1,0 +1,2 @@
+Nov 11, 2015 5:14:57 AM com.kodiak.qa.testsuites.ThirdPartyAssignContactsFilterData thirdParty_VerifySgMdnInAssignContactsPopup
+INFO: Test Purpose : Verify the SG-MDN filter available or not in Assign Contacts Pop up for ThirdParty Subscriber

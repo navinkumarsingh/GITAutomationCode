@@ -1,0 +1,10 @@
+Apr 25, 2016 12:40:03 AM com.kodiak.qa.testsuites.WindowClientAssignContactsFilterData windowClient_VerifySelectedcontactAvailableInManageIndividualContacts
+INFO: Test Purpose : Verify the Added contacts is avaiable or not in Manage Individual Contact for Window Client
+Apr 25, 2016 12:40:19 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wc_searchPhoneNumber
+INFO: Succefully clicked on Clear label in the Masterlist DropDown.
+Apr 25, 2016 12:40:42 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wc_searchPhoneNumber
+INFO: Successfully selected the 'Window Desktop' from the Master-List DropDown.
+Apr 25, 2016 12:40:43 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wc_searchPhoneNumber
+INFO: enter the a subscriber phone number in the search field : 919931721816
+Apr 25, 2016 12:40:53 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wc_searchPhoneNumber
+INFO: 1 item found. got in the search result

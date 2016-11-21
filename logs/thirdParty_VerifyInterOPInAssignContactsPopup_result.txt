@@ -1,0 +1,2 @@
+Nov 11, 2015 5:14:35 AM com.kodiak.qa.testsuites.ThirdPartyAssignContactsFilterData thirdParty_VerifyInterOPInAssignContactsPopup
+INFO: Test Purpose : Verify the Inter-op Radios filter available or not in Assign Contacts Pop up for ThirdParty Subscriber

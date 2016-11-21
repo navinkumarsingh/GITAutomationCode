@@ -1,0 +1,22 @@
+Apr 25, 2016 12:12:54 AM com.kodiak.qa.testsuites.WindowClientFunctionalityValidationManageIndividualList windowClient_VerifyingRemovedMdnInAssignContactsPopup
+INFO: Test Purpose: Verifying State of removed MDN in the 'Assign Contacts' popup
+Apr 25, 2016 12:13:15 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully selected the 'Window Desktop' from the Master-List DropDown.
+Apr 25, 2016 12:13:22 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully located MasterList Search Box and Searched the mdn :919931721816
+Apr 25, 2016 12:13:33 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Apr 25, 2016 12:13:33 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully clicked on 'Assign Contacts' button
+Apr 25, 2016 12:13:39 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully sent the MDN in the 'Pick Contacts Searched Field' :919901721806
+Apr 25, 2016 12:13:44 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully clicked on 'Select All' checkbox which will select the Searched MDN :919901721806
+Apr 25, 2016 12:13:48 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully validated and Clicked on Done button to add the for continuation for Automation :919901721806
+Apr 25, 2016 12:13:53 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully clicked on 'Remove All' label
+Apr 25, 2016 12:13:57 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully Clicked on Subscriber 'Save' button
+Apr 25, 2016 12:14:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyRemovedMdnInAssignContactsPopup
+INFO: Successfully Clicked on Subscriber Save Success OK button

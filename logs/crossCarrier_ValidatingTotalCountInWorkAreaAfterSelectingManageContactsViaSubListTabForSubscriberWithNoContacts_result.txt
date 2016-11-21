@@ -1,0 +1,8 @@
+Sep 27, 2016 4:21:14 AM com.kodiak.qa.testsuites.CrossCarrierPTTFunctionalityValidation crossCarrier_ValidatingTotalCountInWorkAreaAfterSelectingManageContactsViaSubListTabForSubscriberWithNoContacts
+INFO: Test Purpose:  Validating the Total Count in work area after selecting Manage Contacts Via Sub List tab for Cross Carrier after selecting 'Manage Contacts Via Sub-List'
+Sep 27, 2016 4:21:30 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountForManageContactsViaSubListIfNoContacts
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 4:21:34 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountForManageContactsViaSubListIfNoContacts
+INFO: Successfully clicked on Subscriber 'Manage Contacts Via SubList' tab in Work Area
+Sep 27, 2016 4:21:39 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountForManageContactsViaSubListIfNoContacts
+INFO: 'Total Contact after selecting 'Manage Contacts Via SubList' tab for Subscriber' validation successful. Displayed Text :0

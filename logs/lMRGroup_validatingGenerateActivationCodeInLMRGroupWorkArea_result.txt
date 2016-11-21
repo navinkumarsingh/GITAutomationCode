@@ -1,0 +1,2 @@
+Nov 08, 2016 7:10:05 PM com.kodiak.qa.testsuites.LMRSubscriberAndLMRGroupValidation lMRGroup_validatingGenerateActivationCodeInLMRGroupWorkArea
+INFO: Test Purpose: Validate LMR Group Work Area Text

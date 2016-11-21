@@ -1,0 +1,2 @@
+Sep 23, 2016 5:50:10 PM com.kodiak.qa.testsuites.StandardGroupTestCases validatingExistingGroupMemberCountAfterDeletionOfOneSubListWhichContainsTwoSubList
+INFO: Test Purpose: Validation of Existing Group Which Contains Only Sub List Members After Deleting Sub List With Wi-Fi Window Desktop And Third Party

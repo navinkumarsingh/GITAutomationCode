@@ -1,0 +1,12 @@
+Sep 27, 2016 4:29:03 AM com.kodiak.qa.testsuites.CrossCarrierPTTFunctionalityValidation crossCarrier_ValidatingUndoIconChangeToRemoveIconAfterClick
+INFO: Test Purpose: Validating Undo Icon after Click
+Sep 27, 2016 4:29:03 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoIconChangeToDeleteIcon
+INFO: Validating the 'UNDO ICON' change to 'DELETE ICON' 
+Sep 27, 2016 4:29:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoIconChangeToDeleteIcon
+INFO: 'Undo Button Tool Tip' validation successful. Displayed Text :Undo Delete
+Sep 27, 2016 4:29:16 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoIconChangeToDeleteIcon
+INFO: 'Successfully  clicked on 'UNDO' button
+Sep 27, 2016 4:29:24 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoIconChangeToDeleteIcon
+INFO: 'Delete Button Tool Tip' validation successful. Displayed Text :Delete
+Sep 27, 2016 4:29:28 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoIconChangeToDeleteIcon
+INFO: 'Successfully  clicked on 'DELETE' button

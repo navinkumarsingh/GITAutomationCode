@@ -1,0 +1,2 @@
+Sep 28, 2016 6:40:57 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyViewAllContactsInvalidSubscriberNameBasicSearch
+INFO: Validating Invalid Mdn Name for 'View All Conatcts' Basic search

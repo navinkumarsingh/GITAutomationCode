@@ -1,0 +1,4 @@
+Mar 04, 2016 4:04:41 PM com.kodiak.qa.testsuites.LMT_HEADER verifyExitTitle
+INFO: Test Purpose: Verify the Exit Title
+Mar 04, 2016 4:04:44 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExitTitle
+INFO: Successfully Validated the Exit Title:Print

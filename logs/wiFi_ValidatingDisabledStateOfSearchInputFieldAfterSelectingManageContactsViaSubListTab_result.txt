@@ -1,0 +1,4 @@
+Sep 27, 2016 3:04:51 AM com.kodiak.qa.testsuites.WiFiClientFunctionalityValidation wiFi_ValidatingDisabledStateOfSearchInputFieldAfterSelectingManageContactsViaSubListTab
+INFO: Test Purpose:  Validating the 'Search Disabled State' when their is no Contacts Present for the Wi Fi Client after selecting 'Manage Contacts Via Sub-List'
+Sep 27, 2016 3:05:00 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSearchDisabledForManageContactsViaSubLists
+INFO: Successfully validated, 'Search by name and phone number' input field for 'Manage Contacts Via SubList', is located and it is in 'Disabled State'

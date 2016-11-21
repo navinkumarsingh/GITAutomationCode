@@ -1,0 +1,2 @@
+Nov 11, 2015 4:43:28 AM com.kodiak.qa.testsuites.CrossCarrierPTTAssignContactsFilterData crossCarrier_VerifyInterOPInAssignContactsPopup
+INFO: Test Purpose : Verify the Inter-op Radios filter available or not in Assign Contacts Pop up for Cross Carrier Client

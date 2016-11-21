@@ -1,0 +1,2 @@
+Nov 21, 2016 3:30:11 PM com.git.qa.test.methods.CommonMethods closeBrowser
+INFO: Closing Browser for Test Suite

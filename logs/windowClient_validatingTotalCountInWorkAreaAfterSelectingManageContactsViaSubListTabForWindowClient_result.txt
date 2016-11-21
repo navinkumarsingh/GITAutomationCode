@@ -1,0 +1,2 @@
+Apr 25, 2016 10:06:33 PM com.kodiak.qa.testsuites.WindowClientProfileValidation windowClient_validatingTotalCountInWorkAreaAfterSelectingManageContactsViaSubListTabForWindowClient
+INFO: Test Purpose:  Validating the Total Count in work area after selecting Manage Contacts Via Sub List tab for WindowClient

@@ -1,0 +1,4 @@
+May 08, 2016 7:06:28 AM com.kodiak.qa.testsuites.ThirdPartyBasicSearchTestCase thirdParty_verifyMouseOverOnGroupForTotalMemberCount
+INFO: Test Purpose: Verifying the mouse Over On Group for total member counts
+May 08, 2016 7:06:28 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyMouseOverOnGroupForTotalMemberCount
+INFO: Validating the Mouse Over Text on the Group For Total Member Count

@@ -1,0 +1,16 @@
+Sep 27, 2016 4:18:59 PM com.kodiak.qa.testsuites.DispatcherManageContactsViaSubListFunctionality dispatcher_verifyingRemoveUndoButtonNotAvailableForSubListstheSubscriberIsMemberOf
+INFO: Test Purpose: Verifying Remove-Undo Button Not Available For Sub Lists the Subscriber Is Member Of
+Sep 27, 2016 4:19:20 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveUndoButtonNotAvailableForSubListstheSubscriberIsMemberOf
+INFO: Succefully clicked on Clear label in the Masterlist DropDown.
+Sep 27, 2016 4:19:35 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveUndoButtonNotAvailableForSubListstheSubscriberIsMemberOf
+INFO: Succefully selected the 'Third Party' from the Masterlist DropDown.
+Sep 27, 2016 4:19:35 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveUndoButtonNotAvailableForSubListstheSubscriberIsMemberOf
+INFO: verify Remove Undo Button Not Available For Sub Lists the Subscriber Is Member Of
+Sep 27, 2016 4:19:42 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveUndoButtonNotAvailableForSubListstheSubscriberIsMemberOf
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702392
+Sep 27, 2016 4:19:47 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveUndoButtonNotAvailableForSubListstheSubscriberIsMemberOf
+INFO: Successfully located and click the 'Dispatcher' subscriber in Master list :91988702392
+Sep 27, 2016 4:19:57 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveUndoButtonNotAvailableForSubListstheSubscriberIsMemberOf
+INFO: Successfully clicked on 'Manage Contacts Via SubList' tab in Work Area
+Sep 27, 2016 4:20:02 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveUndoButtonNotAvailableForSubListstheSubscriberIsMemberOf
+INFO: Successfully validated that Remove Icon is not present

@@ -1,0 +1,18 @@
+Sep 27, 2016 4:15:22 PM com.kodiak.qa.testsuites.DispatcherManageContactsViaSubListFunctionality dispatcher_verifyingStateOfSubListRemovalIconAfterClickOnManageIndividualContacts
+INFO: Test Purpose: verifying State Of Sub List Removal Icon after revert back from 'Manage Incividual Contacts' tab
+Sep 27, 2016 4:15:27 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnManageIndividualContacts
+INFO: 'Successfully clicked on Undo Icon
+Sep 27, 2016 4:15:32 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnManageIndividualContacts
+INFO: 'Before clicking on SubList Remove Icon Tool Tip' validation successful. Displayed Text :Delete
+Sep 27, 2016 4:15:37 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnManageIndividualContacts
+INFO: Successfully clicked on SubList Remove Icon
+Sep 27, 2016 4:15:42 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnManageIndividualContacts
+INFO: 'Before switching from 'Manage Individual Conatct' tab 'SubList Remove Icon Tool Tip' validation successful. Displayed Text :Undo Delete
+Sep 27, 2016 4:15:47 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnManageIndividualContacts
+INFO: Successfully clicked on 'Manage Individual Contacts' tab
+Sep 27, 2016 4:15:52 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnManageIndividualContacts
+INFO: Successfully revert back to the 'Manage Contacts Via SubList' tab in Work Area
+Sep 27, 2016 4:15:59 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnManageIndividualContacts
+INFO: Successfully validated, 'Search by name and phone number' input field for 'Manage Contacts Via SubList', is located and send the SubList name to search :AutomationSubList1
+Sep 27, 2016 4:16:03 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnManageIndividualContacts
+INFO: 'After switching from 'Manage Individual Conatct' tab 'SubList Remove Icon Tool Tip' validation successful. Displayed Text :Undo Delete

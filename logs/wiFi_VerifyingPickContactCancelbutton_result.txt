@@ -1,0 +1,24 @@
+Sep 27, 2016 3:18:13 AM com.kodiak.qa.testsuites.WiFiClientFunctionalityValidationManageIndividualList wiFi_VerifyingPickContactCancelbutton
+INFO: Test Purpose: Verifying Pick Contact Cancel  Button
+Sep 27, 2016 3:18:37 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyPickContactCancelButton
+INFO: Successfully selected the 'Wi Fi' from the Master-List DropDown.
+Sep 27, 2016 3:18:43 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyPickContactCancelButton
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702591
+Sep 27, 2016 3:18:52 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyPickContactCancelButton
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 3:18:56 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyPickContactCancelButton
+INFO: 'Total Subscriber Record' validation successful. Displayed Text :0
+Sep 27, 2016 3:19:02 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyPickContactCancelButton
+INFO: Successfully clicked on 'Assign Contacts' button
+Sep 27, 2016 3:19:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyPickContactCancelButton
+INFO: Successfully clicked on 'Select All' checkbox
+Sep 27, 2016 3:19:08 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyPickContactCancelButton
+INFO: Validated Successfully the 'Max Limit Warning Message :You can add max 50 contacts/members/Sub-Lists at a time. Selected first 50 contacts/members/Sub-Lists for addition
+Sep 27, 2016 3:19:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyPickContactCancelButton
+INFO: Successfully clicked on 'Max Limit Warning Message OK' button
+Sep 27, 2016 3:19:14 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyPickContactCancelButton
+INFO: Successfully clicked on 'Pick Conatcts Popup Cancel' button
+Sep 27, 2016 3:19:14 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyPickContactCancelButton
+INFO: 'Total Subscriber Record' validation successful. Displayed Text :0
+Sep 27, 2016 3:19:14 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifyPickContactCancelButton
+INFO: Successfully Validated the Cancel button. Hence, Before and after Total Count is same :0

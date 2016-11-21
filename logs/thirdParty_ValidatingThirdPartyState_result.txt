@@ -1,0 +1,4 @@
+Sep 27, 2016 12:07:32 AM com.kodiak.qa.testsuites.ThirdPartyProfileValidation thirdParty_ValidatingThirdPartyState
+INFO: Test Purpose:  Validating the ThirdParty State
+Sep 27, 2016 12:07:36 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberState
+INFO: 'Subscriber STATE' validation successful. Displayed Text :Provisioned

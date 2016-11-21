@@ -1,0 +1,4 @@
+Sep 23, 2016 5:25:50 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingCreatingDispatchGroupWithExistingName
+INFO: Test Purpose: Validation of Creating Dispatch Group With Existing Name
+Sep 23, 2016 5:25:59 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreatingDispatchGroupWithExistingName
+INFO: Successfully clicked on 'Add New Group' tab

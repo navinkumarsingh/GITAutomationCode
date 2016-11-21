@@ -1,0 +1,6 @@
+Sep 26, 2016 10:31:51 PM com.kodiak.qa.testsuites.ThirdPartyAssignContactsFilterData thirdParty_VerifyCrossCarrierClientOnAssignContactsPopup
+INFO: Test Purpose : Verify the CrossCarrier Clients in Assign Contacts Pop up for ThirdParty Subscriber
+Sep 26, 2016 10:32:07 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCrossCarrierClientOnAssignContacsPopup
+INFO: select the drop down to CrossCarrier  Contacts in Assign contacts popup
+Sep 26, 2016 10:32:12 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCrossCarrierClientOnAssignContacsPopup
+INFO: Got the search result count : 100 items found.

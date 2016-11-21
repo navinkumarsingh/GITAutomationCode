@@ -1,0 +1,16 @@
+Apr 25, 2016 1:37:01 AM com.kodiak.qa.testsuites.WindowClientBasicSearchTestCase windowClient_VerifyContactsSearchAndAfterClrSearchUsingMdn
+INFO: Test Purpose : verify the total count after searching and after clearing the search using Subscriber phone Number
+Apr 25, 2016 1:37:24 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wc_searchPhoneNumber
+INFO: Successfully selected the 'Window Desktop' from the Master-List DropDown.
+Apr 25, 2016 1:37:24 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wc_searchPhoneNumber
+INFO: enter the a subscriber phone number in the search field : 919931721816
+Apr 25, 2016 1:37:34 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wc_searchPhoneNumber
+INFO: 1 item found. got in the search result
+Apr 25, 2016 1:37:51 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyContactsBefAndAfter
+INFO: enter the a subscriber mdn in the search field : 919901721806
+Apr 25, 2016 1:38:04 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyContactsBefAndAfter
+INFO: total contact count after searching : 1
+Apr 25, 2016 1:38:12 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyContactsBefAndAfter
+INFO: total contact count after clearing the search : 1
+Apr 25, 2016 1:38:12 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyContactsBefAndAfter
+INFO: verified the total contact count after serach and clearing the search

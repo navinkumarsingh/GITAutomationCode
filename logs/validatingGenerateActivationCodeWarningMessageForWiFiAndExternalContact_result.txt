@@ -1,0 +1,32 @@
+Sep 26, 2016 9:04:54 PM com.kodiak.qa.testsuites.GenerateActivationCode validatingGenerateActivationCodeWarningMessageForWiFiAndExternalContact
+INFO: Test Purpose: validating Generate Activation Code Warning Message For Wi-Fi and External Contact
+Sep 26, 2016 9:05:10 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForWiFiAndExternalContact
+INFO: Succefully clicked on Clear label in the Masterlist DropDown.
+Sep 26, 2016 9:05:24 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForWiFiAndExternalContact
+INFO: Succefully selected the 'Wi Fi only Client' from the Masterlist DropDown.
+Sep 26, 2016 9:05:32 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForWiFiAndExternalContact
+INFO: Successfully located MasterList Search Box and Searched the  LMR Subscriber:91988702591
+Sep 26, 2016 9:05:39 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForWiFiAndExternalContact
+INFO: Successfully selected the LMR Subscriber in the MasterList Menu
+Sep 26, 2016 9:05:55 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForWiFiAndExternalContact
+INFO: Succefully clicked on Clear label in the Masterlist DropDown.
+Sep 26, 2016 9:06:02 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForWiFiAndExternalContact
+INFO: Succefully selected the 'External' from the Masterlist DropDown.
+Sep 26, 2016 9:06:02 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForWiFiAndExternalContact
+INFO: Successfully located MasterList Search Box and Searched the External Contact :918772789800
+Sep 26, 2016 9:06:19 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForWiFiAndExternalContact
+INFO: Successfully selected the External Contact in the MasterList Menu
+Sep 26, 2016 9:06:26 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForWiFiAndExternalContact
+INFO: Successfully selected 'Generate Activation Code' for Multiple Subscriber
+Sep 26, 2016 9:06:31 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForWiFiAndExternalContact
+INFO: Successfully got Multiple Generate Activation Code Warning Message:You have selected few subscribers for which activation code is not applicable. Proceeding with activation code generation excluding such subscribers.
+Sep 26, 2016 9:06:38 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForWiFiAndExternalContact
+INFO: Successfully clicked on Multiple Generate Activation Code Warning Message OK button
+Sep 26, 2016 9:06:43 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForWiFiAndExternalContact
+INFO: Successfully got Multiple Generate Activation Code Warning Message:You have selected to generate new activation codes. Existing activation codes if any will be invalidated. Client will have to re-activate with new activation code. You don’t have to save the changes since the new activation codes are automatically saved after generation.
+Sep 26, 2016 9:06:51 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForWiFiAndExternalContact
+INFO: Successfully clicked on Multiple Generate Activation Code Warning Message OK button
+Sep 26, 2016 9:06:58 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForWiFiAndExternalContact
+INFO: Successfully clicked on Multiple Generate Activation Code Success Message OK button
+Sep 26, 2016 9:07:05 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWarningMessageForWiFiAndExternalContact
+INFO: Successfully clicked on Multiple Subscriber Select CANCEL button in work Area

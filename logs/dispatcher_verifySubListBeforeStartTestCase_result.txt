@@ -1,0 +1,6 @@
+May 04, 2016 7:25:08 PM com.kodiak.qa.testsuites.DispatcherBasicSearchTestCase dispatcher_verifySubListBeforeStartTestCase
+INFO: Test Purpose: Verify Sub List in Manage Sub List Menu
+May 04, 2016 7:25:38 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListBeforeStartTestCase
+INFO: Validating the Sub List Deletion from Manage Sub List
+May 04, 2016 7:25:54 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListBeforeStartTestCase
+INFO: Successfully selected 'Manage Sub Lists' in the Navigation Bar

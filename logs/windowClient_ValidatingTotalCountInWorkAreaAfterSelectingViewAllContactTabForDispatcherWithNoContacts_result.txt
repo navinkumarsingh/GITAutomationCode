@@ -1,0 +1,8 @@
+Apr 25, 2016 1:22:02 AM com.kodiak.qa.testsuites.WindowClientFunctionalityValidation windowClient_ValidatingTotalCountInWorkAreaAfterSelectingViewAllContactTabForDispatcherWithNoContacts
+INFO: Test Purpose:  Validating the Total Count in work area after selecting view all contact tab for Window Client after selecting 'View All Contacts' tab
+Apr 25, 2016 1:22:23 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountForViewAllContactsIfNoContacts
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Apr 25, 2016 1:22:28 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountForViewAllContactsIfNoContacts
+INFO: Successfully clicked on Subscriber 'View All Contacts' tab in Work Area
+Apr 25, 2016 1:22:32 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountForViewAllContactsIfNoContacts
+INFO: 'Total Contact after selecting Manage Contact tab for Subscriber' validation successful. Displayed Text :0

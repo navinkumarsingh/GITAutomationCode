@@ -1,0 +1,4 @@
+Sep 27, 2016 3:02:52 AM com.kodiak.qa.testsuites.WiFiClientFunctionalityValidation wiFi_ValidatingDisabledSaveButtonIfNoConatcts
+INFO: Test Purpose:  Validating the Save button is Disabled when their is no Contacts Present for the Wi Fi Client
+Sep 27, 2016 3:03:00 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDisabledSaveButtonIfNoContacts
+INFO: Successfully validated, 'Save Button' is located and it is in 'Disabled State'

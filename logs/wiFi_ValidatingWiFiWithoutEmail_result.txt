@@ -1,0 +1,14 @@
+Sep 27, 2016 2:31:39 AM com.kodiak.qa.testsuites.WiFiClientProfileValidation wiFi_ValidatingWiFiWithoutEmail
+INFO: Test Purpose: Verify WiFi Without Email
+Sep 27, 2016 2:31:39 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutEmail
+INFO: Validating Subscriber without passing Email
+Sep 27, 2016 2:31:44 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutEmail
+INFO: Successfully Cleared the existing Subscriber Email
+Sep 27, 2016 2:31:55 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutEmail
+INFO: Successfully selected the another Subscriber Type from the 'Subscriber Type Drop Down'
+Sep 27, 2016 2:32:02 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutEmail
+INFO: Successfully selected the another Subscriber Type from the 'Subscriber Type Drop Down' :
+Sep 27, 2016 2:32:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutEmail
+INFO: Successfully located and clicked on 'Subscriber Save Button'
+Sep 27, 2016 2:32:17 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutEmail
+INFO: Successfully validated Subscriber without Email

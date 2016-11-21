@@ -1,0 +1,6 @@
+Sep 27, 2016 4:20:58 AM com.kodiak.qa.testsuites.CrossCarrierPTTFunctionalityValidation crossCarrier_ValidatingCancelButtonManageIndividualContacts
+INFO: Test Purpose: Validating the 'Cancel' button for 'Manage Individual Contacts' tab
+Sep 27, 2016 4:21:06 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCancelButtonManageIndividualContacts
+INFO: Successfully validated, clicked on 'Cancel' button, in work area
+Sep 27, 2016 4:21:10 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCancelButtonManageIndividualContacts
+INFO: Successfully validated, Master List Help Icon

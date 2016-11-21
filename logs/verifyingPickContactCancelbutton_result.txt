@@ -1,0 +1,24 @@
+Sep 27, 2016 1:32:15 AM com.kodiak.qa.testsuites.DispatcherFunctionalityValidationManageIndividualList verifyingPickContactCancelbutton
+INFO: Test Purpose: Verifying Pick Contact Cancel  Button
+Sep 27, 2016 1:32:24 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactCancelButton
+INFO: Succefully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 27, 2016 1:32:31 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactCancelButton
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702141 
+Sep 27, 2016 1:32:40 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactCancelButton
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 1:32:44 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactCancelButton
+INFO: 'Total Subscriber Record' validation successful. Displayed Text :0
+Sep 27, 2016 1:32:49 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactCancelButton
+INFO: Successfully clicked on 'Assign Contacts' button
+Sep 27, 2016 1:32:52 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactCancelButton
+INFO: Successfully clicked on 'Select All' checkbox
+Sep 27, 2016 1:32:55 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactCancelButton
+INFO: Validated Successfully the 'Max Limit Warning Message :You can add max 50 contacts/members/Sub-Lists at a time. Selected first 50 contacts/members/Sub-Lists for addition
+Sep 27, 2016 1:32:59 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactCancelButton
+INFO: Successfully clicked on 'Max Limit Warning Message OK' button
+Sep 27, 2016 1:33:02 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactCancelButton
+INFO: Successfully clicked on 'Pick Conatcts Popup Cancel' button
+Sep 27, 2016 1:33:02 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactCancelButton
+INFO: 'Total Subscriber Record' validation successful. Displayed Text :0
+Sep 27, 2016 1:33:02 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactCancelButton
+INFO: Successfully Validated the Cancel button. Hence, Before and after Total Count is same :0

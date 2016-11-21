@@ -1,0 +1,22 @@
+Sep 26, 2016 9:14:10 PM com.kodiak.qa.testsuites.GenerateActivationCode validatingverifyGenerateActivationCodeWithMultipleExternalContact
+INFO: Test Purpose: Verifying Generate Activation Code With LMR Group and Other Member
+Sep 26, 2016 9:14:27 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithMultipleExternalContact
+INFO: Succefully clicked on Clear label in the Masterlist DropDown.
+Sep 26, 2016 9:14:43 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithMultipleExternalContact
+INFO: Succefully selected the 'External Contact' from the Masterlist DropDown.
+Sep 26, 2016 9:14:50 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithMultipleExternalContact
+INFO: Successfully located MasterList Search Box and Searched the  External Contact:918772789800
+Sep 26, 2016 9:14:58 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithMultipleExternalContact
+INFO: Successfully selected the External Contact in the MasterList Menu
+Sep 26, 2016 9:14:58 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithMultipleExternalContact
+INFO: Successfully located MasterList Search Box and Searched the External Contact:918772789801
+Sep 26, 2016 9:15:14 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithMultipleExternalContact
+INFO: Successfully selected the External Contact in the MasterList Menu
+Sep 26, 2016 9:15:21 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithMultipleExternalContact
+INFO: Successfully selected 'Generate Activation Code' for Multiple Subscriber
+Sep 26, 2016 9:15:27 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithMultipleExternalContact
+INFO: Successfully got Multiple Generate Activation Code Warning Message:Activation code is not applicable to selected types of subscribers. No activation code is generated.
+Sep 26, 2016 9:15:34 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithMultipleExternalContact
+INFO: Successfully clicked on Multiple Generate Activation Code Warning Message OK button
+Sep 26, 2016 9:15:41 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeWithMultipleExternalContact
+INFO: Successfully clicked on Multiple Subscriber Select CANCEL button in work Area

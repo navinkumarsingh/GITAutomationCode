@@ -1,0 +1,2 @@
+Apr 25, 2016 10:04:17 PM com.kodiak.qa.testsuites.WindowClientProfileValidation windowClient_validatingWindowClientState
+INFO: Test Purpose:  Validating the WindowClient State

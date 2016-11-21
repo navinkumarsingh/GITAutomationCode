@@ -1,0 +1,18 @@
+Sep 26, 2016 8:54:07 PM com.kodiak.qa.testsuites.GenerateActivationCode verifyChangedEmailIdAndSaveButtonAfterClickOnEmailActivationCodeAndEmailSentCancelButton
+INFO: Test Purpose: validating Changed Email Id And Save Button After Click On Email Activation Code And Email Sent Cancel Button
+Sep 26, 2016 8:54:07 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterClickOnEmailActivationCodeAndEmailSentCancelButton
+INFO: Validating Changed Email Id And Save Button After Click On Email Activation Code And Email Sent Cancel Button
+Sep 26, 2016 8:54:23 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterClickOnEmailActivationCodeAndEmailSentCancelButton
+INFO: Succefully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 26, 2016 8:54:38 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterClickOnEmailActivationCodeAndEmailSentCancelButton
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702141 
+Sep 26, 2016 8:54:47 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterClickOnEmailActivationCodeAndEmailSentCancelButton
+INFO: Successfully selected the Dispatcher in the MasterList Menu
+Sep 26, 2016 8:55:01 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterClickOnEmailActivationCodeAndEmailSentCancelButton
+INFO: Successfully cleared existing Subscriber Email  and assigned a New Email:itg@kodiaknetworks.com
+Sep 26, 2016 8:55:08 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterClickOnEmailActivationCodeAndEmailSentCancelButton
+INFO: Successfully clicked on 'Email Activation Code' button for Selected Subscriber in Work Area
+Sep 26, 2016 8:55:16 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterClickOnEmailActivationCodeAndEmailSentCancelButton
+INFO: Successfully clicked on 'Send Mail Cancel' button
+Sep 26, 2016 8:55:20 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyChangedEmailIdAndSaveButtonAfterClickOnEmailActivationCodeAndEmailSentCancelButton
+INFO: Successfully validated, that the new Email has been Updated and 'Subscriber Save Button' is in Disabled state

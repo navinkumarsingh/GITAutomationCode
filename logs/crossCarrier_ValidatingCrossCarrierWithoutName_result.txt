@@ -1,0 +1,14 @@
+Sep 27, 2016 3:37:08 AM com.kodiak.qa.testsuites.CrossCarrierPTTProfileValidation crossCarrier_ValidatingCrossCarrierWithoutName
+INFO: Test Purpose: Verify CrossCarrier Without Name
+Sep 27, 2016 3:37:08 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutName
+INFO: Validating Dispatcher without passing name
+Sep 27, 2016 3:37:12 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutName
+INFO: Successfully Cleared the existing Dispatcher Name
+Sep 27, 2016 3:37:21 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutName
+INFO: Successfully selected the another Subscriber Type from the 'Subscriber Type Drop Down'
+Sep 27, 2016 3:37:29 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutName
+INFO: Successfully selected the another Subscriber Type from the 'Subscriber Type Drop Down'
+Sep 27, 2016 3:37:36 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutName
+INFO: Successfully located and clicked on 'Subscriber Save Button'
+Sep 27, 2016 3:37:44 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberWithoutName
+INFO: Successfully validated Subscriber without Name

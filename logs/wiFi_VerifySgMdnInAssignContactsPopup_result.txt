@@ -1,0 +1,2 @@
+May 05, 2016 3:39:38 PM com.kodiak.qa.testsuites.WiFiClientAssignContactsFilterData wiFi_VerifySgMdnInAssignContactsPopup
+INFO: Test Purpose : Verify the SG-MDN filter available or not in Assign Contacts Pop up for WiFiClient Subscriber

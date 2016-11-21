@@ -1,0 +1,16 @@
+Sep 26, 2016 8:31:26 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactDuplicateError
+INFO: Validating Addition of new External Contact
+Sep 26, 2016 8:31:47 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactDuplicateError
+INFO: Successfully clicked on 'Add External Contact' label in Mater List
+Sep 26, 2016 8:31:51 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactDuplicateError
+INFO: Successfully clicked on  Confirm Pop-up 'OK' button
+Sep 26, 2016 8:31:58 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactDuplicateError
+INFO: Successfully  modified the external contact name:NEW EXTERNAL CONTACT
+Sep 26, 2016 8:32:06 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactDuplicateError
+INFO: Successfully  modified the external contact name:918772789800
+Sep 26, 2016 8:32:13 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactDuplicateError
+INFO: Successfully located and clicked on 'External Contact Add' Button
+Sep 26, 2016 8:32:17 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactDuplicateError
+INFO: Successfully validated External Contact error pop-up Text:Duplicate 918772789800 Please recheck.
+Sep 26, 2016 8:32:24 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactDuplicateError
+INFO: Successfully clicked on External Contact Error Pop-up 'OK' button

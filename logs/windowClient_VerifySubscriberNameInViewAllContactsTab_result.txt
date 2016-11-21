@@ -1,0 +1,6 @@
+Apr 25, 2016 1:40:16 AM com.kodiak.qa.testsuites.WindowClientBasicSearchTestCase windowClient_VerifySubscriberNameInViewAllContactsTab
+INFO: Test Purpose : Search a subscriber Name in View All Contacts Tab
+Apr 25, 2016 1:40:35 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchWorkAreaNameInViewAllContactsTab
+INFO: enter a subscriber name in the search field : AUTOMATION DISPATCHER 2
+Apr 25, 2016 1:40:35 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchWorkAreaNameInViewAllContactsTab
+INFO: 1 item found. got in the search result

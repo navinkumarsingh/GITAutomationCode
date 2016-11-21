@@ -1,0 +1,2 @@
+Sep 27, 2016 2:06:59 AM com.kodiak.qa.testsuites.DispatcherBasicSearchTestCase dispatcher_VerifyContactsSearchAndAfterClrSearchUsingName
+INFO: Test Purpose : verify the total count after searching and after clearing the search using Subscriber Name

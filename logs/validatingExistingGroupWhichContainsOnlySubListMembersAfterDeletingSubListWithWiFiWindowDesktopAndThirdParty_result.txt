@@ -1,0 +1,10 @@
+Sep 23, 2016 5:49:16 PM com.kodiak.qa.testsuites.StandardGroupTestCases validatingExistingGroupWhichContainsOnlySubListMembersAfterDeletingSubListWithWiFiWindowDesktopAndThirdParty
+INFO: Test Purpose: Validation of Existing Group Which Contains Only Sub List Members After Deleting Sub List With Wi-Fi Window Desktop And Third Party
+Sep 23, 2016 5:49:26 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListDeletionWithWiFiWindowDesktopAndThirdParty
+INFO: Validating the Sub List Deletion from Manage Sub List
+Sep 23, 2016 5:49:42 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListDeletionWithWiFiWindowDesktopAndThirdParty
+INFO: Succefully selected 'Manage Sub Lists' in the Navigation Bar
+Sep 23, 2016 5:49:49 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListDeletionWithWiFiWindowDesktopAndThirdParty
+INFO: Successfully located Manage Sub List Search Box and Search the Sub List :AutomationSubList3
+Sep 23, 2016 5:50:00 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListDeletionWithWiFiWindowDesktopAndThirdParty
+INFO: Successfully selected the Sub List in Navigation Area

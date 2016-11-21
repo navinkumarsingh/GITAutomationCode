@@ -1,0 +1,4 @@
+Sep 27, 2016 4:44:04 PM com.kodiak.qa.testsuites.DispatcherManageContactsViaSubListFunctionality dispatcher_validatingSubListDeletion
+INFO: Test Purpose: Verifying Sub Lists Addition
+Sep 27, 2016 4:44:14 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListDeletion
+INFO: Validating the Sub List Deletion from Manage Sub List

@@ -1,0 +1,4 @@
+Sep 27, 2016 3:57:48 AM com.kodiak.qa.testsuites.CrossCarrierPTTManageContactsViaSubListFunctionality crossCarrier_VerifyingSubListstheSubscriberIsMemberofFilterResult
+INFO: Test Purpose: verifying Sub Lists the Subscriber Is Member of Filter Result
+Sep 27, 2016 3:57:48 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListstheSubscriberIsMemberofFilterResult
+INFO: Validating the Sub-Lists the subscriber is member of filter result

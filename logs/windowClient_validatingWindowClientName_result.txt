@@ -1,0 +1,12 @@
+Apr 25, 2016 9:58:16 PM com.kodiak.qa.testsuites.WindowClientProfileValidation windowClient_validatingWindowClientName
+INFO: Test Purpose: Verify Selected WindowClient Name in Work Area
+Apr 25, 2016 9:58:42 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifySubscriberName
+INFO: Successfully selected the 'Window Desktop' from the Masterlist DropDown.
+Apr 25, 2016 9:58:49 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifySubscriberName
+INFO: Successfully located MasterList Search Box and Searched the mdn :919931721816
+Apr 25, 2016 9:58:59 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifySubscriberName
+INFO: Successfully selected the Dispatcher in the MasterList Menu
+Apr 25, 2016 9:58:59 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifySubscriberName
+INFO: Validating the 'Existing Name' present for the selected subscriber
+Apr 25, 2016 9:59:03 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifySubscriberName
+INFO: Dispatcher Name is Validated Successfully :AUTOMATION WINDOW

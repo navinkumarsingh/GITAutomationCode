@@ -1,0 +1,4 @@
+Apr 25, 2016 1:23:14 AM com.kodiak.qa.testsuites.WindowClientFunctionalityValidation windowClient_ValidatingDisabledAdvancedStateOfSearchInputFieldAfterSelectingViewAllContactTab
+INFO: Test Purpose:  Validating the 'Advanced Search Disabled State' when their is no Contacts Present for the Window Client after selecting 'View All Contacts' tab
+Apr 25, 2016 1:23:22 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfAdvanceSearchDisabledForViewAllContacts
+INFO: Successfully validated, 'Advanced Search' icon is located and it is in 'Disabled State'

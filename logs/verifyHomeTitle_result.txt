@@ -1,0 +1,4 @@
+Mar 04, 2016 4:04:29 PM com.kodiak.qa.testsuites.LMT_HEADER verifyHomeTitle
+INFO: Test Purpose: Verify the Home Title
+Mar 04, 2016 4:04:32 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyHomeTitle
+INFO: Successfully Validated the Home Title:Home

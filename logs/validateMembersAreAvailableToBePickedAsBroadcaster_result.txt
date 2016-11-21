@@ -1,0 +1,8 @@
+Sep 23, 2016 5:33:42 PM com.kodiak.qa.testsuites.BroadcastGroup validateMembersAreAvailableToBePickedAsBroadcaster
+INFO: To validate member is not available to be picked as broadcaster
+Sep 23, 2016 5:33:46 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateMembersAreAvailableToBePickedAsBroadcaster
+INFO: Clicking on 'Manage Members' tab
+Sep 23, 2016 5:33:52 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateMembersAreAvailableToBePickedAsBroadcaster
+INFO: Clicking on 'Remove All'
+Sep 23, 2016 5:33:56 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateMembersAreAvailableToBePickedAsBroadcaster
+INFO: Clicking on 'Add Individual Members' button

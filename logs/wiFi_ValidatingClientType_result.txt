@@ -1,0 +1,4 @@
+Sep 27, 2016 2:35:45 AM com.kodiak.qa.testsuites.WiFiClientProfileValidation wiFi_ValidatingClientType
+INFO: Test Purpose:  Validating the WiFi Subscriber Client Type
+Sep 27, 2016 2:35:50 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyClientType
+INFO: 'Client Type' validation successful. Displayed Text :Wi-Fi Only Client

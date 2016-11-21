@@ -1,0 +1,4 @@
+Sep 27, 2016 2:05:58 AM com.kodiak.qa.testsuites.DispatcherBasicSearchTestCase dispatcher_SearchSubscriberPhoneNumberInSubscriberWorkArea
+INFO: Test Purpose : Search a subcriber phone number in Subscriber Work area
+Sep 27, 2016 2:06:08 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchWorkAreaPhoneNumber
+INFO: Failed to Locate Workarea Search

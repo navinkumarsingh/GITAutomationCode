@@ -1,0 +1,2 @@
+Sep 23, 2016 5:34:07 PM com.kodiak.qa.testsuites.BroadcastGroup validateCreatingBroadcastGroupWithoutBroadcaster
+INFO: To validate creating a Broadcast Group without a Broadcaster

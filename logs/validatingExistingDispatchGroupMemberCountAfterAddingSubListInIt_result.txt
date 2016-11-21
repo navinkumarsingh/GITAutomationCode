@@ -1,0 +1,8 @@
+Sep 23, 2016 5:26:38 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingExistingDispatchGroupMemberCountAfterAddingSubListInIt
+INFO: Test Purpose: Validation of Existing Dispatch Group Member Count After Adding Sub List In It
+Sep 23, 2016 5:26:38 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Validating the Sub List Addition in Manage Sub List
+Sep 23, 2016 5:26:56 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Succefully selected 'Manage Sub Lists' in the Navigation Bar
+Sep 23, 2016 5:26:59 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListAddition
+INFO: Succefully selected 'Add New Sub Lists' in the Navigation Bar

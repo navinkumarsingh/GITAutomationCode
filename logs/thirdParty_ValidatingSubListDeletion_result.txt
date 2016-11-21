@@ -1,0 +1,8 @@
+Sep 26, 2016 11:13:01 PM com.kodiak.qa.testsuites.ThirdPartyManageContactsViaSubListFunctionality thirdParty_ValidatingSubListDeletion
+INFO: Test Purpose: Verifying Sub Lists Addition
+Sep 26, 2016 11:13:11 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListDeletion
+INFO: Validating the Sub List Deletion from Manage Sub List
+Sep 26, 2016 11:13:27 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListDeletion
+INFO: Succefully selected 'Manage Sub Lists' in the Navigation Bar
+Sep 26, 2016 11:13:36 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListDeletion
+INFO: Successfully located Manage Sub List Search Box and Search the Sub List :AutomationSubList1

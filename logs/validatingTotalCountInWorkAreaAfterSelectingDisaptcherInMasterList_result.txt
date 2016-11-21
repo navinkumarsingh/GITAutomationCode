@@ -1,0 +1,6 @@
+Sep 27, 2016 1:08:05 AM com.kodiak.qa.testsuites.DispatcherProfileValidation validatingTotalCountInWorkAreaAfterSelectingDisaptcherInMasterList
+INFO: Test Purpose:  Validating the Dispatcher Total Records
+Sep 27, 2016 1:08:15 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountInWorkAreaAfterSelectingSubscriberInMasterList
+INFO: Successfully clicked on Subscriber in MasterList
+Sep 27, 2016 1:08:19 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountInWorkAreaAfterSelectingSubscriberInMasterList
+INFO: 'Total Subscriber Record' validation successful. Displayed Text :0

@@ -1,0 +1,20 @@
+Sep 27, 2016 4:12:29 AM com.kodiak.qa.testsuites.CrossCarrierPTTFunctionalityValidationManageIndividualList crossCarrier_VerifyingStateOfRemovedMDN
+INFO: Test Purpose: Verifying State of Removed MDN
+Sep 27, 2016 4:12:29 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyStateOfRemovedMDN
+INFO: Validating the State of Removed Icon After Save
+Sep 27, 2016 4:12:53 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyStateOfRemovedMDN
+INFO: Successfully clicked on 'Remove Icon'  for searched mdn
+Sep 27, 2016 4:12:57 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyStateOfRemovedMDN
+INFO: Successfully Clicked on Subscriber 'Save' button
+Sep 27, 2016 4:13:10 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyStateOfRemovedMDN
+INFO: Successfully Clicked on Subscriber Save Success OK button
+Sep 27, 2016 4:13:33 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyStateOfRemovedMDN
+INFO: Successfully selected the 'Cross Carrier' from the Master-List DropDown.
+Sep 27, 2016 4:13:40 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyStateOfRemovedMDN
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702491
+Sep 27, 2016 4:14:00 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyStateOfRemovedMDN
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 4:14:04 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyStateOfRemovedMDN
+INFO: Successfully located 'Search by name and phone number' input field and sent the mdn :91988702592
+Sep 27, 2016 4:14:16 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifyStateOfRemovedMDN
+INFO: Successfully validate the searched result. The Searched Result is :0 items found

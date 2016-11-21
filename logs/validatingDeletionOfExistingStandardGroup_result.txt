@@ -1,0 +1,2 @@
+Sep 23, 2016 5:45:12 PM com.kodiak.qa.testsuites.StandardGroupTestCases validatingDeletionOfExistingStandardGroup
+INFO: Test Purpose: Validation for Deletion Of Existing Standard Group

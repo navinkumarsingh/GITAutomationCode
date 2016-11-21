@@ -1,0 +1,2 @@
+Sep 27, 2016 2:07:24 AM com.kodiak.qa.testsuites.DispatcherBasicSearchTestCase dispatcher_VerifySubscriberInManageContactsVisSublist
+INFO: Test Purpose : Search a Sublist Name in Manage Contacts Via Sublist

@@ -1,0 +1,2 @@
+Sep 23, 2016 5:58:26 PM com.kodiak.qa.testsuites.SubListRelatedTestCases SubList_verifytotalMembersCountafterDeletingMember
+INFO: To verify sub-list Total Members Count after removing a member from sublist

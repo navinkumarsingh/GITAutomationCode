@@ -1,0 +1,10 @@
+Sep 27, 2016 2:36:37 AM com.kodiak.qa.testsuites.WiFiClientProfileValidation wiFi_ValidatingWiFiIconToolTip
+INFO: Test Purpose:  Validating the WiFi Icon Tool Tip
+Sep 27, 2016 2:37:01 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberIconToolTip
+INFO: Succefully clicked on Clear label in the Masterlist DropDown.
+Sep 27, 2016 2:37:15 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberIconToolTip
+INFO: Successfully selected the 'Wi Fi' from the Masterlist DropDown.
+Sep 27, 2016 2:37:21 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberIconToolTip
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702591
+Sep 27, 2016 2:37:25 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubscriberIconToolTip
+INFO: 'Wi Fi Icon Tool Tip' validation successful. Displayed Text :Wi-Fi Only Client

@@ -1,0 +1,6 @@
+Sep 27, 2016 2:18:14 AM com.kodiak.qa.testsuites.WiFiClientManageContactsViaSubListFunctionality wiFi_VerifyingPickSubListCancelButtonAfterAllSubListAdded
+INFO: Test Purpose: verifying Sub List Cancel Button after All Sub List added
+Sep 27, 2016 2:18:14 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCancelButtonAfterAllSubListAdded
+INFO: Validating the Pick Sub List Done button after all the sublist added
+Sep 27, 2016 2:18:20 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCancelButtonAfterAllSubListAdded
+INFO: Successfully clicked on 'Pick Sub List Popup Cancel' button

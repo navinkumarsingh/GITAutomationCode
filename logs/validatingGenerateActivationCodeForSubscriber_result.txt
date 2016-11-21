@@ -1,0 +1,20 @@
+Sep 26, 2016 8:39:04 PM com.kodiak.qa.testsuites.GenerateActivationCode validatingGenerateActivationCodeForSubscriber
+INFO: Test Purpose: Validate Generate Activation Code For Subscriber
+Sep 26, 2016 8:39:04 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeForSubscriber
+INFO: Verify Genarate Activation Code for Selected Subscriber
+Sep 26, 2016 8:39:28 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeForSubscriber
+INFO: Succefully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 26, 2016 8:39:42 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeForSubscriber
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702141 
+Sep 26, 2016 8:39:51 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeForSubscriber
+INFO: Successfully selected the Dispatcher in the MasterList Menu
+Sep 26, 2016 8:40:00 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeForSubscriber
+INFO: Successfully Validated the Need Attention title and Displayed Text:Please generate new code
+Sep 26, 2016 8:40:09 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeForSubscriber
+INFO: Successfully selected 'Generate Ativation Code' for the Selected Subscriber' in the work area
+Sep 26, 2016 8:40:18 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeForSubscriber
+INFO: Successfully got the 'Generate Ativation Code' text for the Subscriber in the work area
+Sep 26, 2016 8:40:27 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeForSubscriber
+INFO: Successfully clicked on 'CANCEL' button for 'Generate Activation Code Warning Message'
+Sep 26, 2016 8:40:36 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGenerateActivationCodeForSubscriber
+INFO: Successfully got the 'Ativated Code':8689116

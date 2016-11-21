@@ -1,0 +1,4 @@
+Sep 23, 2016 5:22:46 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingErrorMessageForMaxLimitForDispatchGroup
+INFO: Test Purpose: Validation of Error Message For Max Limit
+Sep 23, 2016 5:23:00 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyErrorMessageForMaxLimit
+INFO: Failed to Validated that Group Contact Count

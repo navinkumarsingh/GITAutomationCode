@@ -1,0 +1,6 @@
+Sep 26, 2016 8:59:36 PM com.kodiak.qa.testsuites.GenerateActivationCode validatingEmailActivationCodeAfterRemovingTheEmailIdFromTheSelectedSubscriberAndAfterClickingOnGenerateActivationCode
+INFO: Test Purpose: validating 'Email Activation Code' Button After Removing The Email Id From The Selected Subscriber And After Clicking On Generate Activation Code
+Sep 26, 2016 8:59:50 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyEmailActivationCodeAfterRemovingTheEmailIdFromTheSelectedSubscriberAndAfterClickingOnGenerateActivationCode
+INFO: Failed to validate 'Email Activation Code' button is Disabled
+Sep 26, 2016 8:59:58 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyEmailActivationCodeAfterRemovingTheEmailIdFromTheSelectedSubscriberAndAfterClickingOnGenerateActivationCode
+INFO: Successfully clicked on 'Cancel' button, in work area

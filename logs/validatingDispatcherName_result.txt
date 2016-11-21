@@ -1,0 +1,10 @@
+Sep 27, 2016 12:56:02 AM com.kodiak.qa.testsuites.DispatcherProfileValidation validatingDispatcherName
+INFO: Test Purpose: Verify Selected Dispatcher Name in Work Area
+Sep 27, 2016 12:56:26 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberName
+INFO: Succefully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 27, 2016 12:56:33 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberName
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702141 
+Sep 27, 2016 12:56:42 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberName
+INFO: Successfully selected the Dispatcher in the MasterList Menu
+Sep 27, 2016 12:56:51 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberName
+INFO: Successfully validated the Dispatcher Name in Work Area:AUTOMATION DISPATCHER 1

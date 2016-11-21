@@ -1,0 +1,10 @@
+Apr 25, 2016 12:27:29 AM com.kodiak.qa.testsuites.WindowClientManageContactsViaSubListFunctionality windowClient_VerifyTotalContactsFor3rdPartyApplFilterUnderViewAllContacts
+INFO: Test Purpose: verifying State Of Sub List Removal Icon after revert back from 'View Groups' tab
+Apr 25, 2016 12:27:29 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalContactsFor3rdPartyApplFilterUnderViewAllContacts
+INFO: verify Total Contacts For 3rd Party Application Filter Under View All Contacts
+Apr 25, 2016 12:27:36 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalContactsFor3rdPartyApplFilterUnderViewAllContacts
+INFO: 'Successfully clicked on 'View All Contacts' tab
+Apr 25, 2016 12:27:45 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalContactsFor3rdPartyApplFilterUnderViewAllContacts
+INFO: 'Successfully selected 'View All Contacts_Third party application Filter'
+Apr 25, 2016 12:27:50 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalContactsFor3rdPartyApplFilterUnderViewAllContacts
+INFO: 'Total Contact after selecting 'View All Contacts_Third party application Filter. Displayed Text :5

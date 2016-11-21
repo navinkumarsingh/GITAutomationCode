@@ -1,0 +1,6 @@
+Sep 27, 2016 2:48:55 AM com.kodiak.qa.testsuites.WiFiClientBasicSearchTestCase verifyingEnableTalkGroupScanningForDispatch
+INFO: Test Purpose: Verifying Enable Talk Group Scanning For Dispatch Group
+Sep 27, 2016 2:48:55 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyEnableTalkGroupScanning
+INFO: Validating Enable Talk Group Scanning for Selected Subscriber
+Sep 27, 2016 2:49:00 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyEnableTalkGroupScanning
+INFO: Successfully validated that 'Enable Talk Group Scanning' is not Present for the Selected Subscriber

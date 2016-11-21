@@ -1,0 +1,26 @@
+Apr 25, 2016 12:30:52 AM com.kodiak.qa.testsuites.WindowClientManageContactsViaSubListFunctionality windowClient_ValidatingSubListDeletion
+INFO: Test Purpose: Verifying Sub Lists Addition
+Apr 25, 2016 12:31:02 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListDeletion
+INFO: Validating the Sub List Deletion from Manage Sub List
+Apr 25, 2016 12:31:18 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListDeletion
+INFO: Succefully selected 'Manage Sub Lists' in the Navigation Bar
+Apr 25, 2016 12:31:26 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListDeletion
+INFO: Successfully located Manage Sub List Search Box and Search the Sub List :AutomationSubList1
+Apr 25, 2016 12:31:36 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListDeletion
+INFO: Successfully selected the Sub List in Navigation Area
+Apr 25, 2016 12:31:45 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListDeletion
+INFO: Successfully click on Delete the Sub List in Work Area
+Apr 25, 2016 12:31:51 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListDeletion
+INFO: Successfully clicked on Sub List Delete 'OK' button
+Apr 25, 2016 12:31:59 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListDeletion
+INFO: Successfully clicked on Sub List Success 'OK' button
+Apr 25, 2016 12:32:06 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListDeletion
+INFO: Successfully located Manage Sub List Search Box and Search the Sub List :AutomationSubList2
+Apr 25, 2016 12:32:16 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListDeletion
+INFO: Successfully selected the Sub List in Navigation Area
+Apr 25, 2016 12:32:21 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListDeletion
+INFO: Successfully click on Delete the Sub List in Work Area
+Apr 25, 2016 12:32:25 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListDeletion
+INFO: Successfully clicked on Sub List Delete 'OK' button
+Apr 25, 2016 12:32:33 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListDeletion
+INFO: Successfully clicked on Sub List Success 'OK' button

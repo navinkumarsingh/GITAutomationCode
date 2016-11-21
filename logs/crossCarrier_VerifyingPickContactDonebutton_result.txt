@@ -1,0 +1,24 @@
+Sep 27, 2016 4:06:22 AM com.kodiak.qa.testsuites.CrossCarrierPTTFunctionalityValidationManageIndividualList crossCarrier_VerifyingPickContactDonebutton
+INFO: Test Purpose: Verifying Pick Contact Done  Button
+Sep 27, 2016 4:06:22 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactDonebutton
+INFO: Validating the Pick Contacts Done Button
+Sep 27, 2016 4:06:26 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactDonebutton
+INFO: 'Total Subscriber Record' validation successful. Displayed Text :0
+Sep 27, 2016 4:06:32 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactDonebutton
+INFO: Successfully clicked on 'Assign Contacts' button
+Sep 27, 2016 4:06:36 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactDonebutton
+INFO: Successfully clicked on 'Select All' checkbox
+Sep 27, 2016 4:06:41 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactDonebutton
+INFO: Validated Successfully the 'Max Limit Warning Message :You can add max 50 contacts/members/Sub-Lists at a time. Selected first 50 contacts/members/Sub-Lists for addition
+Sep 27, 2016 4:06:50 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactDonebutton
+INFO: Successfully clicked on 'Max Limit Warning Message OK' button
+Sep 27, 2016 4:06:54 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactDonebutton
+INFO: Successfully clicked on 'Pick Conatcts Popup DONE' button
+Sep 27, 2016 4:06:58 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactDonebutton
+INFO: 'Total Subscriber Record' validation successful. Displayed Text :50
+Sep 27, 2016 4:07:04 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactDonebutton
+INFO: Successfully clicked on 'Remove All' label
+Sep 27, 2016 4:07:09 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactDonebutton
+INFO: Successfully clicked on 'Save' button
+Sep 27, 2016 4:07:15 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactDonebutton
+INFO: Successfully clicked on success message 'OK' button

@@ -1,0 +1,2 @@
+May 05, 2016 3:39:12 PM com.kodiak.qa.testsuites.WiFiClientAssignContactsFilterData wiFi_VerifyInterOPInAssignContactsPopup
+INFO: Test Purpose : Verify the Inter-op Radios filter available or not in Assign Contacts Pop up for WiFiClient Subscriber

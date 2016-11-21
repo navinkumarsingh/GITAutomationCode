@@ -1,0 +1,4 @@
+Nov 21, 2016 3:29:13 PM com.git.qa.testsuites.gitLoginWithInvalidAndValid launchGITUnsuccessful
+INFO: Test Purpose: GIT Hub Launch
+Nov 21, 2016 3:29:33 PM com.git.qa.test.methods.CommonMethods unsuccessfullLoginToGit
+INFO: 'Failed to Login:Incorrect username or password.

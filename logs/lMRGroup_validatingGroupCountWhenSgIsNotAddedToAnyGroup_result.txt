@@ -1,0 +1,8 @@
+Sep 26, 2016 8:12:49 PM com.kodiak.qa.testsuites.LMRSubscriberAndLMRGroupValidation lMRGroup_validatingGroupCountWhenSgIsNotAddedToAnyGroup
+INFO: Test Purpose: Verifying Group Count When LMR Group Is Not Added To Any Group
+Sep 26, 2016 8:12:57 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupCountWhenLMRGroupIsNotAddedToAnyGroup
+INFO: Validating Group Count under selected LMR Group when it is Not Added To Any Group
+Sep 26, 2016 8:13:07 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupCountWhenLMRGroupIsNotAddedToAnyGroup
+INFO: Successfully selected the LMR Group in the MasterList Menu
+Sep 26, 2016 8:13:11 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupCountWhenLMRGroupIsNotAddedToAnyGroup
+INFO: 'Total Group count:0

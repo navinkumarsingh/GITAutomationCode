@@ -1,0 +1,18 @@
+Sep 27, 2016 4:06:11 PM com.kodiak.qa.testsuites.DispatcherManageContactsViaSubListFunctionality dispatcher_SelectedSubscriberConatctInWorkArea
+INFO: Test Purpose: Verify Selected Subscriber Contacts
+Sep 27, 2016 4:06:11 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods d_verifySelectedSubscriberConatctInWorkArea
+INFO: Verifying Selected Subscriber's Contacts In Work Area Is Zero or Not
+Sep 27, 2016 4:06:26 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods d_verifySelectedSubscriberConatctInWorkArea
+INFO: Succefully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 27, 2016 4:06:56 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods d_verifySelectedSubscriberConatctInWorkArea
+INFO: enter the a subscriber phone number in the search field : 91988702141 
+Sep 27, 2016 4:06:56 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods d_verifySelectedSubscriberConatctInWorkArea
+INFO: 1 item found. got in the search result
+Sep 27, 2016 4:07:11 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods d_verifySelectedSubscriberConatctInWorkArea
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 4:07:11 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods d_verifySelectedSubscriberConatctInWorkArea
+INFO: 'Total Subscriber Record' validation successful. Displayed Text :0
+Sep 27, 2016 4:07:15 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods d_verifySelectedSubscriberConatctInWorkArea
+INFO: 'Total Subscriber Record' validation successful. Displayed Text :0
+Sep 27, 2016 4:07:15 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods d_verifySelectedSubscriberConatctInWorkArea
+INFO: Total Contacts are Zero

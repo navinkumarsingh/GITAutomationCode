@@ -1,0 +1,2 @@
+May 08, 2016 7:05:25 AM com.kodiak.qa.testsuites.ThirdPartyBasicSearchTestCase thirdParty_VerifyGroupInViewGroupsTab
+INFO: Test Purpose : Search a Group Name in View Groups Tab

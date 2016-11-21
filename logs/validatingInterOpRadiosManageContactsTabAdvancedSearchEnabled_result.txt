@@ -1,0 +1,6 @@
+May 29, 2016 1:16:21 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosManageContactsTabAdvancedSearchEnabled
+INFO: Validating Inter Op Radios Manage Contacts Tab Advanced Search Enabled
+May 29, 2016 1:16:39 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosManageContactsTabAdvancedSearchEnabled
+INFO: Successfully clicked on Disapcther 'Manage Contacts' tab in Work Area
+May 29, 2016 1:16:43 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosManageContactsTabAdvancedSearchEnabled
+INFO: Successfully validated, 'Advanced Search' icon is located and it is in 'Enabled State'

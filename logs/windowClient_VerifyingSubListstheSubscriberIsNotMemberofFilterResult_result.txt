@@ -1,0 +1,12 @@
+Apr 25, 2016 12:24:33 AM com.kodiak.qa.testsuites.WindowClientManageContactsViaSubListFunctionality windowClient_VerifyingSubListstheSubscriberIsNotMemberofFilterResult
+INFO: Test Purpose: verifying Sub Lists the Subscriber Is not Member of Filter Result
+Apr 25, 2016 12:24:33 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListstheSubscriberIsNotMemberofFilterResult
+INFO: Validating the Sub-Lists the subscriber is not member of filter result
+Apr 25, 2016 12:24:42 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListstheSubscriberIsNotMemberofFilterResult
+INFO: Successfully located Sub-List all Filter and Selected 'Sub-Lists the subscriber is not member of'
+Apr 25, 2016 12:24:48 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListstheSubscriberIsNotMemberofFilterResult
+INFO: 'Successfully Validating Sub Lists the Subscriber Is not Member of Filter Result :AutomationSubList2                                
+list_test                                         
+Sublist-1                                         
+Sublist-PV-7_8                                    
+AutomationSubList1                                

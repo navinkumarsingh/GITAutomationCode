@@ -1,0 +1,4 @@
+Apr 25, 2016 1:21:21 AM com.kodiak.qa.testsuites.WindowClientFunctionalityValidation windowClient_ValidatingDisabledAllFilterAfterSelectingManageContactsViaSubListTabIfNoConatcts
+INFO: Test Purpose:  Validating the All Filter is in Disabled State when their is no Contacts Present for the Window Client after selecting 'Manage Contacts Via Sub-List'
+Apr 25, 2016 1:21:29 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDisabledAllFilterForSubscriberIfNoContactsForManageContactsViaSublist
+INFO: Successfully validated, 'All Filter' located and it is in 'Disabled State'

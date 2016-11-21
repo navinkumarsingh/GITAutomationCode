@@ -1,0 +1,2 @@
+Sep 27, 2016 4:37:47 AM com.kodiak.qa.testsuites.CrossCarrierPTTBasicSearchTestCase crossCarrier_VerifySubscriberInManageContactsVisSublist
+INFO: Test Purpose : Search a Sublist Name in Manage Contacts Via Sublist

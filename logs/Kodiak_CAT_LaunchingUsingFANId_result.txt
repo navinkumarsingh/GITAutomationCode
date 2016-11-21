@@ -1,0 +1,6 @@
+Nov 08, 2016 7:07:33 PM com.kodiak.qa.testsuites.LMRSubscriberAndLMRGroupValidation Kodiak_CAT_LaunchingUsingFANId
+INFO: Test Purpose: CAT UI Launch using FAN ID
+Nov 08, 2016 7:07:33 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATByCorpIdType
+INFO: Validating Corporation Management Link appeared
+Nov 08, 2016 7:07:53 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATByCorpIdType
+INFO: Failed to Locate Corporation Management Link in Home Page.

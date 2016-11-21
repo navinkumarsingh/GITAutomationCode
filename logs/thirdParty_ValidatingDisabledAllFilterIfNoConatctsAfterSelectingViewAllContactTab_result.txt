@@ -1,0 +1,4 @@
+May 08, 2016 12:45:28 AM com.kodiak.qa.testsuites.ThirdPartyFunctionalityValidation thirdParty_ValidatingDisabledAllFilterIfNoConatctsAfterSelectingViewAllContactTab
+INFO: Test Purpose:  Validating the All Filter is in Disabled State when their is no Contacts Present for the Third Party after selecting 'View All Contacts' tab
+May 08, 2016 12:45:36 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDisabledAllFilterForSubscriberIfNoContactsForViewAllContacts
+INFO: Successfully validated, 'All Filter' located and it is in 'Disabled State'

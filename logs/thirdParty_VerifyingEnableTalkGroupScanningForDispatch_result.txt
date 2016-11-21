@@ -1,0 +1,6 @@
+May 08, 2016 7:06:44 AM com.kodiak.qa.testsuites.ThirdPartyBasicSearchTestCase thirdParty_VerifyingEnableTalkGroupScanningForDispatch
+INFO: Test Purpose: Verifying Enable Talk Group Scanning For Third Party
+May 08, 2016 7:06:44 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyEnableTalkGroupScanning
+INFO: Validating Enable Talk Group Scanning for Selected Subscriber
+May 08, 2016 7:06:48 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyEnableTalkGroupScanning
+INFO: Successfully validated that 'Enable Talk Group Scanning' is not Present for the Selected Subscriber

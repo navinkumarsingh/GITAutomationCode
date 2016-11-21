@@ -1,0 +1,4 @@
+Sep 26, 2016 8:28:50 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactHelpText
+INFO: Validating External Contact Help Text
+Sep 26, 2016 8:28:58 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactHelpText
+INFO: Successfully validated External Contact Help Text:External Contacts - This tool lets you add, update or delete external contacts in your corporation, so that you can share these external contacts with subscribers of your corporation. These subscribers are not part of this corporation but are PoC Subscribers. e.g. partners or vendors of this corporation. These are shown with icon .

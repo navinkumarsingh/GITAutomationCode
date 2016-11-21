@@ -1,0 +1,4 @@
+Sep 27, 2016 3:57:09 AM com.kodiak.qa.testsuites.CrossCarrierPTTManageContactsViaSubListFunctionality crossCarrier_VerifyingPickSubListDoneButtonAfterAllSubListAdded
+INFO: Test Purpose: verifying Sub List Done Button after All Sub List added
+Sep 27, 2016 3:57:09 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListDoneButtonAfterAllSubListAdded
+INFO: Validating the Pick Sub List Done button after all the sublist added

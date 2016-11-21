@@ -1,0 +1,4 @@
+Mar 04, 2016 4:04:38 PM com.kodiak.qa.testsuites.LMT_HEADER verifyRefreshTitle
+INFO: Test Purpose: Verify the Refresh Title
+Mar 04, 2016 4:04:41 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRefreshTitle
+INFO: Successfully Validated the Refresh Title:Refresh

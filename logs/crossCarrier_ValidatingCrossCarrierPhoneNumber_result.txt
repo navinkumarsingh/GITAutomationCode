@@ -1,0 +1,10 @@
+Sep 27, 2016 3:45:31 AM com.kodiak.qa.testsuites.CrossCarrierPTTProfileValidation crossCarrier_ValidatingCrossCarrierPhoneNumber
+INFO: Test Purpose:  Validating the CrossCarrier Phone Number
+Sep 27, 2016 3:45:58 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberPhoneNumber
+INFO: Successfully selected the 'Cross Carrier' from the Master-List DropDown.
+Sep 27, 2016 3:46:07 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberPhoneNumber
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702491
+Sep 27, 2016 3:46:16 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberPhoneNumber
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 3:46:20 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberPhoneNumber
+INFO: 'DISPATCHER PHONE NUMBER' validation successful. Displayed Text :+9-198-870-2491

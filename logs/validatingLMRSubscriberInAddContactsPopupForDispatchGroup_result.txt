@@ -1,0 +1,6 @@
+Sep 23, 2016 5:15:33 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingLMRSubscriberInAddContactsPopupForDispatchGroup
+INFO: Test Purpose: Validation of LMR Subscriber In Add Contacts Popup For Dispatch Group
+Sep 23, 2016 5:15:33 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLMRSubscriberInAddContactsPopupForDispatchGroup
+INFO: The available options in Dropdown are:[Corporate, Corporate-Public, Cross Carrier PTT Client, External, Integrated Mobile Application, Integrated Web Application, Inter-Op Radio, Needs Attention, Wi-Fi Only Client, Windows Desktop Client]
+Sep 23, 2016 5:15:33 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLMRSubscriberInAddContactsPopupForDispatchGroup
+INFO: Successfully validated that 'LMR Subscriber' is not Present in the List

@@ -1,0 +1,6 @@
+Sep 27, 2016 4:39:43 AM com.kodiak.qa.testsuites.CrossCarrierPTTBasicSearchTestCase crossCarrier_VerifyingEnableTalkGroupScanningForDispatch
+INFO: Test Purpose: Verifying Enable Talk Group Scanning For Cross Carrier
+Sep 27, 2016 4:39:43 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyEnableTalkGroupScanning
+INFO: Validating Enable Talk Group Scanning for Selected Subscriber
+Sep 27, 2016 4:39:47 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyEnableTalkGroupScanning
+INFO: Successfully validated that 'Enable Talk Group Scanning' is not Present for the Selected Subscriber

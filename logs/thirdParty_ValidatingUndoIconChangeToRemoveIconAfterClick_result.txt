@@ -1,0 +1,12 @@
+May 08, 2016 12:51:05 AM com.kodiak.qa.testsuites.ThirdPartyFunctionalityValidation thirdParty_ValidatingUndoIconChangeToRemoveIconAfterClick
+INFO: Test Purpose: Validating Undo Icon after Click
+May 08, 2016 12:51:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoIconChangeToDeleteIcon
+INFO: Validating the 'UNDO ICON' change to 'DELETE ICON' 
+May 08, 2016 12:51:13 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoIconChangeToDeleteIcon
+INFO: 'Undo Button Tool Tip' validation successful. Displayed Text :Undo Delete
+May 08, 2016 12:51:18 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoIconChangeToDeleteIcon
+INFO: 'Successfully  clicked on 'UNDO' button
+May 08, 2016 12:51:26 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoIconChangeToDeleteIcon
+INFO: 'Delete Button Tool Tip' validation successful. Displayed Text :Delete
+May 08, 2016 12:51:30 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyUndoIconChangeToDeleteIcon
+INFO: 'Successfully  clicked on 'DELETE' button

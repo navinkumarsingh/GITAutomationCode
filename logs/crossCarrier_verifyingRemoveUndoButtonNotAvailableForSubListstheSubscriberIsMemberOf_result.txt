@@ -1,0 +1,2 @@
+Sep 27, 2016 4:00:00 AM com.kodiak.qa.testsuites.CrossCarrierPTTManageContactsViaSubListFunctionality crossCarrier_verifyingRemoveUndoButtonNotAvailableForSubListstheSubscriberIsMemberOf
+INFO: Test Purpose: Verifying Remove-Undo Button Not Available For Sub Lists the Subscriber Is Member Of

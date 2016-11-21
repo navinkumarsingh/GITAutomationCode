@@ -1,0 +1,4 @@
+Sep 23, 2016 5:44:15 PM com.kodiak.qa.testsuites.StandardGroupTestCases validatingErrorMessageForExistingStandardGroupModifiedAndCreatedWithOneMember
+INFO: Test Purpose: Validation of Error Message For Existing Standard Group Modified and created With One Member
+Sep 23, 2016 5:44:21 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyErrorMessageForExistingStandardGroupModifiedAndCreatedWithOneMember
+INFO: Successfully clicked on 'Manage Individual Members' tab for Selected Group in Work Area

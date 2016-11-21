@@ -1,0 +1,16 @@
+Apr 25, 2016 1:35:18 AM com.kodiak.qa.testsuites.WindowClientBasicSearchTestCase windowClient_SearchSubscriberNameInSubscriberWorkArea
+INFO: Test Purpose : Search a subcriber name in Subscriber Work area for Window Client
+Apr 25, 2016 1:35:25 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchWorkAreaName
+INFO: Successfully clicked on 'Assign Contacts' button
+Apr 25, 2016 1:35:30 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchWorkAreaName
+INFO: Successfully sent the MDN in the 'Pick Contacts Searched Field' :919901721806
+Apr 25, 2016 1:35:34 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchWorkAreaName
+INFO: Successfully clicked on 'Select All' checkbox which will select the Searched MDN :919901721806
+Apr 25, 2016 1:35:39 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchWorkAreaName
+INFO: Successfully validated and Clicked on Done button
+Apr 25, 2016 1:35:43 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchWorkAreaName
+INFO: Got the navigation search box
+Apr 25, 2016 1:35:45 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchWorkAreaName
+INFO: enter a subscriber name in the subscriber work area search field : AUTOMATION DISPATCHER 2
+Apr 25, 2016 1:35:50 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchWorkAreaName
+INFO: 1 item found. got in the search result

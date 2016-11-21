@@ -1,0 +1,2 @@
+Sep 27, 2016 2:05:40 AM com.kodiak.qa.testsuites.DispatcherBasicSearchTestCase dispatcher_SearchSubscriberPhNumber
+INFO: Test Purpose : Search a subcriber phone number in MasterList Search

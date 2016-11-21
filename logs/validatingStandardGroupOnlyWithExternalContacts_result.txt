@@ -1,0 +1,4 @@
+Sep 23, 2016 5:45:49 PM com.kodiak.qa.testsuites.StandardGroupTestCases validatingStandardGroupOnlyWithExternalContacts
+INFO: Test Purpose: Validation of Standard Group Only With External Contacts
+Sep 23, 2016 5:45:59 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStandardGroupOnlyWithExternalContacts
+INFO: Failed to Locate Workarea Search

@@ -1,0 +1,6 @@
+Sep 27, 2016 3:31:24 AM com.kodiak.qa.testsuites.CrossCarrierPTTAssignContactsFilterData crossCarrier_VerifyWifiClientOnAssignContactsPopup
+INFO: Test Purpose : Verify the Wifi Clients in Assign Contacts Pop up for Cross Carrier Client
+Sep 27, 2016 3:31:44 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyWifiClientsCountOnAssignContactsPopup
+INFO: select the drop down to Wifi Contacts in Assign contacts popup
+Sep 27, 2016 3:31:49 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyWifiClientsCountOnAssignContactsPopup
+INFO: Got the search result count : 100 items found.

@@ -1,0 +1,4 @@
+Sep 23, 2016 5:40:50 PM com.kodiak.qa.testsuites.StandardGroupTestCases validatingCreationOfStandardGroupWithOneMember
+INFO: Test Purpose: Validation of Creation of Standard Group
+Sep 23, 2016 5:41:04 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreationOfStandardGroupWithOneMember
+INFO: Failed to Validated that Group Contact Count

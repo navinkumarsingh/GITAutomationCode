@@ -1,0 +1,20 @@
+Apr 25, 2016 12:10:18 AM com.kodiak.qa.testsuites.WindowClientFunctionalityValidationManageIndividualList windowClient_VerifyingStateOfRemoveIconAfterCancelAndOk
+INFO: Test Purpose: Verifying State of Undo Icon Before and After click on Cancel and OK button
+Apr 25, 2016 12:10:18 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyStateOfRemoveIconAfterCancelAndOk
+INFO: Validating the State of Remove Icon After Cancel and Ok
+Apr 25, 2016 12:10:18 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyStateOfRemoveIconAfterCancelAndOk
+INFO: Successfully get the Undo Icon title after clicking on 'Save' and 'Cancel' button :Undo Delete
+Apr 25, 2016 12:10:26 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyStateOfRemoveIconAfterCancelAndOk
+INFO: Successfully clicked on Subscriber Profile 'Cancel' button
+Apr 25, 2016 12:10:30 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyStateOfRemoveIconAfterCancelAndOk
+INFO: Successfully clicked on Subscriber Profile 'OK' button
+Apr 25, 2016 12:10:51 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyStateOfRemoveIconAfterCancelAndOk
+INFO: Successfully selected the 'Window Desktop' from the Master-List DropDown.
+Apr 25, 2016 12:10:55 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyStateOfRemoveIconAfterCancelAndOk
+INFO: Successfully located MasterList Search Box and Searched the mdn :919931721816
+Apr 25, 2016 12:11:00 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyStateOfRemoveIconAfterCancelAndOk
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Apr 25, 2016 12:11:00 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyStateOfRemoveIconAfterCancelAndOk
+INFO: Successfully located 'Search by name and phone number' input field and sent the mdn :919901721806
+Apr 25, 2016 12:11:06 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wd_verifyStateOfRemoveIconAfterCancelAndOk
+INFO: Successfully validated the Undo Icon after clicking on 'Save' and 'Cancel' button :Delete

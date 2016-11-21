@@ -1,0 +1,14 @@
+Sep 27, 2016 4:17:35 PM com.kodiak.qa.testsuites.DispatcherManageContactsViaSubListFunctionality dispatcher_verifyingTotalContactsCountAfterRemovingSubList
+INFO: Test Purpose: verifying Total Contacts Count After Removing SubList
+Sep 27, 2016 4:17:35 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalContactsCountAfterRemovingSubList
+INFO: verify Total Contacts Count after 'Removing a Sub_List' under 'Manage Contacts Via Sub-Lists' tab
+Sep 27, 2016 4:17:43 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalContactsCountAfterRemovingSubList
+INFO: Successfully revert back to the 'Manage Contacts Via SubList' tab in Work Area
+Sep 27, 2016 4:17:48 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalContactsCountAfterRemovingSubList
+INFO: Successfully Validated the Total Contacts count before removing a 'Sub-List' from the list :1
+Sep 27, 2016 4:17:53 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalContactsCountAfterRemovingSubList
+INFO: Successfully validated, 'Search by name and phone number' input field for 'Manage Contacts Via SubList', is located and send the SubList name to search :AutomationSubList2
+Sep 27, 2016 4:17:58 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalContactsCountAfterRemovingSubList
+INFO: Successfully clicked on SubList Remove Icon
+Sep 27, 2016 4:18:03 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalContactsCountAfterRemovingSubList
+INFO: Successfully Validated the Total Contacts count after removing a 'Sub-List' from the list :0

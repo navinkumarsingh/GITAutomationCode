@@ -1,0 +1,12 @@
+Sep 23, 2016 5:41:04 PM com.kodiak.qa.testsuites.StandardGroupTestCases verifyCreationOfStandardGroupWithLMRGroupAndInterOpClient
+INFO: Test Purpose: Validation of Creation for Standard Group with 'LMR Group' and 'Inter-Op Client'
+Sep 23, 2016 5:41:19 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreationOfStandardGroupWithLMRGroupAndInterOpClient
+INFO: Successfully clicked on 'Add Individual Members' button
+Sep 23, 2016 5:41:24 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreationOfStandardGroupWithLMRGroupAndInterOpClient
+INFO: Successfully sent the mdn1 to the 'Assign Contacts Search' field':916100253551
+Sep 23, 2016 5:41:29 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreationOfStandardGroupWithLMRGroupAndInterOpClient
+INFO: Successfully clicked on 'Select All' checkbox
+Sep 23, 2016 5:41:33 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreationOfStandardGroupWithLMRGroupAndInterOpClient
+INFO: Successfully clicked on 'Pick Group Member Done' button
+Sep 23, 2016 5:41:46 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreationOfStandardGroupWithLMRGroupAndInterOpClient
+INFO: Failed to Validated that Group Contact Count is 2

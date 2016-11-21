@@ -1,0 +1,4 @@
+Apr 25, 2016 1:21:33 AM com.kodiak.qa.testsuites.WindowClientFunctionalityValidation windowClient_ValidatingDisabledStateOfSearchInputFieldAfterSelectingManageContactsViaSubListTab
+INFO: Test Purpose:  Validating the 'Search Disabled State' when their is no Contacts Present for the Window Client after selecting 'Manage Contacts Via Sub-List'
+Apr 25, 2016 1:21:42 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSearchDisabledForManageContactsViaSubLists
+INFO: Successfully validated, 'Search by name and phone number' input field for 'Manage Contacts Via SubList', is located and it is in 'Disabled State'

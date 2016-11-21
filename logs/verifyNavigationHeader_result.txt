@@ -1,0 +1,4 @@
+Mar 08, 2016 1:07:44 PM com.kodiak.qa.testsuites.LMT_HEADER verifyNavigationHeader
+INFO: Test Purpose: Verify the Navigation Header text
+Mar 08, 2016 1:07:47 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyNavigationHeader
+INFO: Successfully got the Navigation Header text:Billing Numbers

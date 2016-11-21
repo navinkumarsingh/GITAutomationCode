@@ -1,0 +1,2 @@
+Sep 23, 2016 5:58:36 PM com.kodiak.qa.testsuites.SubListRelatedTestCases SubList_validateDeleteSublist
+INFO: To validate Sub-List deletion and deleted sub-list is not shown under 'Manage Sub-List'

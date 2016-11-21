@@ -1,0 +1,4 @@
+Sep 23, 2016 5:31:56 PM com.kodiak.qa.testsuites.BroadcastGroup verifyBroadcastToDNDIsCheckedByDefault
+INFO: To verify 'Broadcast to DND' is checked by default
+Sep 23, 2016 5:32:00 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyBroadcastToDNDIsCheckedByDefault
+INFO: Successfully verified 'Broadcast to DND' is checked by default

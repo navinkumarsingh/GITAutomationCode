@@ -1,0 +1,2 @@
+Sep 27, 2016 4:37:52 AM com.kodiak.qa.testsuites.CrossCarrierPTTBasicSearchTestCase crossCarrier_VerifySubscriberNameInViewAllContactsTab
+INFO: Test Purpose : Search a subscriber Name in View All Contacts Tab

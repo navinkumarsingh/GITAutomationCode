@@ -1,0 +1,16 @@
+Sep 23, 2016 5:39:46 PM com.kodiak.qa.testsuites.StandardGroupTestCases validatingCreationOfStandardGroupWithoutName
+INFO: Test Purpose: Validation of Creation Of Standard Group Without Name
+Sep 23, 2016 5:40:02 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreationOfStandardGroupWithoutName
+INFO: Successfully clicked on 'Add New Group' tab
+Sep 23, 2016 5:40:10 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreationOfStandardGroupWithoutName
+INFO: Successfully clicked on 'Select Group Type OK' button
+Sep 23, 2016 5:40:19 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreationOfStandardGroupWithoutName
+INFO: Successfully clicked on 'Add Individual Members' button
+Sep 23, 2016 5:40:24 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreationOfStandardGroupWithoutName
+INFO: Successfully sent the mdn1 to the 'Assign Contacts Search' field':915050152070
+Sep 23, 2016 5:40:28 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreationOfStandardGroupWithoutName
+INFO: Successfully clicked on 'Select All' checkbox
+Sep 23, 2016 5:40:32 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreationOfStandardGroupWithoutName
+INFO: Successfully clicked on 'Pick Group Member Done' button
+Sep 23, 2016 5:40:40 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreationOfStandardGroupWithoutName
+INFO: Successfully clicked on 'Group ADD' button

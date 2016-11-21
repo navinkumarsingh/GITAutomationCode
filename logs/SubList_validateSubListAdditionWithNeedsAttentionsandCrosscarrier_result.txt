@@ -1,0 +1,6 @@
+Sep 23, 2016 5:57:06 PM com.kodiak.qa.testsuites.SubListRelatedTestCases SubList_validateSubListAdditionWithNeedsAttentionsandCrosscarrier
+INFO: To validate Sub List Addition with a Need Attention and a Cross Carrier
+Sep 23, 2016 5:57:09 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subList_SubListAdditionWithNeedsAttentionsandCrosscarrier
+INFO: Succefully selected 'Add New Sub Lists' in the Navigation Bar
+Sep 23, 2016 5:57:14 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subList_SubListAdditionWithNeedsAttentionsandCrosscarrier
+INFO: Succefully selected 'Sub List Add Members' in the Work Area

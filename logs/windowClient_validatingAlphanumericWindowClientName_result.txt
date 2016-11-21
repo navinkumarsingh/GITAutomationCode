@@ -1,0 +1,10 @@
+Apr 25, 2016 9:59:47 PM com.kodiak.qa.testsuites.WindowClientProfileValidation windowClient_validatingAlphanumericWindowClientName
+INFO: Test Purpose: Verify Alphanumeric WindowClient Name
+Apr 25, 2016 9:59:54 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyAlphanumericSubscriberName
+INFO: Validating the Subscriber Name Cleared and assigned a New Name
+Apr 25, 2016 10:00:01 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyAlphanumericSubscriberName
+INFO: Successfully Validated the Subscriber after Clearing the existing Dispatcher Name and assigning the new 'Alphanumeric Dispatcher Name' : 12Disp@$
+Apr 25, 2016 10:00:07 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyAlphanumericSubscriberName
+INFO: Successfully Clicked on Subscriber 'Save' button
+Apr 25, 2016 10:00:13 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyAlphanumericSubscriberName
+INFO: Successfully clicked on OK button and validated  the Subscriber after Clearing the existing Subscriber Name and assigning the new 'Alphanumeric Dispatcher Name' : 12Disp@$

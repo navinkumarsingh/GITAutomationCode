@@ -1,0 +1,4 @@
+Sep 23, 2016 5:25:12 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingDispatchGroupAfterChangingTheExistingDispatcherDoesNotGoToNeedAttention
+INFO: Test Purpose: Validation of Dispatch Group After Changing The Existing Dispatcher Does Not Go To Need Attention
+Sep 23, 2016 5:25:20 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatchGroupAfterChangingTheExistingDispatcherDoesNotGoToNeedAttention
+INFO: Successfully clicked on 'Manage Dispatcher Change Button'

@@ -1,0 +1,4 @@
+Sep 23, 2016 5:19:22 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases verifyCreationOfDispatchGroupWithLMRGroupAndCrossCarrier
+INFO: Test Purpose: Validation of Creation for Standard Group with 'LMR Group' and 'Cross Carrier'
+Sep 23, 2016 5:19:38 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreationOfDispatchGroupWithLMRGroupAndCrossCarrier
+INFO: Successfully clicked on 'Add New Group' tab

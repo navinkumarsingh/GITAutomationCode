@@ -1,0 +1,4 @@
+May 08, 2016 12:45:40 AM com.kodiak.qa.testsuites.ThirdPartyFunctionalityValidation thirdParty_ValidatingDisabledStateOfSearchInputFieldAfterSelectingViewAllContactTab
+INFO: Test Purpose:  Validating the 'Search Disabled State' when their is no Contacts Present for the Third Party after selecting 'View All Contacts' tab
+May 08, 2016 12:45:48 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSearchDisabledForViewAllConatcts
+INFO: Successfully validated, 'Search by name and phone number' input field for 'View All Contacts', is located and it is in 'Disabled State'

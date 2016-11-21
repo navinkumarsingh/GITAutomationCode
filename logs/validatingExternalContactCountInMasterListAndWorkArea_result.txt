@@ -1,0 +1,10 @@
+Sep 26, 2016 8:29:05 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactCountInMasterListAndWorkArea
+INFO: Validating External Contact Count
+Sep 26, 2016 8:29:19 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactCountInMasterListAndWorkArea
+INFO: Succefully selected the 'External Contact' from the Masterlist DropDown.
+Sep 26, 2016 8:29:23 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactCountInMasterListAndWorkArea
+INFO: Successfully validated external contact result:2 items found.
+Sep 26, 2016 8:29:27 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactCountInMasterListAndWorkArea
+INFO: validated the external contact result in work area:2
+Sep 26, 2016 8:29:31 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalContactCountInMasterListAndWorkArea
+INFO: External Contact Result in Master List and Work Area are similar:2

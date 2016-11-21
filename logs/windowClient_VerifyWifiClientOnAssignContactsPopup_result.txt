@@ -1,0 +1,6 @@
+Apr 25, 2016 12:39:34 AM com.kodiak.qa.testsuites.WindowClientAssignContactsFilterData windowClient_VerifyWifiClientOnAssignContactsPopup
+INFO: Test Purpose : Verify the Wifi Clients in Assign Contacts Pop up for Window Client
+Apr 25, 2016 12:39:54 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyWifiClientsCountOnAssignContactsPopup
+INFO: select the drop down to Wifi Contacts in Assign contacts popup
+Apr 25, 2016 12:39:59 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyWifiClientsCountOnAssignContactsPopup
+INFO: Got the search result count : 300 items found.

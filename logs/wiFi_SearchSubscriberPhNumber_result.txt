@@ -1,0 +1,8 @@
+Sep 27, 2016 2:44:41 AM com.kodiak.qa.testsuites.WiFiClientBasicSearchTestCase wiFi_SearchSubscriberPhNumber
+INFO: Test Purpose : Search a subcriber phone number in MasterList Search
+Sep 27, 2016 2:45:04 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_searchPhoneNumber
+INFO: Successfully selected the 'Wi Fi' from the Master-List DropDown.
+Sep 27, 2016 2:45:04 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_searchPhoneNumber
+INFO: enter the a subscriber phone number in the search field : 91988702591
+Sep 27, 2016 2:45:14 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_searchPhoneNumber
+INFO: Unable to find the : 91988702591in MasterList navigation serach

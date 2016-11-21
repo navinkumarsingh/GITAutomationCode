@@ -1,0 +1,8 @@
+Sep 23, 2016 5:47:12 PM com.kodiak.qa.testsuites.StandardGroupTestCases validatingCreatingStandardGroupWiFiAndThirdPartyWithThirdPartyAsSupervisor
+INFO: Test Purpose: Validation of Creating Standard Group With Wi Fi And Third Party With Third Party As Supervisor
+Sep 23, 2016 5:47:21 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreatingStandardGroupWithWiFiAndThirdPartyWithThirdPartyAsSupervisor
+INFO: Successfully clicked on 'Add New Group' tab
+Sep 23, 2016 5:47:29 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreatingStandardGroupWithWiFiAndThirdPartyWithThirdPartyAsSupervisor
+INFO: Successfully clicked on 'Select Group Type OK' button
+Sep 23, 2016 5:47:37 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreatingStandardGroupWithWiFiAndThirdPartyWithThirdPartyAsSupervisor
+INFO: Successfully clicked on 'Add Individual Members' button

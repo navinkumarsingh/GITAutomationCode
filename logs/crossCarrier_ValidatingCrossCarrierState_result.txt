@@ -1,0 +1,4 @@
+Sep 27, 2016 3:46:20 AM com.kodiak.qa.testsuites.CrossCarrierPTTProfileValidation crossCarrier_ValidatingCrossCarrierState
+INFO: Test Purpose:  Validating the CrossCarrier State
+Sep 27, 2016 3:46:24 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberState
+INFO: 'Subscriber STATE' validation successful. Displayed Text :Provisioned

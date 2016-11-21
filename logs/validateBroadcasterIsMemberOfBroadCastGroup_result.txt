@@ -1,0 +1,6 @@
+Sep 23, 2016 5:34:46 PM com.kodiak.qa.testsuites.BroadcastGroup validateBroadcasterIsMemberOfBroadCastGroup
+INFO: To validate Broadcaster is a member of Broadcast Group
+Sep 23, 2016 5:34:55 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateBroadcasterIsMemberOfBroadCastGroup
+INFO: Entering group name in search field-> AUTOMATION GROUP
+Sep 23, 2016 5:35:04 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateBroadcasterIsMemberOfBroadCastGroup
+INFO: Selecting the searched group-> AUTOMATION GROUP

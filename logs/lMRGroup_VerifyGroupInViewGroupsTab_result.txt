@@ -1,0 +1,48 @@
+Sep 26, 2016 8:13:15 PM com.kodiak.qa.testsuites.LMRSubscriberAndLMRGroupValidation lMRGroup_VerifyGroupInViewGroupsTab
+INFO: Test Purpose : Search a Group Name in View Groups Tab If LMR Group is a Member 
+Sep 26, 2016 8:13:34 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Manage Groups' tab
+Sep 26, 2016 8:13:43 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Add New Group' tab
+Sep 26, 2016 8:13:47 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully got the Dialog Text:Select Group Type
+Sep 26, 2016 8:13:51 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Succefully selected Dispatch Group in the Filter
+Sep 26, 2016 8:13:56 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Select Group Type OK' button
+Sep 26, 2016 8:14:02 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully sent the mdn1 to the 'Assign Contacts Search' field':91988702141
+Sep 26, 2016 8:14:06 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Pick Dispatcher Individual Member Check Box'
+Sep 26, 2016 8:14:10 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Pick Dispatcher Done' button
+Sep 26, 2016 8:14:14 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Manage Members' tab
+Sep 26, 2016 8:14:21 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Add Individual Members' button
+Sep 26, 2016 8:14:25 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully sent the mdn2 to the 'Assign Contacts Search' field':91988702895
+Sep 26, 2016 8:14:29 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Select All' checkbox
+Sep 26, 2016 8:14:33 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Pick Group Member Done' button
+Sep 26, 2016 8:14:39 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully passed the Group Name to the Field
+Sep 26, 2016 8:14:48 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Group ADD' button
+Sep 26, 2016 8:14:57 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Group Confirm OK' button
+Sep 26, 2016 8:15:07 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Group Success OK' button
+Sep 26, 2016 8:15:16 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on  'Manage MasterList Menu'
+Sep 26, 2016 8:15:24 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods groupCountWhenLMRGroupIsGroupMember
+INFO: Validating Group Count under selected LMR Group when it is member to the Group
+Sep 26, 2016 8:15:43 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods groupCountWhenLMRGroupIsGroupMember
+INFO: Succefully selected the 'LMR Group' from the Masterlist DropDown.
+Sep 26, 2016 8:15:51 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods groupCountWhenLMRGroupIsGroupMember
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702895
+Sep 26, 2016 8:15:59 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods groupCountWhenLMRGroupIsGroupMember
+INFO: Successfully selected the LMR Group in the MasterList Menu
+Sep 26, 2016 8:16:03 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods groupCountWhenLMRGroupIsGroupMember
+INFO: 'Total Group count:1

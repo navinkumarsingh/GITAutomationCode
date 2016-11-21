@@ -1,0 +1,4 @@
+Mar 08, 2016 1:07:31 PM com.kodiak.qa.testsuites.LMT_HEADER launchLMTWithSamlFile
+INFO: Test Purpose: LMT Launch with Saml File
+Mar 08, 2016 1:07:44 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchLMTWithSamlFile
+INFO: Successfully Click on Browser Warning OK Button

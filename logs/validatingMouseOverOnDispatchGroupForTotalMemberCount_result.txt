@@ -1,0 +1,4 @@
+Sep 23, 2016 5:20:16 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingMouseOverOnDispatchGroupForTotalMemberCount
+INFO: Test Purpose: Validation of Total Member Count on Mouse Over On Dispatch Group
+Sep 23, 2016 5:20:16 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyMouseOverOnDispatchGroupForTotalMemberCount
+INFO: Validating the Mouse Over Text on the Dispatch Group For Total Member Count

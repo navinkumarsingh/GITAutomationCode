@@ -1,0 +1,10 @@
+Sep 27, 2016 3:41:36 AM com.kodiak.qa.testsuites.CrossCarrierPTTProfileValidation crossCarrier_ValidatingCrossCarrierEmail
+INFO: Test Purpose: Verify Selected CrossCarrier Email in Work Area
+Sep 27, 2016 3:41:59 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberEmail
+INFO: Successfully selected the 'Cross Carrier' from the Master-List DropDown.
+Sep 27, 2016 3:42:08 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberEmail
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702491
+Sep 27, 2016 3:42:26 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberEmail
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 3:42:30 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods cc_verifySubscriberEmail
+INFO: Dispatcher email is Validated Successfully :itg@kodiaknetworks.com

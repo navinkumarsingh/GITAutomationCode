@@ -1,0 +1,4 @@
+Sep 23, 2016 5:31:16 PM com.kodiak.qa.testsuites.BroadcastGroup verifyExternalIsNotShowninPickBroadcastersWindow
+INFO: To verify External is not shown in 'Pick Broadcasters' window
+Sep 23, 2016 5:31:26 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExternalIsNotShowninPickBroadcastersWindow
+INFO: Validation Successful; 'External' is not shown in Pick Broadcasters window

@@ -1,0 +1,4 @@
+Sep 27, 2016 2:18:41 AM com.kodiak.qa.testsuites.WiFiClientManageContactsViaSubListFunctionality wiFi_VerifyingSubListstheSubscriberIsMemberofFilterResult
+INFO: Test Purpose: verifying Sub Lists the Subscriber Is Member of Filter Result
+Sep 27, 2016 2:18:41 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListstheSubscriberIsMemberofFilterResult
+INFO: Validating the Sub-Lists the subscriber is member of filter result

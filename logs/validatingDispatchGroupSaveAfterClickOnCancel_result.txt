@@ -1,0 +1,4 @@
+Sep 23, 2016 5:23:19 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingDispatchGroupSaveAfterClickOnCancel
+INFO: Test Purpose: Validation Dispatch Group Save After Click On Cancel
+Sep 23, 2016 5:23:28 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDispatchGroupSaveAfterClickOnCancel
+INFO: Successfully clicked on 'Add New Group' tab

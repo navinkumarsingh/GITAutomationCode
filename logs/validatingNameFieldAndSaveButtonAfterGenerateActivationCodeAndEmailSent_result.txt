@@ -1,0 +1,20 @@
+Sep 26, 2016 8:42:09 PM com.kodiak.qa.testsuites.GenerateActivationCode validatingNameFieldAndSaveButtonAfterGenerateActivationCodeAndEmailSent
+INFO: Test Purpose: Validate Name Field and Save Button After Generate Activation Code and Email Sent
+Sep 26, 2016 8:42:09 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyNameFieldAndSaveButtonAfterGenerateActivationCodeAndEmailSent
+INFO: Validating Name Field and Save Button after Generate Activation Code and email sent
+Sep 26, 2016 8:42:30 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyNameFieldAndSaveButtonAfterGenerateActivationCodeAndEmailSent
+INFO: Successfully Validated the Subscriber after Clearing the existing Dispatcher Email and assigning the new 'Dispatcher Email' : AUTOMATION DISPATCHER 1
+Sep 26, 2016 8:42:39 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyNameFieldAndSaveButtonAfterGenerateActivationCodeAndEmailSent
+INFO: Successfully selected 'Generate Activation Code' for the Selected Subscriber' in the work area
+Sep 26, 2016 8:42:48 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyNameFieldAndSaveButtonAfterGenerateActivationCodeAndEmailSent
+INFO: Successfully got the 'Re-Genarate Activation Code' text for the Activated Subscriber' in the work area
+Sep 26, 2016 8:42:57 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyNameFieldAndSaveButtonAfterGenerateActivationCodeAndEmailSent
+INFO: Successfully clicked on 'OK' button for 'Generate Activation Code Warning Message'
+Sep 26, 2016 8:43:06 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyNameFieldAndSaveButtonAfterGenerateActivationCodeAndEmailSent
+INFO: Successfully clicked on 'OK' button for 'Generate Activation Code Warning Message'
+Sep 26, 2016 8:43:15 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyNameFieldAndSaveButtonAfterGenerateActivationCodeAndEmailSent
+INFO: Successfully clicked on 'SEND MAIL' button for 'Send Email with Activation Code Popup'
+Sep 26, 2016 8:43:25 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyNameFieldAndSaveButtonAfterGenerateActivationCodeAndEmailSent
+INFO: Successfully clicked on Success 'OK' button'
+Sep 26, 2016 8:43:29 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyNameFieldAndSaveButtonAfterGenerateActivationCodeAndEmailSent
+INFO: Successfully validated, Name Field has been updated and 'Save Button' is located and it is in 'Disabled State'

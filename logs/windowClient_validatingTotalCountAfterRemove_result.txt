@@ -1,0 +1,10 @@
+Apr 25, 2016 1:27:56 AM com.kodiak.qa.testsuites.WindowClientFunctionalityValidation windowClient_validatingTotalCountAfterRemove
+INFO: Test Purpose: Validating Total Count after Remove
+Apr 25, 2016 1:27:56 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountAfterRemove
+INFO: Validating the Total Count after Remove
+Apr 25, 2016 1:28:00 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountAfterRemove
+INFO: 'Total Count before clicking on Remove button' validation successful. Displayed Text :1
+Apr 25, 2016 1:28:04 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountAfterRemove
+INFO: Successfully clicked on 'Delete' button
+Apr 25, 2016 1:28:08 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountAfterRemove
+INFO: 'Total Count after clicking on Delete button' validation successful. Displayed Text :0

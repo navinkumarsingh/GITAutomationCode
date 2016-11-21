@@ -1,0 +1,4 @@
+Sep 26, 2016 11:12:51 PM com.kodiak.qa.testsuites.ThirdPartyManageContactsViaSubListFunctionality thirdParty_verifyingSubListstheSubscriberIsMemberOfSubListToolTip
+INFO: Test Purpose: verifying Sub Lists the Subscriber Is Member Of Sub List Tool Tip
+Sep 26, 2016 11:12:51 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListstheSubscriberIsMemberOfSubListToolTip
+INFO: verify Sub Lists the Subscriber Is Member Of Sub List Tool Tip

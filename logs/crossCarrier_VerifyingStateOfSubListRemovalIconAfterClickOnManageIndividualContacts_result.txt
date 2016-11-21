@@ -1,0 +1,10 @@
+Sep 27, 2016 3:58:23 AM com.kodiak.qa.testsuites.CrossCarrierPTTManageContactsViaSubListFunctionality crossCarrier_VerifyingStateOfSubListRemovalIconAfterClickOnManageIndividualContacts
+INFO: Test Purpose: verifying State Of Sub List Removal Icon after revert back from 'Manage Incividual Contacts' tab
+Sep 27, 2016 3:58:28 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnManageIndividualContacts
+INFO: 'Successfully clicked on Undo Icon
+Sep 27, 2016 3:58:33 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnManageIndividualContacts
+INFO: 'Before clicking on SubList Remove Icon Tool Tip' validation successful. Displayed Text :Delete
+Sep 27, 2016 3:58:37 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnManageIndividualContacts
+INFO: Successfully clicked on SubList Remove Icon
+Sep 27, 2016 3:58:42 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyStateOfSubListRemovalIconAfterClickOnManageIndividualContacts
+INFO: 'Before switching from 'Manage Individual Conatct' tab 'SubList Remove Icon Tool Tip' validation successful. Displayed Text :Undo Delete

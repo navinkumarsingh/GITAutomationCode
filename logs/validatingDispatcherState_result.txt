@@ -1,0 +1,4 @@
+Sep 27, 2016 1:05:44 AM com.kodiak.qa.testsuites.DispatcherProfileValidation validatingDispatcherState
+INFO: Test Purpose:  Validating the Dispatcher State
+Sep 27, 2016 1:05:49 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberState
+INFO: 'Subscriber STATE' validation successful. Displayed Text :Provisioned

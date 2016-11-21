@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="GIT_HUB" duration-ms="92353" started-at="2016-11-21T09:58:41Z" finished-at="2016-11-21T10:00:13Z">
+    <groups>
+    </groups>
+    <test name="gitLoginWithInvalidAndValid" duration-ms="92353" started-at="2016-11-21T09:58:41Z" finished-at="2016-11-21T10:00:13Z">
+      <class name="com.git.qa.testsuites.gitLoginWithInvalidAndValid">
+        <test-method status="PASS" signature="initFramewotk()[pri:0, instance:com.git.qa.testsuites.gitLoginWithInvalidAndValid@2133c8f8]" name="initFramewotk" is-config="true" duration-ms="8907" started-at="2016-11-21T15:28:41Z" finished-at="2016-11-21T15:28:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initFramewotk -->
+        <test-method status="PASS" signature="launchCAT()[pri:0, instance:com.git.qa.testsuites.gitLoginWithInvalidAndValid@2133c8f8]" name="launchCAT" is-config="true" duration-ms="23218" started-at="2016-11-21T15:28:49Z" finished-at="2016-11-21T15:29:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchCAT -->
+        <test-method status="PASS" signature="loadDataProperties()[pri:0, instance:com.git.qa.testsuites.gitLoginWithInvalidAndValid@2133c8f8]" name="loadDataProperties" is-config="true" duration-ms="0" started-at="2016-11-21T15:29:13Z" finished-at="2016-11-21T15:29:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadDataProperties -->
+        <test-method status="PASS" signature="setupLogger(java.lang.reflect.Method)[pri:0, instance:com.git.qa.testsuites.gitLoginWithInvalidAndValid@2133c8f8]" name="setupLogger" is-config="true" duration-ms="4" started-at="2016-11-21T15:29:13Z" finished-at="2016-11-21T15:29:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.git.qa.testsuites.gitLoginWithInvalidAndValid.launchGITUnsuccessful() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupLogger -->
+        <test-method status="PASS" signature="launchGITUnsuccessful()[pri:1, instance:com.git.qa.testsuites.gitLoginWithInvalidAndValid@2133c8f8]" name="launchGITUnsuccessful" duration-ms="24092" started-at="2016-11-21T15:29:13Z" finished-at="2016-11-21T15:29:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchGITUnsuccessful -->
+        <test-method status="PASS" signature="setupLogger(java.lang.reflect.Method)[pri:0, instance:com.git.qa.testsuites.gitLoginWithInvalidAndValid@2133c8f8]" name="setupLogger" is-config="true" duration-ms="2" started-at="2016-11-21T15:29:37Z" finished-at="2016-11-21T15:29:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.git.qa.testsuites.gitLoginWithInvalidAndValid.launchGITSuccessfully() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupLogger -->
+        <test-method status="PASS" signature="launchGITSuccessfully()[pri:2, instance:com.git.qa.testsuites.gitLoginWithInvalidAndValid@2133c8f8]" name="launchGITSuccessfully" duration-ms="34098" started-at="2016-11-21T15:29:37Z" finished-at="2016-11-21T15:30:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchGITSuccessfully -->
+        <test-method status="PASS" signature="setupLogger(java.lang.reflect.Method)[pri:0, instance:com.git.qa.testsuites.gitLoginWithInvalidAndValid@2133c8f8]" name="setupLogger" is-config="true" duration-ms="1" started-at="2016-11-21T15:30:11Z" finished-at="2016-11-21T15:30:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.git.qa.testsuites.gitLoginWithInvalidAndValid.validatingCloseBrowser() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupLogger -->
+        <test-method status="PASS" signature="validatingCloseBrowser()[pri:3, instance:com.git.qa.testsuites.gitLoginWithInvalidAndValid@2133c8f8]" name="validatingCloseBrowser" duration-ms="2014" started-at="2016-11-21T15:30:11Z" finished-at="2016-11-21T15:30:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingCloseBrowser -->
+      </class> <!-- com.git.qa.testsuites.gitLoginWithInvalidAndValid -->
+    </test> <!-- gitLoginWithInvalidAndValid -->
+  </suite> <!-- GIT_HUB -->
+</testng-results>

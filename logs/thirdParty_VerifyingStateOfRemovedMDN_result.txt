@@ -1,0 +1,20 @@
+May 08, 2016 1:02:32 AM com.kodiak.qa.testsuites.ThirdPartyFunctionalityValidationManageIndividualList thirdParty_VerifyingStateOfRemovedMDN
+INFO: Test Purpose: Verifying State of Removed MDN
+May 08, 2016 1:02:32 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemovedMDN
+INFO: Validating the State of Removed Icon After Save
+May 08, 2016 1:02:46 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemovedMDN
+INFO: Successfully clicked on 'Remove Icon'  for searched mdn
+May 08, 2016 1:02:59 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemovedMDN
+INFO: Successfully Clicked on Subscriber 'Save' button
+May 08, 2016 1:03:12 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemovedMDN
+INFO: Successfully Clicked on Subscriber Save Success OK button
+May 08, 2016 1:03:31 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemovedMDN
+INFO: Successfully selected the 'Third party' from the Master-List DropDown.
+May 08, 2016 1:03:38 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemovedMDN
+INFO: Successfully located MasterList Search Box and Searched the mdn :919900010746
+May 08, 2016 1:03:59 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemovedMDN
+INFO: Successfully selected the Subscriber in the MasterList Menu
+May 08, 2016 1:03:59 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemovedMDN
+INFO: Successfully located 'Search by name and phone number' input field and sent the mdn :919900010561
+May 08, 2016 1:04:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods tp_verifyStateOfRemovedMDN
+INFO: Successfully validate the searched result. The Searched Result is :0 items found

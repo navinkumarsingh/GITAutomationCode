@@ -1,0 +1,12 @@
+Sep 23, 2016 5:45:23 PM com.kodiak.qa.testsuites.StandardGroupTestCases validatingLMRSubscriberInAddContactsPopup
+INFO: Test Purpose: Validation of LMR Subscriber In Add Contacts Popup
+Sep 23, 2016 5:45:32 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLMRSubscriberInAddContactsPopup
+INFO: Successfully clicked on 'Add New Group' tab
+Sep 23, 2016 5:45:40 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLMRSubscriberInAddContactsPopup
+INFO: Successfully clicked on 'Select Group Type OK' button
+Sep 23, 2016 5:45:48 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLMRSubscriberInAddContactsPopup
+INFO: Successfully clicked on 'Add Individual Members' button
+Sep 23, 2016 5:45:49 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLMRSubscriberInAddContactsPopup
+INFO: The available options in Dropdown are:[, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , All, Corporate, Corporate-Public, Cross Carrier PTT Client, External, Integrated Mobile Application, Integrated Web Application, Inter-Op Radio, Needs Attention, Wi-Fi Only Client, Windows Desktop Client, All, Corporate, Corporate-Public, Cross Carrier PTT Client, External, Integrated Mobile Application, Integrated Web Application, Inter-Op Radio, Needs Attention, Wi-Fi Only Client, Windows Desktop Client]
+Sep 23, 2016 5:45:49 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLMRSubscriberInAddContactsPopup
+INFO: Successfully validated that 'LMR Subscriber' is not Present in the List

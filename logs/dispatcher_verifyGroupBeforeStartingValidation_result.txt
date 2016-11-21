@@ -1,0 +1,12 @@
+May 04, 2016 7:26:12 PM com.kodiak.qa.testsuites.DispatcherBasicSearchTestCase dispatcher_verifyGroupBeforeStartingValidation
+INFO: Test Purpose: Verify Sub List in Manage Sub List Menu
+May 04, 2016 7:26:42 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupBeforeStartingValidation
+INFO: Verify Group Before Starting Validation
+May 04, 2016 7:26:59 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupBeforeStartingValidation
+INFO: Successfully clicked on 'Manage Groups' tab
+May 04, 2016 7:26:59 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupBeforeStartingValidation
+INFO: 'Total Group Record' validation successful. Displayed Text :0
+May 04, 2016 7:26:59 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupBeforeStartingValidation
+INFO: No Groups are Present In the 'Manage Groups' Menu
+May 04, 2016 7:27:13 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupBeforeStartingValidation
+INFO: Succefully selected Manage Master List in Navigation Area

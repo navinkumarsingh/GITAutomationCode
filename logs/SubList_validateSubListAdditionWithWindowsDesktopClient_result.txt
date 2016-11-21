@@ -1,0 +1,6 @@
+May 06, 2016 7:44:58 PM com.kodiak.qa.testsuites.SubListRelatedTestCases SubList_validateSubListAdditionWithWindowsDesktopClient
+INFO: To validate Sub List Addition with a Window Desktop Client
+May 06, 2016 7:45:01 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subList_SubListAdditionWithWindowsDesktopClient
+INFO: Succefully selected 'Add New Sub Lists' in the Navigation Bar
+May 06, 2016 7:45:06 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subList_SubListAdditionWithWindowsDesktopClient
+INFO: Succefully selected 'Sub List Add Members' in the Work Area

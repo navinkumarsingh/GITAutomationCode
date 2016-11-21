@@ -1,0 +1,4 @@
+Sep 23, 2016 5:20:57 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingExistingDispatchGroupTotalMemberCount
+INFO: Test Purpose: Validation of Existing Dispatch Group Total Member Count
+Sep 23, 2016 5:21:11 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyExistingDispatchGroupTotalMemberCount
+INFO: Failed to Validated that Group Contact Count

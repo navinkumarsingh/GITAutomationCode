@@ -1,0 +1,8 @@
+May 08, 2016 12:44:40 AM com.kodiak.qa.testsuites.ThirdPartyFunctionalityValidation thirdParty_ValidatingTotalCountInWorkAreaAfterSelectingViewAllContactTabForSubscriberWithNoContacts
+INFO: Test Purpose:  Validating the Total Count in work area after selecting view all contact tab for Third Party after selecting 'View All Contacts' tab
+May 08, 2016 12:45:01 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountForViewAllContactsIfNoContacts
+INFO: Successfully selected the Subscriber in the MasterList Menu
+May 08, 2016 12:45:06 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountForViewAllContactsIfNoContacts
+INFO: Successfully clicked on Subscriber 'View All Contacts' tab in Work Area
+May 08, 2016 12:45:10 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountForViewAllContactsIfNoContacts
+INFO: 'Total Contact after selecting Manage Contact tab for Subscriber' validation successful. Displayed Text :0

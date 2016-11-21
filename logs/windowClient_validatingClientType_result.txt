@@ -1,0 +1,2 @@
+Apr 25, 2016 10:04:37 PM com.kodiak.qa.testsuites.WindowClientProfileValidation windowClient_validatingClientType
+INFO: Test Purpose:  Validating the WindowClient Subscriber Client Type

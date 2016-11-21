@@ -1,0 +1,40 @@
+Sep 27, 2016 1:46:53 AM com.kodiak.qa.testsuites.DispatcherFunctionalityValidation Kodiak_ValidatingRemoveAllMaxLimitWarningMessage
+INFO: Test Purpose: Validating Remove All Max Limit Warning Message
+Sep 27, 2016 1:47:16 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveAllLabel
+INFO: Succefully clicked on Clear label in the Masterlist DropDown.
+Sep 27, 2016 1:47:39 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveAllLabel
+INFO: Succefully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 27, 2016 1:47:47 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveAllLabel
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702141 
+Sep 27, 2016 1:47:58 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveAllLabel
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 1:48:06 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveAllLabel
+INFO: Successfully clicked on 'Assign Contacts' button
+Sep 27, 2016 1:48:11 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveAllLabel
+INFO: Successfully clicked on 'Select All' checkbox
+Sep 27, 2016 1:48:15 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveAllLabel
+INFO: Validated Successfully the 'Max Limit Warning Message :You can add max 50 contacts/members/Sub-Lists at a time. Selected first 50 contacts/members/Sub-Lists for addition
+Sep 27, 2016 1:48:23 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveAllLabel
+INFO: Successfully clicked on 'Max Limit Warning Message OK' button'
+Sep 27, 2016 1:48:28 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveAllLabel
+INFO: Successfully clicked on 'Pick Conatcts Popup DONE' button
+Sep 27, 2016 1:48:36 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveAllLabel
+INFO: Successfully clicked on 'Assign Contacts' button
+Sep 27, 2016 1:48:41 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveAllLabel
+INFO: Successfully clicked on 'Select All' checkbox
+Sep 27, 2016 1:48:45 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveAllLabel
+INFO: Validated Successfully the 'Max Limit Warning Message :You can add max 50 contacts/members/Sub-Lists at a time. Selected first 50 contacts/members/Sub-Lists for addition
+Sep 27, 2016 1:48:49 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveAllLabel
+INFO: Successfully clicked on 'Max Limit Warning Message OK' button'
+Sep 27, 2016 1:48:54 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveAllLabel
+INFO: Successfully clicked on 'Pick Conatcts Popup DONE' button
+Sep 27, 2016 1:48:58 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveAllLabel
+INFO: Successfully clicked on 'Remove All' label
+Sep 27, 2016 1:49:02 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveAllLabel
+INFO: Successfully validated 'Remove Max Limit Warning Message':You can delete max 50 contacts/members/Sub-Lists at a time. Selected first 50 contacts/members/Sub-Lists for deletion
+Sep 27, 2016 1:49:10 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveAllLabel
+INFO: Successfully validated 'Remove Max Limit Warning Message OK' button
+Sep 27, 2016 1:49:14 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveAllLabel
+INFO: Successfully clicked on 'Save' button
+Sep 27, 2016 1:49:23 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyRemoveAllLabel
+INFO: Successfully clicked on success message 'OK' button

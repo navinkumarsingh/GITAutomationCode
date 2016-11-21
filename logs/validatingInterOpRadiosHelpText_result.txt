@@ -1,0 +1,4 @@
+May 29, 2016 1:11:36 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosHelpText
+INFO: Validating Inter Op Radios Help Text
+May 29, 2016 1:11:47 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosHelpText
+INFO: Successfully validated Inter Op Radios Help Text:Inter-Op Radios - These are the subscribers provisioned in the system as Inter-Op donor radios and used towards PoC-LMR Inter-Op communication. They are shown with icon

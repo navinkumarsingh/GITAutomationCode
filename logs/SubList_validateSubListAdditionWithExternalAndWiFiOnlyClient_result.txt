@@ -1,0 +1,28 @@
+Sep 23, 2016 5:54:20 PM com.kodiak.qa.testsuites.SubListRelatedTestCases SubList_validateSubListAdditionWithExternalAndWiFiOnlyClient
+INFO: To validate Sub List Addition with an External and a Wi-Fi Client
+Sep 23, 2016 5:54:24 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subList_SubListAdditionWithExternalAndWiFiOnlyClient
+INFO: Succefully selected 'Sub List Add Members' in the Work Area
+Sep 23, 2016 5:54:45 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subList_SubListAdditionWithExternalAndWiFiOnlyClient
+INFO: Selecting 'External' contacts from the client type filter
+Sep 23, 2016 5:54:50 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subList_SubListAdditionWithExternalAndWiFiOnlyClient
+INFO: Succefully searched 'Automation Sub List1 Member' in Pick Sub List Pop Up search field
+Sep 23, 2016 5:54:54 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subList_SubListAdditionWithExternalAndWiFiOnlyClient
+INFO: Successfully clicked on 'Select All' checkbox
+Sep 23, 2016 5:54:58 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subList_SubListAdditionWithExternalAndWiFiOnlyClient
+INFO: Successfully clicked on 'Pick Sub List Popup' done button
+Sep 23, 2016 5:55:03 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subList_SubListAdditionWithExternalAndWiFiOnlyClient
+INFO: Succefully selected 'Sub List Add Members' in the Work Area
+Sep 23, 2016 5:55:28 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subList_SubListAdditionWithExternalAndWiFiOnlyClient
+INFO: Selecting 'Wi-Fi Only Client' contacts from the client type filter
+Sep 23, 2016 5:55:33 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subList_SubListAdditionWithExternalAndWiFiOnlyClient
+INFO: Succefully searched 'Automation Sub List2 Member' in Pick Sub List Pop Up search field
+Sep 23, 2016 5:55:37 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subList_SubListAdditionWithExternalAndWiFiOnlyClient
+INFO: Successfully clicked on 'Select All' checkbox
+Sep 23, 2016 5:55:41 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subList_SubListAdditionWithExternalAndWiFiOnlyClient
+INFO: Successfully clicked on 'Pick Sub List Popup' done button
+Sep 23, 2016 5:55:46 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subList_SubListAdditionWithExternalAndWiFiOnlyClient
+INFO: Succefully Specify the Sub List Name :Automation Ext & Wifi 
+Sep 23, 2016 5:55:50 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subList_SubListAdditionWithExternalAndWiFiOnlyClient
+INFO: Successfully clicked on 'Save' button
+Sep 23, 2016 5:55:54 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods subList_SubListAdditionWithExternalAndWiFiOnlyClient
+INFO: Successfully clicked on Sub List Confirm 'OK' button

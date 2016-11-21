@@ -1,0 +1,4 @@
+Sep 27, 2016 3:46:42 AM com.kodiak.qa.testsuites.CrossCarrierPTTProfileValidation crossCarrier_ValidatingClientType
+INFO: Test Purpose:  Validating the CrossCarrier Subscriber Client Type
+Sep 27, 2016 3:46:48 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyClientType
+INFO: 'Client Type' validation successful. Displayed Text :Cross Carrier PTT Client

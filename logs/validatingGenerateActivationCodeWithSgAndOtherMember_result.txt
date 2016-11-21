@@ -1,0 +1,2 @@
+May 03, 2016 7:51:07 PM com.kodiak.qa.testsuites.LMRSubscriberAndLMRGroupValidation validatingGenerateActivationCodeWithSgAndOtherMember
+INFO: Test Purpose: Verifying Generate Activation Code With LMR Group and Other Member

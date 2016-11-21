@@ -1,0 +1,6 @@
+Sep 23, 2016 5:35:48 PM com.kodiak.qa.testsuites.BroadcastGroup validatCreatingBroadCastGroupWithSubListAsMembersAnd1Broadcaster
+INFO: To validate creating a Broadcast Group with Sub-List and 1 Broadcaster
+Sep 23, 2016 5:35:52 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateAddingBroadCastGroupWithSubListAnd1Broadcaster
+INFO: Successfully clicked on 'Add' button
+Sep 23, 2016 5:35:56 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateAddingBroadCastGroupWithSubListAnd1Broadcaster
+INFO: Successfully validated Adding BroadCast Group With SubList And 1 Broadcaster

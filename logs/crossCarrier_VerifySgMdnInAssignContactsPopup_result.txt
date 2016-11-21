@@ -1,0 +1,2 @@
+Nov 11, 2015 4:43:55 AM com.kodiak.qa.testsuites.CrossCarrierPTTAssignContactsFilterData crossCarrier_VerifySgMdnInAssignContactsPopup
+INFO: Test Purpose : Verify the SG-MDN filter available or not in Assign Contacts Pop up

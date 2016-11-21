@@ -1,0 +1,6 @@
+Sep 27, 2016 1:57:20 AM com.kodiak.qa.testsuites.DispatcherAssignContactsFilterData Dispatcher_VerifyNeedsAttentionClientOnAssignContacsPopup
+INFO: Test Purpose : Verify the Needs Attention Clients in Assign Contacts Pop up for Dispatcher Subscriber
+Sep 27, 2016 1:57:40 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyNeedsAttentionClientsCountOnAssignContactsPopup
+INFO: select the drop down to Needs Attention Clients Contacts in Assign contacts popup
+Sep 27, 2016 1:57:46 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyNeedsAttentionClientsCountOnAssignContactsPopup
+INFO: Got the search result count : 545 items found.

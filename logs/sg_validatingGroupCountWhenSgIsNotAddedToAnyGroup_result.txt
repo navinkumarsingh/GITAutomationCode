@@ -1,0 +1,4 @@
+Nov 11, 2015 7:14:52 AM com.kodiak.qa.testsuites.SuAndSgPhoneNumberValidation sg_validatingGroupCountWhenSgIsNotAddedToAnyGroup
+INFO: Test Purpose: Verifying Group Count When Sg Is Not Added To Any Group
+Nov 11, 2015 7:15:00 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupCountWhenSgIsNotAddedToAnyGroup
+INFO: Validating Group Count under selected SG when it is Not Added To Any Group

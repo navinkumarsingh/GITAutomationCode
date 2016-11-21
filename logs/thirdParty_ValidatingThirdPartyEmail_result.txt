@@ -1,0 +1,2 @@
+Sep 27, 2016 12:05:26 AM com.kodiak.qa.testsuites.ThirdPartyProfileValidation thirdParty_ValidatingThirdPartyEmail
+INFO: Test Purpose: Verify Selected ThirdParty Email in Work Area

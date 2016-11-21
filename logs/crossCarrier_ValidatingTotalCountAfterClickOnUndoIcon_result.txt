@@ -1,0 +1,16 @@
+Sep 27, 2016 4:29:32 AM com.kodiak.qa.testsuites.CrossCarrierPTTFunctionalityValidation crossCarrier_ValidatingTotalCountAfterClickOnUndoIcon
+INFO: Test Purpose: Validating Total Count after clicking on Undo Icon
+Sep 27, 2016 4:29:32 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountAfterUndoIcon
+INFO: Validating the 'Total Count' after click on 'Undo Icon'
+Sep 27, 2016 4:29:36 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountAfterUndoIcon
+INFO: 'Total Count before clicking on Undo button' validation successful. Displayed Text :0
+Sep 27, 2016 4:29:40 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountAfterUndoIcon
+INFO: 'Successfully  clicked on 'UNDO' button
+Sep 27, 2016 4:29:44 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountAfterUndoIcon
+INFO: 'Total Count after clicking on Undo button' validation successful. Displayed Text :1
+Sep 27, 2016 4:29:48 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountAfterUndoIcon
+INFO: 'Successfully  clicked on 'DELETE' button
+Sep 27, 2016 4:29:53 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountAfterUndoIcon
+INFO: Successfully located and clicked on Subscriber 'Save' Button
+Sep 27, 2016 4:29:58 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountAfterUndoIcon
+INFO: Successfully Clicked on Success message 'OK' button

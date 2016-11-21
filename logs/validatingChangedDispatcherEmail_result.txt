@@ -1,0 +1,22 @@
+Sep 27, 2016 1:02:46 AM com.kodiak.qa.testsuites.DispatcherProfileValidation validatingChangedDispatcherEmail
+INFO: Test purpose: Validating the Dispatcher Name Cleared and assigned a New Name
+Sep 27, 2016 1:03:13 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberEmail
+INFO: Successfully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 27, 2016 1:03:23 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberEmail
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702141 
+Sep 27, 2016 1:03:36 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberEmail
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 1:03:39 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberEmail
+INFO: Dispatcher email is Validated Successfully :
+Sep 27, 2016 1:04:04 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberEmailAfterModification
+INFO: Succefully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 27, 2016 1:04:13 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberEmailAfterModification
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702141 
+Sep 27, 2016 1:04:24 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberEmailAfterModification
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 1:04:31 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberEmailAfterModification
+INFO: Successfully Validated the Subscriber after Clearing the existing Dispatcher Email and assigning the new 'Dispatcher Email' : itg@kodiaknetworks.com
+Sep 27, 2016 1:04:36 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberEmailAfterModification
+INFO: Successfully located and clicked on 'Subscriber Save Button'
+Sep 27, 2016 1:04:42 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberEmailAfterModification
+INFO: Successfully clicked on 'Subscriber Save Button' and validated Assigning new Email for DIspatcher  :itg@kodiaknetworks.com

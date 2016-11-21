@@ -1,0 +1,6 @@
+Sep 27, 2016 3:16:56 AM com.kodiak.qa.testsuites.WiFiClientFunctionalityValidationManageIndividualList wiFi_VerifyingPickContactClosebutton
+INFO: Test Purpose: Verifying Pick Contacts Window Close image
+Sep 27, 2016 3:16:56 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactClosebutton
+INFO: Validating the Pick Contacts Close Button
+Sep 27, 2016 3:17:00 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickContactClosebutton
+INFO: Successfully closed the Pick Contact Pop-Up window

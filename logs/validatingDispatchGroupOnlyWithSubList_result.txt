@@ -1,0 +1,2 @@
+Sep 23, 2016 5:27:56 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingDispatchGroupOnlyWithSubList
+INFO: Test Purpose: Validation of Dispatch Group Only With Sub List

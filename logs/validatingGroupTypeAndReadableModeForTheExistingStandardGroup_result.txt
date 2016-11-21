@@ -1,0 +1,10 @@
+Sep 23, 2016 5:43:22 PM com.kodiak.qa.testsuites.StandardGroupTestCases validatingGroupTypeAndReadableModeForTheExistingStandardGroup
+INFO: Test Purpose: Validation of Group Type and Readable Mode for the Existing Standard Group
+Sep 23, 2016 5:43:22 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupTypeAndReadableModeForTheExistingStandardGroup
+INFO: Successfully entered the Group Name in Groups input field in Group Navigation Area
+Sep 23, 2016 5:43:28 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupTypeAndReadableModeForTheExistingStandardGroup
+INFO: Successfully selected the Individual Group in Manage Group Menu
+Sep 23, 2016 5:43:28 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupTypeAndReadableModeForTheExistingStandardGroup
+INFO: Successfully validated that Group Type is in read Only Mode
+Sep 23, 2016 5:43:33 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupTypeAndReadableModeForTheExistingStandardGroup
+INFO: Group Type is validated successfully:1

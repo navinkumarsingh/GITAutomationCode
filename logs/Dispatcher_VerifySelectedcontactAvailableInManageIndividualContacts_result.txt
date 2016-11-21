@@ -1,0 +1,10 @@
+Sep 27, 2016 1:59:21 AM com.kodiak.qa.testsuites.DispatcherAssignContactsFilterData Dispatcher_VerifySelectedcontactAvailableInManageIndividualContacts
+INFO: Test Purpose : Verify the Added contacts is avaiable or not in Manage Individual Contact
+Sep 27, 2016 1:59:37 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchPhoneNumber
+INFO: Successfully clicked on Clear label in the Masterlist DropDown.
+Sep 27, 2016 1:59:54 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchPhoneNumber
+INFO: Succefully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 27, 2016 1:59:54 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchPhoneNumber
+INFO: enter the a subscriber phone number in the search field : 91988702141 
+Sep 27, 2016 2:00:01 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods searchPhoneNumber
+INFO: 1 item found. got in the search result

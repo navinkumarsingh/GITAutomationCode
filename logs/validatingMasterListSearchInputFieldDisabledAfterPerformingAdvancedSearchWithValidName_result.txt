@@ -1,0 +1,2 @@
+Sep 28, 2016 6:41:13 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyMasterListSearchInputFieldDisabledAfterPerformingAdvancedSearchWithValidName
+INFO: Validating Master List Search Input Field Disabled After Performing Advanced Search With Valid Name

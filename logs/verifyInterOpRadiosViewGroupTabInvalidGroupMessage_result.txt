@@ -1,0 +1,8 @@
+May 29, 2016 1:16:55 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosViewGroupTabInvalidGroupMessage
+INFO: Validating Inter Op Radios View Group Tab Invalid Group Message
+May 29, 2016 1:17:09 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosViewGroupTabInvalidGroupMessage
+INFO: Successfully clicked on 'View Group' tab in Work Area
+May 29, 2016 1:17:17 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosViewGroupTabInvalidGroupMessage
+INFO: Successfully sent the Group name in 'Search by Group Name' in search box :1234523456
+May 29, 2016 1:17:21 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyInterOpRadiosViewGroupTabInvalidGroupMessage
+INFO: 'Successfully Validating the Group count for Inter Op Groups in View Group Filter :0 items found

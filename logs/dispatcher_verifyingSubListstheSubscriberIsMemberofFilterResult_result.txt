@@ -1,0 +1,8 @@
+Sep 27, 2016 4:13:40 PM com.kodiak.qa.testsuites.DispatcherManageContactsViaSubListFunctionality dispatcher_verifyingSubListstheSubscriberIsMemberofFilterResult
+INFO: Test Purpose: verifying Sub Lists the Subscriber Is Member of Filter Result
+Sep 27, 2016 4:13:40 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListstheSubscriberIsMemberofFilterResult
+INFO: Validating the Sub-Lists the subscriber is member of filter result
+Sep 27, 2016 4:13:45 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListstheSubscriberIsMemberofFilterResult
+INFO: Successfully located Sub-List all Filter and Selected 'Sub-Lists the subscriber is member of'
+Sep 27, 2016 4:14:04 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListstheSubscriberIsMemberofFilterResult
+INFO: 'Successfully Validating Sub Lists the Subscriber Is Member of Filter Result :

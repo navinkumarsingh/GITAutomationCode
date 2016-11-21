@@ -1,0 +1,8 @@
+Sep 27, 2016 2:07:38 AM com.kodiak.qa.testsuites.DispatcherBasicSearchTestCase dispatcher_VerifyGroupInViewGroupsTab
+INFO: Test Purpose : Search a Group Name in View Groups Tab
+Sep 27, 2016 2:07:57 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Manage Groups' tab
+Sep 27, 2016 2:08:06 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Add New Group' tab
+Sep 27, 2016 2:08:10 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully got the Dialog Text:Confirm

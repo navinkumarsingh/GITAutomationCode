@@ -1,0 +1,8 @@
+Sep 23, 2016 5:33:30 PM com.kodiak.qa.testsuites.BroadcastGroup validateLMRGroupIsNotShownInPickBroadcasterWindowAfterSelectingAsMember
+INFO: To validate LMR Group is not shown in 'Pick Broadcaster' window after selecting as Member
+Sep 23, 2016 5:33:34 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateLMRGroupIsNotShownInPickBroadcasterWindowAfterSelectingAsMember
+INFO: Clicking on 'Mange Broadcaster' tab
+Sep 23, 2016 5:33:39 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateLMRGroupIsNotShownInPickBroadcasterWindowAfterSelectingAsMember
+INFO: Clicking on 'Assign Broadcaster' button
+Sep 23, 2016 5:33:39 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods validateLMRGroupIsNotShownInPickBroadcasterWindowAfterSelectingAsMember
+INFO: Validation Successful; 'LMR Group' is not shown in 'Pick Broadcaster' window after selecting as member

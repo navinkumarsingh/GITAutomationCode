@@ -1,0 +1,8 @@
+Sep 27, 2016 2:47:13 AM com.kodiak.qa.testsuites.WiFiClientBasicSearchTestCase verifyGroupInViewGroupsTab
+INFO: Test Purpose : Search a Group Name in View Groups Tab
+Sep 27, 2016 2:47:32 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Manage Groups' tab
+Sep 27, 2016 2:47:41 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully clicked on 'Add New Group' tab
+Sep 27, 2016 2:47:45 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods addingGroup
+INFO: Successfully got the Dialog Text:Confirm

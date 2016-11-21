@@ -1,0 +1,10 @@
+Sep 26, 2016 8:47:15 PM com.kodiak.qa.testsuites.GenerateActivationCode validatingEmailActivationCodeAndSendMailForAllEmailIdAvailable
+INFO: Test Purpose: Validate Email Activation Code And Send Mail For All Email Id Available for Selected Subscriber
+Sep 26, 2016 8:47:20 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyEmailActivationCodeAndSendMailForAllEmailIdAvailable
+INFO: Validating Email Activation Code And Send Mail For All Email Id Available for Selected Subscriber
+Sep 26, 2016 8:47:27 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyEmailActivationCodeAndSendMailForAllEmailIdAvailable
+INFO: Successfully clicked on 'Email Activation Code' button for Selected Subscriber in Work Area
+Sep 26, 2016 8:47:36 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyEmailActivationCodeAndSendMailForAllEmailIdAvailable
+INFO: Successfully clicked on 'SEND MAIL' button after clicking on 'Email Activation Code'
+Sep 26, 2016 8:47:45 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyEmailActivationCodeAndSendMailForAllEmailIdAvailable
+INFO: Successfully clicked on Success 'OK' button'

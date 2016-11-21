@@ -1,0 +1,10 @@
+Sep 27, 2016 1:41:52 AM com.kodiak.qa.testsuites.DispatcherFunctionalityValidation Kodiak_ValidatingTotalCountInWorkAreaAfterSelectingDisaptcherWithNoContacts
+INFO: Test Purpose:  Validating the Dispatcher Total Records
+Sep 27, 2016 1:42:19 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountIfNoContacts
+INFO: Succefully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 27, 2016 1:42:29 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountIfNoContacts
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702141 
+Sep 27, 2016 1:42:39 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountIfNoContacts
+INFO: Successfully selected the Subscriber in the MasterList Menu
+Sep 27, 2016 1:42:43 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountIfNoContacts
+INFO: 'Total Subscriber Record' in work area validation successful. Displayed Text :0

@@ -1,0 +1,6 @@
+Sep 27, 2016 3:48:23 AM com.kodiak.qa.testsuites.CrossCarrierPTTProfileValidation crossCarrier_ValidatingTotalCountInWorkAreaAfterSelectingDisaptcherInMasterList
+INFO: Test Purpose:  Validating the CrossCarrier Total Records
+Sep 27, 2016 3:48:33 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountInWorkAreaAfterSelectingSubscriberInMasterList
+INFO: Successfully clicked on Subscriber in MasterList
+Sep 27, 2016 3:48:37 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalCountInWorkAreaAfterSelectingSubscriberInMasterList
+INFO: 'Total Subscriber Record' validation successful. Displayed Text :0

@@ -1,0 +1,10 @@
+Sep 27, 2016 2:49:34 AM com.kodiak.qa.testsuites.WiFiClientBasicSearchTestCase validatingSubListDeletionForContinuation
+INFO: Test Purpose: Verifying Sub Lists Deletion
+Sep 27, 2016 2:49:44 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListDeletion
+INFO: Validating the Sub List Deletion from Manage Sub List
+Sep 27, 2016 2:50:00 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListDeletion
+INFO: Succefully selected 'Manage Sub Lists' in the Navigation Bar
+Sep 27, 2016 2:50:07 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListDeletion
+INFO: Successfully located Manage Sub List Search Box and Search the Sub List :AutomationSubList1
+Sep 27, 2016 2:50:18 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListDeletion
+INFO: Successfully selected the Sub List in Navigation Area

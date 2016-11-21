@@ -1,0 +1,4 @@
+Mar 04, 2016 4:04:13 PM com.kodiak.qa.testsuites.LMT_HEADER verifyKodiakLogo
+INFO: Test Purpose: Verify the Kodiak Logo
+Mar 04, 2016 4:04:16 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyKodiakLogo
+INFO: Successfully Validated the Kodiak Logo

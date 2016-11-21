@@ -1,0 +1,20 @@
+Sep 28, 2016 6:41:54 PM com.kodiak.qa.testsuites.AngularTest Kodiak_CAT_2_LaunchingUsingFANId
+INFO: Test Purpose: CAT UI Launch using FAN ID
+Sep 28, 2016 6:41:54 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATByCorpIdType
+INFO: Validating Corporation Management Link appeared
+Sep 28, 2016 6:42:03 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATByCorpIdType
+INFO: Clicking Corp Mgmt Link
+Sep 28, 2016 6:42:07 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATByCorpIdType
+INFO: Clicking Corp Admin Tool Link
+Sep 28, 2016 6:42:15 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATByCorpIdType
+INFO: Entering Corp ID : 1250
+Sep 28, 2016 6:42:18 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATByCorpIdType
+INFO: Clicking on Go button
+Sep 28, 2016 6:42:32 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATByCorpIdType
+INFO: Selecting FAN Radio button 
+Sep 28, 2016 6:42:33 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATByCorpIdType
+INFO: Selecting FAN content CHeckbox with Value : 1250 
+Sep 28, 2016 6:42:36 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods launchCATByCorpIdType
+INFO: Clicking on Launch button
+Sep 28, 2016 6:42:44 PM com.kodiak.qa.testsuites.AngularTest Kodiak_CAT_2_LaunchingUsingFANId
+INFO: CAT Launched successfully

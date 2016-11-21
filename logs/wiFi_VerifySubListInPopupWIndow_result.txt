@@ -1,0 +1,12 @@
+Sep 27, 2016 2:16:22 AM com.kodiak.qa.testsuites.WiFiClientManageContactsViaSubListFunctionality wiFi_VerifySubListInPopupWIndow
+INFO: Test Purpose: Verifying Sub Lists in Popup Window
+Sep 27, 2016 2:16:22 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubListInPopupWIndow
+INFO: Validating the Dispatcher count for Dispatch Groups in View Group Filter 
+Sep 27, 2016 2:16:31 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubListInPopupWIndow
+INFO: Successfully selected Manage Master List in Navigation Area
+Sep 27, 2016 2:16:52 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubListInPopupWIndow
+INFO: Successfully selected the 'Wi Fi' from the Master-List DropDown.
+Sep 27, 2016 2:16:58 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubListInPopupWIndow
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702591
+Sep 27, 2016 2:17:07 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods wf_verifySubListInPopupWIndow
+INFO: Successfully selected the Dispatcher in the MasterList Menu

@@ -1,0 +1,4 @@
+Sep 27, 2016 3:57:36 AM com.kodiak.qa.testsuites.CrossCarrierPTTManageContactsViaSubListFunctionality crossCarrier_VerifyingPickSubListCloseImageAfterAllSubListAdded
+INFO: Test Purpose: verifying Sub List Cancel Button after All Sub List added
+Sep 27, 2016 3:57:36 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyPickSubListCloseImageAfterAllSubListAdded
+INFO: Validating the Pick Sub List Close image after all the sublist added

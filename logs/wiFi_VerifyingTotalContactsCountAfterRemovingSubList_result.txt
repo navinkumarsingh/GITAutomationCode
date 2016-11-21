@@ -1,0 +1,4 @@
+Sep 27, 2016 2:20:28 AM com.kodiak.qa.testsuites.WiFiClientManageContactsViaSubListFunctionality wiFi_VerifyingTotalContactsCountAfterRemovingSubList
+INFO: Test Purpose: verifying Total Contacts Count After Removing SubList
+Sep 27, 2016 2:20:28 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyTotalContactsCountAfterRemovingSubList
+INFO: verify Total Contacts Count after 'Removing a Sub_List' under 'Manage Contacts Via Sub-Lists' tab

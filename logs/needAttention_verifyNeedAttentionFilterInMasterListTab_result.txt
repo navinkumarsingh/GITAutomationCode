@@ -1,0 +1,6 @@
+May 29, 2016 1:25:20 AM com.kodiak.qa.testsuites.InterOpNeedAttnCATExit needAttention_verifyNeedAttentionFilterInMasterListTab
+INFO: Test Purpose: To verify 'Need Attention' is displayed in 'Manage MasterList' filter
+May 29, 2016 1:25:29 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods NeedAttentionFilterInMasterList
+INFO: Successfully selected 'Manage MasterList' in navigation area
+May 29, 2016 1:25:29 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods NeedAttentionFilterInMasterList
+INFO: Validation Failed; 'Manage MasterList' filter doesn't display 'Need Attention'

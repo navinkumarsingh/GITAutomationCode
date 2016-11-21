@@ -1,0 +1,8 @@
+Sep 23, 2016 5:32:00 PM com.kodiak.qa.testsuites.BroadcastGroup verifyToolTipForTotalMembersCount
+INFO: To verify 'ToolTip' for 'Total Members' count when there are no members
+Sep 23, 2016 5:32:07 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyToolTipForTotalMembersCount
+INFO: Clicking on 'Mange Members' tab
+Sep 23, 2016 5:32:11 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyToolTipForTotalMembersCount
+INFO: Total Members Count is-> Total Members :
+Sep 23, 2016 5:32:26 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyToolTipForTotalMembersCount
+INFO: Failed to validate ToolTip For 'Total Members' count

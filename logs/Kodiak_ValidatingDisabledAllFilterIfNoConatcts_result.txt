@@ -1,0 +1,4 @@
+Sep 27, 2016 1:43:01 AM com.kodiak.qa.testsuites.DispatcherFunctionalityValidation Kodiak_ValidatingDisabledAllFilterIfNoConatcts
+INFO: Test Purpose:  Validating the All Filter is in Disabled State when their is no Contacts Present for the Dispatcher
+Sep 27, 2016 1:43:09 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDisabledAllFilterForSubscriberIfNoContacts
+INFO: Successfully validated, 'All Filter' is located and it is in 'Disabled State'

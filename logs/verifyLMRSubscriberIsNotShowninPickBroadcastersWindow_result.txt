@@ -1,0 +1,4 @@
+Sep 23, 2016 5:31:26 PM com.kodiak.qa.testsuites.BroadcastGroup verifyLMRSubscriberIsNotShowninPickBroadcastersWindow
+INFO: To verify LMR Subscriber is not shown in 'Pick Broadcasters' window
+Sep 23, 2016 5:31:37 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyLMRSubscriberIsNotShowninPickBroadcastersWindow
+INFO: Validation Successful; 'LMR Subscriber' is not shown in Pick Broadcasters window

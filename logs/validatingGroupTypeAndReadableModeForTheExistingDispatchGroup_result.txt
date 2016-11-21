@@ -1,0 +1,6 @@
+Sep 23, 2016 5:20:50 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validatingGroupTypeAndReadableModeForTheExistingDispatchGroup
+INFO: Test Purpose: Validation of Group Type and Readable Mode for the Existing Standard Group
+Sep 23, 2016 5:20:50 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupTypeAndReadableModeForTheExistingDispatchGroup
+INFO: Successfully validated that Group Type is in read Only Mode
+Sep 23, 2016 5:20:55 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyGroupTypeAndReadableModeForTheExistingDispatchGroup
+INFO: Group Type is validated successfully:2

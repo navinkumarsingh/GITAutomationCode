@@ -1,0 +1,4 @@
+Sep 27, 2016 2:21:16 AM com.kodiak.qa.testsuites.WiFiClientManageContactsViaSubListFunctionality wiFi_verifyingSubListstheSubscriberIsMemberOfSubListToolTip
+INFO: Test Purpose: verifying Sub Lists the Subscriber Is Member Of Sub List Tool Tip
+Sep 27, 2016 2:21:16 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubListstheSubscriberIsMemberOfSubListToolTip
+INFO: verify Sub Lists the Subscriber Is Member Of Sub List Tool Tip

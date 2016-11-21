@@ -1,0 +1,4 @@
+Mar 04, 2016 4:04:32 PM com.kodiak.qa.testsuites.LMT_HEADER verifyHelpTitle
+INFO: Test Purpose: Verify the Help Title
+Mar 04, 2016 4:04:35 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyHelpTitle
+INFO: Successfully Validated the Help Title:Help

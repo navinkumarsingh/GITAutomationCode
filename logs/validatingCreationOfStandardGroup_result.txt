@@ -1,0 +1,6 @@
+Sep 23, 2016 5:41:46 PM com.kodiak.qa.testsuites.StandardGroupTestCases validatingCreationOfStandardGroup
+INFO: Test Purpose: Validation of Creation of Standard Group
+Sep 23, 2016 5:41:53 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreationOfStandardGroup
+INFO: Successfully entered the Group Name in Groups input field in Group Navigation Area
+Sep 23, 2016 5:41:59 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreationOfStandardGroup
+INFO: Unable to find the : AUTOMATION STANDARD GROUPin Manage Groups navigation search

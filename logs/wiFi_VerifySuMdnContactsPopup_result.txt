@@ -1,0 +1,6 @@
+Sep 27, 2016 2:56:44 AM com.kodiak.qa.testsuites.WiFiClientAssignContactsFilterData wiFi_VerifySuMdnContactsPopup
+INFO: Test Purpose : Verify the Sumdn Clients in Assign Contacts Pop up for WiFiClient Subscriber
+Sep 27, 2016 2:57:00 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySuMdnsClientOnAssignContacsPopup
+INFO: select the drop down to SuMdn Contacts in Assign contacts popup
+Sep 27, 2016 2:57:05 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySuMdnsClientOnAssignContacsPopup
+INFO: Got the search result count : 200 items found.

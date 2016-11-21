@@ -1,0 +1,10 @@
+Sep 27, 2016 1:07:10 AM com.kodiak.qa.testsuites.DispatcherProfileValidation validatingDispatcherIconToolTip
+INFO: Test Purpose:  Validating the Dispatcher Icon Tool Tip
+Sep 27, 2016 1:07:33 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberIconToolTip
+INFO: Succefully clicked on Clear label in the Masterlist DropDown.
+Sep 27, 2016 1:07:47 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberIconToolTip
+INFO: Succefully selected the 'Dispatcher' from the Masterlist DropDown.
+Sep 27, 2016 1:07:57 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberIconToolTip
+INFO: Successfully located MasterList Search Box and Searched the mdn :91988702141 
+Sep 27, 2016 1:08:01 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifySubscriberIconToolTip
+INFO: 'Dispatcher Icon Tool Tip' validation successful. Displayed Text :Dispatcher

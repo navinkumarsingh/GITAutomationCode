@@ -1,0 +1,4 @@
+May 08, 2016 12:42:12 AM com.kodiak.qa.testsuites.ThirdPartyFunctionalityValidation thirdParty_ValidatingDisabledSaveButtonIfNoConatcts
+INFO: Test Purpose:  Validating the Save button is Disabled when their is no Contacts Present for the Third Party
+May 08, 2016 12:42:20 AM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyDisabledSaveButtonIfNoContacts
+INFO: Successfully validated, 'Save Button' is located and it is in 'Disabled State'

@@ -1,0 +1,10 @@
+Sep 23, 2016 5:16:21 PM com.kodiak.qa.testsuites.DispatchGroupsTestCases validationCreationOfDispatchGroupWithoutName
+INFO: Test Purpose: Validation of Creation Of Dispatch Group Without Name
+Sep 23, 2016 5:16:28 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreationOfDispatchGroupWithoutName
+INFO: Successfully cleared the Name Field
+Sep 23, 2016 5:16:36 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreationOfDispatchGroupWithoutName
+INFO: Successfully clicked on 'Group ADD' button
+Sep 23, 2016 5:16:44 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreationOfDispatchGroupWithoutName
+INFO: 'Name' should have at least one non- space character. got in the Error Message Popup
+Sep 23, 2016 5:16:52 PM com.kodiak.qa.test.kodiak.methods.CATCommonMethods verifyCreationOfDispatchGroupWithoutName
+INFO: Successfully clicked on 'OK' button for Error Message
